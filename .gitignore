@@ -1,0 +1,29 @@
+# dependencies
+node_modules/
+
+# next.js build output
+.next/
+out/
+next-env.d.ts
+tsconfig.tsbuildinfo
+
+# vercel
+.vercel/
+
+# env / secrets (never commit)
+.env
+.env.*
+!.env.example
+
+# scrape cache (raw HTML, large; rebuilt by `npm run scrape`)
+scrape-cache/
+
+# local lead storage in demo mode
+.leads/
+
+# test / tooling output
+test-results/
+playwright-report/
+lighthouse-report/
+*.log
+.DS_Store
