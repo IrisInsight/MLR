@@ -21,6 +21,11 @@ export const viewport: Viewport = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className={`${barlow.variable} ${barlowCondensed.variable}`}>
+      <head>
+        {/* product photos are hot-linked from the live site */}
+        <link rel="preconnect" href="https://www.mlrpackaging.com" />
+        <link rel="dns-prefetch" href="https://www.mlrpackaging.com" />
+      </head>
       <body className="flex min-h-screen flex-col">
         <QuoteProvider>{children}</QuoteProvider>
       </body>

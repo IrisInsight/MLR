@@ -53,6 +53,7 @@ Everything is optional; the app runs in **demo mode** with nothing set (see `.en
 | *(none on Vercel)* | Ask MLR calls `anthropic/claude-sonnet-5.5` through the **Vercel AI Gateway**, authenticated by OIDC automatically. |
 | `AI_GATEWAY_API_KEY` | Same, for non-Vercel hosts. |
 | `ANTHROPIC_API_KEY` | Calls Anthropic directly with `claude-sonnet-5-5` instead (takes precedence). |
+| `AI_MODEL` | Overrides the model id (gateway form, e.g. `anthropic/claude-sonnet-5.5`). Note: the AI Gateway **free tier does not serve Claude Sonnet 5.5** — add gateway credits or set `ANTHROPIC_API_KEY`; until then the chat shows its call/call-back fallback. |
 | `BLOB_READ_WRITE_TOKEN` | Leads and question logs are stored as **private** objects in Vercel Blob. Without it: leads are logged server-side and kept in memory, the user still sees a success message, and `/admin` says “Connect a Blob store to save leads.” |
 | `ADMIN_PASSWORD_SHA256` | SHA-256 hex of the admin password. The repo commits only the hash of the generated concept password. |
 

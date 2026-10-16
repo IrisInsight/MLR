@@ -1,9 +1,20 @@
 "use client";
 
+import dynamic from "next/dynamic";
 import { useCallback, useEffect, useState } from "react";
 import { usePathname } from "next/navigation";
-import { ChatPanel } from "./ChatPanel";
 import { ASK_EVENT, type AskEventDetail } from "@/lib/site";
+
+// The chat panel (AI SDK, zod, markdown) only loads when the bubble is opened, so the
+// ~250 KB of assistant JavaScript never slows down a product or category page.
+const ChatPanel = dynamic(() => import("./ChatPanel").then((m) => m.ChatPanel), {
+  ssr: false,
+  loading: () => (
+    <div className="flex flex-1 items-center justify-center text-sm text-ink-muted">
+      <span className="mr-2 h-2 w-2 animate-pulse rounded-full bg-red" /> Loading Ask MLR…
+    </div>
+  ),
+});
 
 /** Floating "Ask MLR" bubble + panel, mounted on every page. */
 export function ChatWidget() {
