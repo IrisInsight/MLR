@@ -1,0 +1,34 @@
+[
+  {
+    "key": "lumber",
+    "name": "Lumber & Building Materials",
+    "headline": "Lumber yards and truss plants: strap it, cover it, ship it.",
+    "intro": "Lumber units get strapped hard, sit outside, and ride flatbeds. The kit is polyester or steel strapping with heavy-duty edge protectors, lumber covers and bags to keep weather off the stack, truck rope and tarp straps for the ride, and leather gloves for the crew.",
+    "categoryPaths": ["/strapping", "/edge-protectors", "/tarps-and-pallet-covers/lumber-bags-and-covers", "/rope-and-twine", "/gloves/leather", "/tools", "/stretch-film/machine-film"],
+    "featuredSkus": ["64HG220", "37SR382", "42ST222"]
+  },
+  {
+    "key": "metal",
+    "name": "Metal & Steel",
+    "headline": "Fab shops and service centers: steel strapping, seals and the tools that close them.",
+    "intro": "Coils, sheet and structural steel need steel or polyester strapping with the right seals, tensioners and sealers, plus heavy edge protection, cut-resistant and leather gloves, rags and degreasers for the shop, and film or tubing to keep finished parts clean.",
+    "categoryPaths": ["/strapping/steel", "/strapping/steel-strap-seals", "/tools/steel-strapping-tools", "/edge-protectors", "/gloves", "/bags/poly-tubing", "/janitorial/warehouse-maintenance", "/stretch-film"],
+    "featuredSkus": ["37SR382", "42ST222", "63BB222"]
+  },
+  {
+    "key": "food-service",
+    "name": "Food Service",
+    "headline": "Commissaries, caterers and restaurants: gloves, cups, liners and the paper goods that run out first.",
+    "intro": "Food operations buy by the case and reorder weekly. Disposable gloves in every size, cups, plates, napkins and utensils, trash liners for the kitchen, hand soap and towels for the restroom, and cleaners that cut grease — delivered on our own trucks.",
+    "categoryPaths": ["/gloves/disposable", "/janitorial/breakroom", "/janitorial/trash-liners", "/janitorial/paper-towels", "/janitorial/soap-and-dispensers", "/janitorial/chemicals", "/bags"],
+    "featuredSkus": ["63BB222", "99LT222"]
+  },
+  {
+    "key": "janitorial",
+    "name": "Janitorial & Facilities",
+    "headline": "Facilities and cleaning crews: everything on the cart, one delivery.",
+    "intro": "Liners, towels and tissue, soap and dispensers, cleaners and chemicals, mops, brooms and floor sweep, spray bottles, wipers and rags — plus safety basics like gloves, masks and vests. Standing orders get our best pricing.",
+    "categoryPaths": ["/janitorial", "/janitorial/trash-liners", "/janitorial/paper-towels", "/janitorial/toilet-paper", "/janitorial/chemicals", "/janitorial/equipment", "/safety", "/gloves/disposable"],
+    "featuredSkus": ["99LT222", "63BB222"]
+  }
+]

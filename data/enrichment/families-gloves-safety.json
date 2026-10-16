@@ -1,0 +1,192 @@
+{
+  "/gloves": {
+    "summary": "Work and disposable gloves for every job: nitrile, latex, vinyl and poly disposables; cotton, string-knit and coated-palm work gloves; PVC and rubber dipped; leather palm, driver, mechanics and welding gloves.",
+    "useCases": ["Warehouse and shipping", "Food handling and prep", "Chemical and wet work", "Metal, lumber and construction", "Janitorial"],
+    "searchTerms": ["gloves", "work gloves", "hand protection", "disposable gloves", "rubber gloves", "white gloves", "gloves by the case"],
+    "keyQuestions": ["What are you handling — food, chemicals, sharp metal, wet product?", "Worn for minutes (disposable) or a full shift (work glove)?", "Sizes on the crew and how many pairs a week?"],
+    "complementary": { "categories": ["/safety/safety-glasses-and-goggles", "/safety/face-masks", "/janitorial/wipers", "/safety/safety-vests"], "max": 4 }
+  },
+  "/gloves/disposable": {
+    "summary": "Disposable gloves sold by the case (10 boxes of 100): nitrile for puncture and chemical resistance, latex for feel, vinyl and poly for economy and food handling, chloroprene as a latex-free premium option.",
+    "useCases": ["Food prep and service", "Janitorial and cleaning", "Light assembly and painting", "Medical, dental and lab work", "Automotive and shop"],
+    "searchTerms": ["disposable gloves", "nitrile gloves", "latex gloves", "vinyl gloves", "exam gloves", "food service gloves", "powder free gloves", "gloves 100 per box", "black nitrile", "blue nitrile"],
+    "keyQuestions": ["Nitrile, latex, vinyl or poly?", "Industrial or exam grade?", "Sizes and cases per month?"],
+    "complementary": { "categories": ["/safety/face-masks", "/safety/hair-nets-and-beard-covers", "/janitorial/soap-and-dispensers", "/janitorial/wipers", "/safety/aprons-and-back-support"], "max": 5 }
+  },
+  "/gloves/disposable/nitrile": {
+    "summary": "Nitrile gloves are the all-round disposable: puncture-resistant, chemical-resistant and latex-free, in industrial and exam grades, powder-free and textured for grip. Sold by the case of 10 boxes.",
+    "useCases": ["Food processing and kitchens", "Automotive, painting and chemicals", "Janitorial", "Medical and lab (exam grade)"],
+    "searchTerms": ["nitrile gloves", "blue nitrile gloves", "black nitrile gloves", "white nitrile", "industrial nitrile", "exam nitrile gloves", "latex free gloves", "powder free nitrile", "4 mil nitrile", "6 mil nitrile"],
+    "keyQuestions": ["Industrial or exam grade?", "Thickness (3–8 mil) and color?", "Sizes S–XXL and cases per month?"],
+    "complementary": { "categories": ["/safety/face-masks", "/janitorial/wipers", "/janitorial/soap-and-dispensers/hand-soap", "/safety/hair-nets-and-beard-covers", "/gloves/disposable/vinyl"], "max": 5 }
+  },
+  "/gloves/disposable/latex": {
+    "summary": "Latex gloves give the best fit, stretch and tactile feel of any disposable — ideal where dexterity matters and latex allergies aren't a concern.",
+    "useCases": ["Detail assembly and inspection", "Janitorial", "Food handling (where allowed)", "Medical and dental"],
+    "searchTerms": ["latex gloves", "rubber gloves disposable", "powdered latex gloves", "powder free latex", "exam latex gloves", "white latex gloves"],
+    "keyQuestions": ["Powdered or powder-free?", "Industrial or exam grade?", "Sizes and cases per month?"],
+    "complementary": { "categories": ["/gloves/disposable/nitrile", "/safety/face-masks", "/janitorial/wipers", "/janitorial/soap-and-dispensers/hand-soap"], "max": 4 }
+  },
+  "/gloves/disposable/vinyl": {
+    "summary": "Vinyl gloves are the economy disposable for low-risk, short tasks — food prep, light cleaning, serving — latex-free and loose-fitting for quick changes.",
+    "useCases": ["Food prep and serving", "Light janitorial", "Hair and beauty", "Quick change tasks"],
+    "searchTerms": ["vinyl gloves", "clear gloves", "food prep gloves", "cheap disposable gloves", "powder free vinyl"],
+    "keyQuestions": ["Powdered or powder-free?", "Sizes and cases per month?"],
+    "complementary": { "categories": ["/gloves/disposable/poly-gloves", "/safety/hair-nets-and-beard-covers", "/janitorial/breakroom", "/safety/aprons-and-back-support"], "max": 4 }
+  },
+  "/gloves/disposable/poly-gloves": {
+    "summary": "Poly (polyethylene) gloves are the cheapest food-handling glove: loose, quick to put on and throw away between tasks.",
+    "useCases": ["Sandwich and deli lines", "Food sampling and serving", "Quick tasks between hand washing"],
+    "searchTerms": ["poly gloves", "food handling gloves", "deli gloves", "plastic gloves", "polyethylene gloves", "sandwich gloves"],
+    "keyQuestions": ["Sizes?", "Boxes or cases per month?"],
+    "complementary": { "categories": ["/safety/hair-nets-and-beard-covers", "/gloves/disposable/vinyl", "/janitorial/breakroom/napkins", "/safety/aprons-and-back-support"], "max": 4 }
+  },
+  "/gloves/disposable/chloroprene": {
+    "summary": "Chloroprene (neoprene) disposable gloves combine latex-like comfort with nitrile-like chemical resistance, with no latex proteins.",
+    "useCases": ["Labs and healthcare with latex allergies", "Chemical handling", "Long-wear disposable use"],
+    "searchTerms": ["chloroprene gloves", "neoprene disposable gloves", "latex free exam gloves", "chemical resistant disposable gloves"],
+    "keyQuestions": ["Sizes and cases per month?"],
+    "complementary": { "categories": ["/gloves/disposable/nitrile", "/safety/face-masks", "/safety/coverall-and-lab-coats"], "max": 3 }
+  },
+  "/gloves/cotton": {
+    "summary": "Cotton and jersey work gloves: inexpensive, breathable gloves for light handling, keeping hands clean and liner use — canvas, jersey, lisle, hot mill and chore styles.",
+    "useCases": ["Light material handling", "Inspection and clean handling", "Glove liners", "Hot mill work"],
+    "searchTerms": ["cotton gloves", "jersey gloves", "canvas gloves", "chore gloves", "hot mill gloves", "lisle gloves", "inspection gloves", "cheap work gloves"],
+    "keyQuestions": ["Light handling or heat?", "Dozen pairs per order?"],
+    "complementary": { "categories": ["/gloves/string-knit", "/safety/safety-glasses-and-goggles", "/gloves/palm-dipped"], "max": 3 }
+  },
+  "/gloves/supported": {
+    "summary": "Supported gloves are fully coated — PVC, rubber or nitrile over a fabric liner — for wet, oily, abrasive and chemical work.",
+    "useCases": ["Wet and oily handling", "Chemical and solvent work", "Fish, poultry and food processing", "Concrete and masonry"],
+    "searchTerms": ["pvc gloves", "dipped gloves", "rubber coated gloves", "chemical gloves", "waterproof gloves", "nitrile coated gloves", "double dipped pvc"],
+    "keyQuestions": ["Chemicals or oils involved?", "Gauntlet length (10\", 12\", 14\", 18\")?", "Rough or smooth finish?"],
+    "complementary": { "categories": ["/safety/aprons-and-back-support", "/safety/safety-glasses-and-goggles", "/safety/sleeves", "/safety/rainwear"], "max": 4 }
+  },
+  "/gloves/unsupported": {
+    "summary": "Unsupported gloves are solid rubber, neoprene, latex or nitrile with no fabric liner — the flexible choice for chemical handling and cleaning.",
+    "useCases": ["Chemical and cleaning", "Dishwashing and janitorial", "Food processing"],
+    "searchTerms": ["rubber gloves", "neoprene gloves", "latex household gloves", "nitrile unsupported gloves", "chemical resistant gloves", "dishwashing gloves"],
+    "keyQuestions": ["Chemicals involved?", "Flock lined?", "Sizes?"],
+    "complementary": { "categories": ["/janitorial/chemicals", "/safety/aprons-and-back-support", "/safety/safety-glasses-and-goggles"], "max": 3 }
+  },
+  "/gloves/string-knit": {
+    "summary": "String-knit gloves are the warehouse workhorse: seamless knit cotton/poly with optional coated palms for grip on boxes, lumber and parts, sold by the dozen.",
+    "useCases": ["Warehouse and shipping", "Box and parts handling", "Lumber yards", "General labor"],
+    "searchTerms": ["string knit gloves", "knit gloves", "warehouse gloves", "pvc dot gloves", "coated knit gloves", "cheap work gloves dozen"],
+    "keyQuestions": ["Plain or coated (PVC dots / palm coated)?", "Weight (regular or heavy)?", "Dozens per month?"],
+    "complementary": { "categories": ["/stretch-film/hand-film/cast", "/safety/safety-glasses-and-goggles", "/gloves/palm-dipped", "/safety/safety-vests"], "max": 4 }
+  },
+  "/gloves/palm-dipped": {
+    "summary": "Palm-dipped gloves put a latex, nitrile or PU coating on a knit liner for a snug fit, grip and dexterity; cut-resistant versions for sheet metal and blades.",
+    "useCases": ["Assembly and parts handling", "Sheet metal (cut-resistant)", "Construction and lumber", "Shipping and receiving"],
+    "searchTerms": ["palm dipped gloves", "nitrile coated gloves", "latex coated gloves", "pu coated gloves", "cut resistant gloves", "cut level gloves", "atlas gloves", "grip gloves"],
+    "keyQuestions": ["Coating: latex (grip), nitrile (oil), PU (dexterity)?", "Cut resistance needed?", "Sizes and dozens per month?"],
+    "complementary": { "categories": ["/safety/safety-glasses-and-goggles", "/gloves/string-knit", "/safety/sleeves", "/strapping/steel/regular-duty"], "max": 4 }
+  },
+  "/gloves/leather": {
+    "summary": "Leather gloves for heavy work: leather palm and double palm for strapping and lumber, lined leather for cold, and driver gloves for equipment and trucks.",
+    "useCases": ["Steel strapping and baling wire", "Lumber and construction", "Truck and forklift drivers", "Cold-weather handling"],
+    "searchTerms": ["leather gloves", "leather palm gloves", "driver gloves", "leather work gloves", "double palm gloves", "lined leather gloves", "cowhide gloves"],
+    "keyQuestions": ["Palm, double palm, driver or lined?", "Sizes and dozens per month?"],
+    "complementary": { "categories": ["/strapping/steel/regular-duty", "/safety/safety-glasses-and-goggles", "/safety/safety-vests", "/edge-protectors/heavy-duty-edge-protectors"], "max": 4 }
+  },
+  "/gloves/mechanics": {
+    "summary": "Mechanics gloves: synthetic leather palms with stretch backs for grip, dexterity and knuckle protection around equipment.",
+    "useCases": ["Maintenance and mechanics", "Equipment operators", "Tool work"],
+    "searchTerms": ["mechanics gloves", "mechanic gloves", "synthetic leather gloves", "equipment gloves"],
+    "keyQuestions": ["Sizes?", "Pairs per order?"],
+    "complementary": { "categories": ["/safety/safety-glasses-and-goggles", "/janitorial/warehouse-maintenance/rags"], "max": 3 }
+  },
+  "/gloves/welding": {
+    "summary": "Welding gloves: heavy leather with heat-resistant lining and long cuffs for welding, cutting and hot work.",
+    "useCases": ["Welding and cutting", "Foundry and hot work", "Handling hot parts"],
+    "searchTerms": ["welding gloves", "welders gloves", "heat resistant gloves", "mig gloves", "stick welding gloves"],
+    "keyQuestions": ["MIG/stick (heavy) or TIG (dexterity)?", "Pairs per order?"],
+    "complementary": { "categories": ["/safety/safety-glasses-and-goggles", "/safety/sleeves", "/safety/aprons-and-back-support"], "max": 3 }
+  },
+
+  "/safety": {
+    "summary": "Personal protective equipment for the floor: hearing protection, safety glasses and goggles, hard hats, face masks, hair nets and beard covers, hi-vis vests, aprons and back supports, rainwear, coveralls and lab coats, sleeves, shoe covers and boots.",
+    "useCases": ["Warehouse and manufacturing PPE", "Food plant hygiene", "Construction and job sites", "Visitor and contractor kits"],
+    "searchTerms": ["safety", "ppe", "safety supplies", "safety equipment", "protective gear", "safety gear", "personal protective equipment"],
+    "keyQuestions": ["Which hazard: noise, impact, dust, visibility, hygiene?", "How many people, and is it disposable or reusable?"],
+    "complementary": { "categories": ["/gloves/disposable/nitrile", "/gloves/string-knit", "/janitorial/soap-and-dispensers/hand-soap"], "max": 3 }
+  },
+  "/safety/ear-protection": {
+    "summary": "Hearing protection: disposable foam ear plugs (corded and uncorded) and ear muffs rated by NRR for noisy floors and equipment.",
+    "useCases": ["Noisy production floors", "Equipment operators", "Visitor kits"],
+    "searchTerms": ["ear plugs", "earplugs", "ear muffs", "hearing protection", "foam ear plugs", "corded ear plugs", "nrr 33"],
+    "keyQuestions": ["Plugs or muffs?", "Corded?", "Quantity per month?"],
+    "complementary": { "categories": ["/safety/safety-glasses-and-goggles", "/safety/hard-hats", "/gloves/string-knit"], "max": 3 }
+  },
+  "/safety/safety-glasses-and-goggles": {
+    "summary": "ANSI Z87 safety glasses and goggles — clear, tinted and anti-fog — for impact and splash protection.",
+    "useCases": ["Shop and warehouse eye protection", "Chemical splash (goggles)", "Outdoor work (tinted)"],
+    "searchTerms": ["safety glasses", "safety goggles", "protective eyewear", "z87 glasses", "clear safety glasses", "tinted safety glasses", "anti fog goggles"],
+    "keyQuestions": ["Glasses or goggles?", "Clear or tinted, anti-fog?", "Quantity?"],
+    "complementary": { "categories": ["/safety/ear-protection", "/gloves/palm-dipped", "/safety/hard-hats", "/safety/face-masks"], "max": 4 }
+  },
+  "/safety/hard-hats": {
+    "summary": "Hard hats with ratchet suspensions for construction, warehouses and yards.",
+    "useCases": ["Construction sites", "Yards and loading docks", "Overhead work areas"],
+    "searchTerms": ["hard hats", "hard hat", "safety helmet", "construction helmet", "ratchet hard hat"],
+    "keyQuestions": ["Color?", "Quantity?"],
+    "complementary": { "categories": ["/safety/safety-vests", "/safety/safety-glasses-and-goggles", "/safety/ear-protection", "/gloves/leather"], "max": 4 }
+  },
+  "/safety/face-masks": {
+    "summary": "Disposable face masks and dust masks for hygiene, dust and nuisance particulates.",
+    "useCases": ["Food plant hygiene", "Dusty work", "Janitorial", "Visitor kits"],
+    "searchTerms": ["face masks", "dust masks", "disposable masks", "ear loop masks", "procedure masks", "n95", "respirator"],
+    "keyQuestions": ["Hygiene (procedure) or particulate (rated)?", "Boxes or cases per month?"],
+    "complementary": { "categories": ["/gloves/disposable/nitrile", "/safety/hair-nets-and-beard-covers", "/safety/safety-glasses-and-goggles", "/safety/coverall-and-lab-coats"], "max": 4 }
+  },
+  "/safety/hair-nets-and-beard-covers": {
+    "summary": "Hair nets, bouffant caps and beard covers for food plants, kitchens, clean rooms and pharma.",
+    "useCases": ["Food processing and kitchens", "Clean rooms and labs", "Pharma and cosmetics"],
+    "searchTerms": ["hair nets", "hairnets", "bouffant caps", "beard covers", "beard nets", "food service hair covers", "28 inch hair net"],
+    "keyQuestions": ["Nylon nets or bouffant caps?", "Color and size (21\" or 28\")?", "Cases per month?"],
+    "complementary": { "categories": ["/gloves/disposable/poly-gloves", "/safety/face-masks", "/safety/aprons-and-back-support", "/safety/shoe-protection"], "max": 4 }
+  },
+  "/safety/safety-vests": {
+    "summary": "Hi-vis safety vests (Class 2 and 3) in orange and lime for docks, yards, roadwork and visitor use.",
+    "useCases": ["Loading docks and yards", "Roadside and construction", "Visitor and contractor vests"],
+    "searchTerms": ["safety vests", "hi vis vest", "high visibility vest", "reflective vest", "orange vest", "lime vest", "class 2 vest"],
+    "keyQuestions": ["Class 2 or 3?", "Sizes and quantity?"],
+    "complementary": { "categories": ["/safety/hard-hats", "/safety/safety-glasses-and-goggles", "/gloves/leather"], "max": 3 }
+  },
+  "/safety/aprons-and-back-support": {
+    "summary": "Disposable and reusable aprons for wet and food work, plus back support belts for lifting.",
+    "useCases": ["Food processing and dishwashing", "Chemical and wet work", "Lifting and material handling"],
+    "searchTerms": ["aprons", "disposable aprons", "poly aprons", "vinyl aprons", "back support belt", "lifting belt", "back brace"],
+    "keyQuestions": ["Disposable or reusable aprons?", "Back belt sizes?"],
+    "complementary": { "categories": ["/gloves/supported", "/gloves/disposable/nitrile", "/safety/sleeves"], "max": 3 }
+  },
+  "/safety/rainwear": {
+    "summary": "Rain suits, jackets and ponchos for drivers, yard crews and outdoor work.",
+    "useCases": ["Delivery drivers and yard crews", "Outdoor work", "Emergency kits"],
+    "searchTerms": ["rainwear", "rain suit", "rain jacket", "poncho", "rain gear"],
+    "keyQuestions": ["Suit, jacket or poncho?", "Sizes?"],
+    "complementary": { "categories": ["/safety/shoe-protection", "/safety/safety-vests", "/gloves/supported"], "max": 3 }
+  },
+  "/safety/coverall-and-lab-coats": {
+    "summary": "Disposable coveralls and lab coats for painting, cleanup, food plants and labs.",
+    "useCases": ["Painting and spraying", "Cleanup and remediation", "Food and pharma", "Visitor lab coats"],
+    "searchTerms": ["coveralls", "disposable coveralls", "lab coats", "tyvek suits", "painters suits", "protective suits"],
+    "keyQuestions": ["Coverall or lab coat?", "Hooded and booted?", "Sizes?"],
+    "complementary": { "categories": ["/safety/face-masks", "/safety/shoe-protection", "/gloves/disposable/nitrile", "/safety/safety-glasses-and-goggles"], "max": 4 }
+  },
+  "/safety/sleeves": {
+    "summary": "Protective sleeves — disposable poly, cut-resistant and welding sleeves — to cover the forearm where gloves stop.",
+    "useCases": ["Food processing", "Sheet metal (cut-resistant)", "Welding and hot work"],
+    "searchTerms": ["sleeves", "arm sleeves", "cut resistant sleeves", "disposable sleeves", "welding sleeves", "sleeve protectors"],
+    "keyQuestions": ["Disposable or cut-resistant?", "Length and quantity?"],
+    "complementary": { "categories": ["/gloves/palm-dipped", "/gloves/disposable/nitrile", "/safety/aprons-and-back-support"], "max": 3 }
+  },
+  "/safety/shoe-protection": {
+    "summary": "Disposable shoe covers (booties) for clean areas and visitors, and boots for wet and food-plant floors.",
+    "useCases": ["Clean rooms, food plants and labs", "Visitor and contractor hygiene", "Wet floors"],
+    "searchTerms": ["shoe covers", "booties", "disposable shoe covers", "boot covers", "rubber boots", "waterproof boots"],
+    "keyQuestions": ["Shoe covers or boots?", "Size and quantity?"],
+    "complementary": { "categories": ["/safety/hair-nets-and-beard-covers", "/safety/coverall-and-lab-coats", "/gloves/disposable/nitrile"], "max": 3 }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "/janitorial": {
+    "summary": "Janitorial and facility supplies on the same truck as your packaging: trash liners, paper towels and tissue, soap and dispensers, cleaners and chemicals, mops, brooms, rags, wipers and breakroom disposables.",
+    "useCases": ["Facility and restroom upkeep", "Warehouse maintenance", "Breakrooms and kitchens", "Standing weekly orders"],
+    "searchTerms": ["janitorial", "janitorial supplies", "cleaning supplies", "facility supplies", "sanitation supplies", "custodial supplies"],
+    "keyQuestions": ["Which areas: restrooms, breakroom, floor, shop?", "Case quantities and how often you reorder?"],
+    "complementary": { "categories": ["/gloves/disposable/nitrile", "/janitorial/trash-liners", "/janitorial/paper-towels", "/safety/face-masks"], "max": 4 }
+  },
+  "/janitorial/trash-liners": {
+    "summary": "Trash can liners by the case: low-density (stretchy, puncture-resistant, rated in mils) for shop and kitchen waste, and high-density (thin, strong, rated in microns) for dry office and restroom trash.",
+    "useCases": ["Office and restroom cans", "Kitchen and shop waste", "Outdoor and dock cans", "Recycling bins"],
+    "searchTerms": ["trash liners", "trash bags", "garbage bags", "can liners", "garbage can liners", "33 gallon trash bags", "55 gallon trash bags", "black trash bags", "clear trash bags", "heavy duty trash bags"],
+    "keyQuestions": ["Can size (gallons) or liner dimensions?", "Dry light trash (high density) or heavy/sharp (low density)?", "Color and cases per month?"],
+    "complementary": { "categories": ["/gloves/disposable/nitrile", "/janitorial/chemicals/all-purpose-cleaners", "/janitorial/paper-towels", "/janitorial/equipment"], "max": 4 }
+  },
+  "/janitorial/trash-liners/low-density": {
+    "summary": "Low-density liners stretch instead of tearing — the right bag for kitchens, shops, grounds and anything heavy, wet or sharp. Rated in mils (.45 to 2.0).",
+    "useCases": ["Kitchen and food waste", "Shop and warehouse waste", "Grounds and dock cans", "Heavy or sharp trash"],
+    "searchTerms": ["low density liners", "heavy duty trash bags", "lldpe liners", "mil trash bags", "contractor bags", "black garbage bags", "kitchen trash bags"],
+    "keyQuestions": ["Liner size (e.g. 33x39, 38x58)?", "Mil thickness?", "Cases per month?"],
+    "complementary": { "categories": ["/gloves/disposable/nitrile", "/janitorial/chemicals/all-purpose-cleaners", "/janitorial/paper-towels/multifold"], "max": 3 }
+  },
+  "/janitorial/trash-liners/high-density": {
+    "summary": "High-density liners are thin, strong and economical for dry, light trash — offices, restrooms, paper waste. Rated in microns; not for sharp objects.",
+    "useCases": ["Office and restroom cans", "Paper and light dry waste", "High-volume, low-cost liner programs"],
+    "searchTerms": ["high density liners", "hdpe trash bags", "micron trash bags", "office trash bags", "thin trash liners", "coreless rolls"],
+    "keyQuestions": ["Liner size?", "Microns (6–16)?", "Cases per month?"],
+    "complementary": { "categories": ["/janitorial/toilet-paper", "/janitorial/paper-towels", "/janitorial/soap-and-dispensers/hand-soap"], "max": 3 }
+  },
+  "/janitorial/paper-towels": {
+    "summary": "Paper towels for restrooms and shops: multifold and hardwound roll towels for dispensers, center-pull towels, kitchen roll towels, and the dispensers to match.",
+    "useCases": ["Restroom hand drying", "Shop and kitchen wipe-up", "Breakrooms"],
+    "searchTerms": ["paper towels", "hand towels", "multifold towels", "roll towels", "hardwound towels", "center pull towels", "kitchen roll towels", "c-fold towels", "paper towel dispenser"],
+    "keyQuestions": ["Which dispenser do you have (multifold, hardwound, center-pull)?", "White or natural (kraft)?", "Cases per month?"],
+    "complementary": { "categories": ["/janitorial/soap-and-dispensers/hand-soap", "/janitorial/toilet-paper", "/janitorial/trash-liners/high-density", "/janitorial/paper-towels/dispensers"], "max": 4 }
+  },
+  "/janitorial/toilet-paper": {
+    "summary": "Bath tissue in standard rolls and jumbo rolls (JRT) for restroom dispensers, 1-ply and 2-ply.",
+    "useCases": ["Restrooms", "Jumbo roll dispensers"],
+    "searchTerms": ["toilet paper", "bath tissue", "toilet tissue", "jumbo rolls", "jrt", "2 ply toilet paper", "restroom tissue"],
+    "keyQuestions": ["Standard or jumbo rolls?", "1-ply or 2-ply?", "Cases per month?"],
+    "complementary": { "categories": ["/janitorial/paper-towels", "/janitorial/soap-and-dispensers/hand-soap", "/janitorial/toilet-seat-covers-and-dispensers", "/janitorial/bathroom-cleaners"], "max": 4 }
+  },
+  "/janitorial/facial-tissue": {
+    "summary": "Facial tissue in flat boxes and cube boxes for offices, lobbies and restrooms.",
+    "useCases": ["Offices and lobbies", "Restrooms", "Breakrooms"],
+    "searchTerms": ["facial tissue", "tissues", "kleenex", "tissue boxes", "cube tissue"],
+    "keyQuestions": ["Flat or cube boxes?", "Cases per month?"],
+    "complementary": { "categories": ["/janitorial/paper-towels", "/janitorial/soap-and-dispensers/hand-soap", "/janitorial/trash-liners/high-density"], "max": 3 }
+  },
+  "/janitorial/soap-and-dispensers": {
+    "summary": "Hand soap, foam soap and sanitizer refills with matching wall dispensers for restrooms and kitchens.",
+    "useCases": ["Restroom hand washing", "Kitchens and food plants", "Hand sanitizing stations"],
+    "searchTerms": ["hand soap", "soap dispenser", "foam soap", "hand sanitizer", "liquid soap refills", "soap cartridges", "antibacterial soap"],
+    "keyQuestions": ["Which dispenser system?", "Liquid, foam or sanitizer?", "Cases per month?"],
+    "complementary": { "categories": ["/janitorial/paper-towels", "/janitorial/toilet-paper", "/janitorial/trash-liners/high-density"], "max": 3 }
+  },
+  "/janitorial/toilet-seat-covers-and-dispensers": {
+    "summary": "Half-fold toilet seat covers and the dispensers that hold them.",
+    "useCases": ["Public and employee restrooms"],
+    "searchTerms": ["toilet seat covers", "seat cover dispenser", "sanitary seat covers"],
+    "keyQuestions": ["Covers only or dispensers too?", "Cases per month?"],
+    "complementary": { "categories": ["/janitorial/toilet-paper", "/janitorial/soap-and-dispensers/hand-soap", "/janitorial/bathroom-cleaners"], "max": 3 }
+  },
+  "/janitorial/bathroom-cleaners": {
+    "summary": "Restroom chemicals: toilet bowl cleaners, urinal screens and blocks, and air fresheners.",
+    "useCases": ["Restroom cleaning and odor control"],
+    "searchTerms": ["bathroom cleaner", "toilet bowl cleaner", "urinal screens", "urinal blocks", "air freshener", "restroom deodorizer"],
+    "keyQuestions": ["Which products and how many restrooms?"],
+    "complementary": { "categories": ["/gloves/unsupported", "/janitorial/toilet-paper", "/janitorial/paper-towels", "/janitorial/equipment"], "max": 4 }
+  },
+  "/janitorial/chemicals": {
+    "summary": "Cleaning chemicals by the gallon and case: all-purpose cleaners, degreasers, disinfectants and cleaning wipes.",
+    "useCases": ["Floors, counters and equipment", "Shop degreasing", "Disinfecting high-touch surfaces"],
+    "searchTerms": ["cleaning chemicals", "all purpose cleaner", "degreaser", "disinfectant", "cleaning wipes", "pine cleaner", "cleaner concentrate", "gallon cleaner"],
+    "keyQuestions": ["What surfaces and soils?", "Concentrate or ready-to-use?", "Gallons per month?"],
+    "complementary": { "categories": ["/janitorial/equipment/spray-bottles", "/gloves/unsupported", "/janitorial/warehouse-maintenance/rags", "/janitorial/equipment"], "max": 4 }
+  },
+  "/janitorial/equipment": {
+    "summary": "Cleaning tools: mop heads and buckets, dust mops, brooms, spray bottles and floor pads.",
+    "useCases": ["Floor care", "Daily custodial rounds", "Shop cleanup"],
+    "searchTerms": ["mop", "mop heads", "mop bucket", "dust mop", "broom", "push broom", "spray bottles", "floor pads", "cleaning equipment"],
+    "keyQuestions": ["Floor type and square footage?", "Replacement heads or complete tools?"],
+    "complementary": { "categories": ["/janitorial/chemicals", "/janitorial/warehouse-maintenance", "/gloves/unsupported"], "max": 3 }
+  },
+  "/janitorial/warehouse-maintenance": {
+    "summary": "Warehouse maintenance basics: rags and wiping cloths by the box, and floor sweep compound to control dust when sweeping.",
+    "useCases": ["Shop and warehouse cleanup", "Spill and wipe-down", "Dust control when sweeping"],
+    "searchTerms": ["rags", "shop rags", "wiping rags", "cleaning cloths", "floor sweep", "sweeping compound", "oil dry", "warehouse cleaning"],
+    "keyQuestions": ["Rag type (white cotton, colored, knit)?", "Boxes or bales per month?"],
+    "complementary": { "categories": ["/janitorial/chemicals", "/janitorial/equipment/brooms", "/gloves/disposable/nitrile"], "max": 3 }
+  },
+  "/janitorial/wipers": {
+    "summary": "Disposable wipers — shop towels on rolls, DRC wipers and pop-up boxes — for wiping, polishing and spill cleanup.",
+    "useCases": ["Shop and maintenance wiping", "Food plant sanitation", "Printing and painting"],
+    "searchTerms": ["wipers", "shop towels", "disposable wipers", "blue shop towels", "industrial wipes", "pop up wipers"],
+    "keyQuestions": ["Rolls, pop-up boxes or quarter-fold?", "Cases per month?"],
+    "complementary": { "categories": ["/janitorial/chemicals", "/gloves/disposable/nitrile", "/janitorial/trash-liners/low-density"], "max": 3 }
+  },
+  "/janitorial/breakroom": {
+    "summary": "Breakroom and food-service disposables: cups, plates and bowls, napkins and utensils by the case.",
+    "useCases": ["Breakrooms and cafeterias", "Catering and events", "Takeout and food service"],
+    "searchTerms": ["cups", "paper cups", "plastic cups", "plates", "bowls", "napkins", "utensils", "forks", "spoons", "knives", "cutlery", "breakroom supplies", "disposable tableware"],
+    "keyQuestions": ["Which items and sizes?", "Cases per month?"],
+    "complementary": { "categories": ["/gloves/disposable/poly-gloves", "/janitorial/trash-liners/low-density", "/janitorial/paper-towels/kitchen-roll-towels", "/janitorial/chemicals"], "max": 4 }
+  },
+  "/janitorial/breakroom/disposable-cups": {
+    "summary": "Disposable cups — plastic, paper, foam and cone water cups — by the case for breakrooms, coolers and food service.",
+    "useCases": ["Water coolers", "Coffee and cold drinks", "Catering"],
+    "searchTerms": ["cups", "disposable cups", "plastic cups", "paper cups", "cone cups", "water cups", "coffee cups", "9 oz cups", "16 oz cups"],
+    "keyQuestions": ["Size and material?", "Lids needed?", "Cases per month?"],
+    "complementary": { "categories": ["/janitorial/breakroom/napkins", "/janitorial/breakroom/utensils", "/janitorial/trash-liners/low-density"], "max": 3 }
+  }
+}

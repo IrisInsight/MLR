@@ -1,0 +1,764 @@
+{
+  "/stretch-film": {
+    "summary": "Stretch film (pallet wrap) is the stretchy plastic film that locks boxes to a pallet so the load ships as one unit. Hand film is pulled by hand; machine film runs through a stretch wrapper.",
+    "useCases": ["Unitizing pallets for shipping", "Keeping loads dust-free in storage", "Bundling long items", "Replacing strapping on light loads"],
+    "searchTerms": ["stretch film", "stretch wrap", "pallet wrap", "shrink wrap", "cling wrap", "plastic wrap for pallets", "pallet film", "wrap"],
+    "keyQuestions": ["How many pallets a day do you wrap?", "Typical load weight and whether corners are sharp", "Hand wrapping or a machine?", "Indoor storage or outdoor/long-haul?"],
+    "complementary": { "categories": ["/tools/stretch-film-dispensers", "/edge-protectors/medium-duty", "/tarps-and-pallet-covers/pallet-covers", "/gloves/string-knit", "/strapping/plastic-strapping/polyester/hand-grade"], "max": 5 }
+  },
+  "/stretch-film/hand-film": {
+    "summary": "Hand stretch film: 12\"–18\" rolls on a 3\" core that you pull around the pallet by hand. The everyday choice for anyone wrapping fewer than about 40 pallets a day.",
+    "useCases": ["Hand-wrapping pallets in a shipping room", "Securing mixed loads", "Bundling pipe, lumber and long parts", "Dust covers for stored inventory"],
+    "searchTerms": ["hand stretch film", "hand wrap", "hand pallet wrap", "hand film", "manual stretch wrap", "stretch wrap roll", "18 inch stretch film", "80 gauge stretch film"],
+    "keyQuestions": ["How many pallets a day?", "Load weight and shape — uniform boxes or irregular?", "Do you want a lighter pull (pre-stretched) or maximum toughness (blown)?"],
+    "complementary": { "categories": ["/tools/stretch-film-dispensers", "/edge-protectors/medium-duty", "/stretch-film/machine-film/cast", "/gloves/string-knit", "/tarps-and-pallet-covers/pallet-covers"], "max": 5 }
+  },
+  "/stretch-film/hand-film/cast": {
+    "summary": "Cast hand film is the clear, quiet, high-cling standard: easy to pull, easy to see through, and available from 55 to 120 gauge so you can match it to the load weight.",
+    "useCases": ["Everyday pallet wrapping of boxed goods", "Light-to-medium loads (55–80 gauge)", "Heavy or sharp loads (90–120 gauge)", "Wrapping where you need to read labels through the film"],
+    "searchTerms": ["cast hand film", "cast stretch film", "clear stretch wrap", "quiet stretch film", "80 gauge hand film", "18 x 1500 stretch film", "pallet wrap roll"],
+    "keyQuestions": ["Load weight: under 1,200 lb (55–63 gauge), 1,200–2,500 lb (70–80), heavier (90+)?", "Roll width: 12\", 15\", 16\", 17.5\" or 18\"?", "How many cases a month?"],
+    "complementary": { "categories": ["/tools/stretch-film-dispensers", "/edge-protectors/medium-duty", "/stretch-film/hand-film/pre-stretched", "/gloves/string-knit", "/tarps-and-pallet-covers/pallet-covers"], "max": 5 }
+  },
+  "/stretch-film/hand-film/blown": {
+    "summary": "Blown hand film is tougher and more puncture-resistant than cast at the same gauge, with a one-sided cling that stays put — the pick for sharp corners, heavy loads and loads that get dragged.",
+    "useCases": ["Pallets with protruding corners or metal parts", "Heavy loads that need high retention", "Loads moved by forklift repeatedly", "Outdoor and long-haul shipments"],
+    "searchTerms": ["blown stretch film", "blown hand film", "puncture resistant stretch wrap", "heavy duty pallet wrap", "tough stretch film"],
+    "keyQuestions": ["Are corners sharp or is the load irregular?", "Load weight?", "Is roll noise a concern on the floor?"],
+    "complementary": { "categories": ["/edge-protectors/heavy-duty-edge-protectors", "/tools/stretch-film-dispensers", "/gloves/leather", "/strapping/plastic-strapping/polyester/hand-grade"], "max": 5 }
+  },
+  "/stretch-film/hand-film/pre-stretched": {
+    "summary": "Pre-stretched hand film arrives already stretched, so it is feather-light to pull, uses up to half the film of standard rolls and wraps a pallet with far less effort and wrist strain.",
+    "useCases": ["Crews wrapping many pallets by hand", "Reducing film cost per pallet", "Reducing wrist and back fatigue", "Light to medium loads"],
+    "searchTerms": ["pre-stretched film", "prestretched stretch wrap", "easy pull stretch film", "lightweight pallet wrap", "pre stretched hand wrap"],
+    "keyQuestions": ["How many pallets a day?", "Load weight?", "Do you already use a dispenser?"],
+    "complementary": { "categories": ["/tools/stretch-film-dispensers", "/edge-protectors/light-duty", "/stretch-film/hand-film/extended-core", "/gloves/string-knit"], "max": 5 }
+  },
+  "/stretch-film/hand-film/bulk-pre-stretched": {
+    "summary": "Bulk pre-stretched hand film: pre-stretched rolls packed for volume users — the same light pull and film savings, bought by the skid.",
+    "useCases": ["High-volume hand wrapping", "Multiple wrap stations", "Standing orders"],
+    "searchTerms": ["bulk pre-stretched film", "pre stretched film skid", "volume stretch wrap"],
+    "keyQuestions": ["How many cases a month?", "Delivery to one site or several?"],
+    "complementary": { "categories": ["/tools/stretch-film-dispensers", "/edge-protectors/medium-duty", "/tarps-and-pallet-covers/pallet-covers"], "max": 4 }
+  },
+  "/stretch-film/hand-film/color-tinted": {
+    "summary": "Color-tinted hand film wraps and color-codes at the same time — route loads, flag customers or hide contents, with the same cling and stretch as clear cast film.",
+    "useCases": ["Color-coding pallets by customer, route or priority", "Concealing high-value contents", "UV shading for sensitive product", "Identifying partial pallets"],
+    "searchTerms": ["colored stretch film", "tinted pallet wrap", "black stretch wrap", "blue stretch film", "opaque stretch film", "color coded pallet wrap"],
+    "keyQuestions": ["Which colors and how many of each?", "Do you need opaque (black/white) or just tinted?"],
+    "complementary": { "categories": ["/tools/stretch-film-dispensers", "/labels/stock-printed-labels/shipping-and-receiving", "/edge-protectors/medium-duty"], "max": 4 }
+  },
+  "/stretch-film/hand-film/extended-core": {
+    "summary": "Extended-core hand film has the core sticking out past the film so you can wrap holding the roll itself — no dispenser needed, nothing to misplace.",
+    "useCases": ["Occasional wrapping without a dispenser", "Trucks and job sites", "Bundling and small loads"],
+    "searchTerms": ["extended core stretch film", "handle stretch wrap", "stretch wrap with handles", "no dispenser stretch film"],
+    "keyQuestions": ["Gauge needed for the load?", "How many rolls a month?"],
+    "complementary": { "categories": ["/stretch-film/hand-film/cast", "/edge-protectors/light-duty", "/gloves/string-knit"], "max": 4 }
+  },
+  "/stretch-film/hand-film/banding-film": {
+    "summary": "Banding film is narrow (2\"–5\") stretch film for bundling small items together: pipe, molding, boxes in a stack — fast, clean, no residue.",
+    "useCases": ["Bundling pipe, conduit and molding", "Securing boxes in a stack", "Replacing tape or twine on bundles"],
+    "searchTerms": ["banding film", "mini stretch film", "narrow stretch wrap", "bundling film", "5 inch stretch film", "stretch wrap for bundling"],
+    "keyQuestions": ["Width needed: 2\", 3\" or 5\"?", "How many rolls at a time?"],
+    "complementary": { "categories": ["/tools/stretch-film-dispensers", "/rope-and-twine/1-ply-industrial-poly-tying-twine", "/tape/strapping-tape/filament-strapping-tape-utility-grade"], "max": 4 }
+  },
+  "/stretch-film/hand-film/loadstar-ultra": {
+    "summary": "LoadStar Ultra hand film is a premium high-performance film: thinner gauges that outperform standard 80 gauge, with excellent cling and tear resistance.",
+    "useCases": ["Cutting film cost without losing load retention", "Heavier loads on a hand roll", "Shipping rooms upgrading from economy film"],
+    "searchTerms": ["loadstar ultra", "premium stretch film", "high performance hand film", "ultra stretch wrap"],
+    "keyQuestions": ["What gauge are you using today?", "Load weight?"],
+    "complementary": { "categories": ["/tools/stretch-film-dispensers", "/edge-protectors/medium-duty", "/stretch-film/machine-film/loadstar-ultra"], "max": 4 }
+  },
+  "/stretch-film/hand-film/spartan": {
+    "summary": "Spartan hand film is a heavy-duty engineered film for demanding loads that would tear through ordinary cast film.",
+    "useCases": ["Heavy, irregular or sharp-cornered pallets", "Long-haul shipments"],
+    "searchTerms": ["spartan stretch film", "heavy duty hand wrap", "engineered stretch film"],
+    "keyQuestions": ["Load weight and shape?", "Current film and gauge?"],
+    "complementary": { "categories": ["/edge-protectors/heavy-duty-edge-protectors", "/tools/stretch-film-dispensers", "/gloves/leather"], "max": 4 }
+  },
+  "/stretch-film/hand-film/torque": {
+    "summary": "Torque hand film is a high-strength film made to be pulled hard: more holding force per wrap for tight, stable loads.",
+    "useCases": ["Loads that need high containment force", "Tall or unstable pallets", "Mixed loads that shift"],
+    "searchTerms": ["torque stretch film", "high strength hand film", "tight wrap stretch film"],
+    "keyQuestions": ["Load height and stability?", "Pallets a day?"],
+    "complementary": { "categories": ["/tools/stretch-film-dispensers", "/edge-protectors/medium-duty", "/tarps-and-pallet-covers/pallet-covers"], "max": 4 }
+  },
+  "/stretch-film/machine-film": {
+    "summary": "Machine stretch film runs through a stretch wrapper's pre-stretch rollers at 200–300%, so each pallet uses less film and holds tighter and more consistently than hand wrapping.",
+    "useCases": ["Semi-automatic and automatic pallet wrappers", "High-volume shipping (40+ pallets a day)", "Consistent containment force", "Lowering film cost per pallet"],
+    "searchTerms": ["machine stretch film", "machine wrap", "machine pallet wrap", "20 inch stretch film", "stretch wrapper film", "turntable film", "machine grade stretch wrap"],
+    "keyQuestions": ["Which wrapper, and what pre-stretch does it run?", "Load weight and profile?", "Pallets a day?"],
+    "complementary": { "categories": ["/machines", "/edge-protectors/medium-duty", "/tarps-and-pallet-covers/pallet-covers", "/stretch-film/hand-film/cast"], "max": 5 }
+  },
+  "/stretch-film/machine-film/cast": {
+    "summary": "Cast machine film: clear, quiet, high-cling film for stretch wrappers, in gauges from light to heavy. The default roll for most turntable and arm wrappers.",
+    "useCases": ["Everyday machine wrapping of boxed loads", "Semi-automatic turntable wrappers", "Loads where labels must stay readable"],
+    "searchTerms": ["cast machine film", "clear machine stretch wrap", "20 x 5000 stretch film", "turntable stretch film"],
+    "keyQuestions": ["Machine pre-stretch percentage?", "Load weight?", "Roll width and core your machine takes?"],
+    "complementary": { "categories": ["/machines", "/edge-protectors/medium-duty", "/tarps-and-pallet-covers/pallet-covers"], "max": 4 }
+  },
+  "/stretch-film/machine-film/blown": {
+    "summary": "Blown machine film gives higher load retention and puncture resistance for heavy, sharp or irregular loads run through a wrapper.",
+    "useCases": ["Heavy or irregular machine-wrapped loads", "Sharp-cornered product", "Long-haul and outdoor storage"],
+    "searchTerms": ["blown machine film", "puncture resistant machine wrap", "heavy duty machine stretch film"],
+    "keyQuestions": ["Load weight and corners?", "Pre-stretch setting?"],
+    "complementary": { "categories": ["/machines", "/edge-protectors/heavy-duty-edge-protectors"], "max": 4 }
+  },
+  "/stretch-film/machine-film/color-tinted": {
+    "summary": "Color-tinted machine film for color-coding or concealing machine-wrapped loads.",
+    "useCases": ["Color-coding routes and customers", "Concealing contents", "UV shading"],
+    "searchTerms": ["colored machine film", "black machine stretch wrap", "tinted machine film"],
+    "keyQuestions": ["Which colors?", "Gauge your machine runs today?"],
+    "complementary": { "categories": ["/machines", "/labels/stock-printed-labels/shipping-and-receiving"], "max": 4 }
+  },
+  "/stretch-film/machine-film/loadstar-ultra": {
+    "summary": "LoadStar Ultra machine wrap is a premium thin-gauge film that stretches further and holds more than standard film, cutting film cost per pallet on high-volume wrappers.",
+    "useCases": ["High-volume wrappers looking to reduce film spend", "Loads that need high retention at low gauge"],
+    "searchTerms": ["loadstar ultra machine film", "premium machine stretch wrap", "high performance machine film"],
+    "keyQuestions": ["Pre-stretch capability of your machine?", "Pallets a day?"],
+    "complementary": { "categories": ["/machines", "/edge-protectors/medium-duty"], "max": 4 }
+  },
+  "/stretch-film/machine-film/nexus": {
+    "summary": "Nexus machine film is an engineered multi-layer film for high pre-stretch wrappers: thin, strong and quiet.",
+    "useCases": ["Automatic wrappers with 250%+ pre-stretch", "Reducing gauge without losing retention"],
+    "searchTerms": ["nexus stretch film", "multilayer machine film", "high pre-stretch film"],
+    "keyQuestions": ["Machine model and pre-stretch?", "Load profile?"],
+    "complementary": { "categories": ["/machines", "/edge-protectors/medium-duty"], "max": 4 }
+  },
+  "/stretch-film/machine-film/ultimate-force": {
+    "summary": "Ultimate Force machine film delivers maximum holding force for heavy and unstable loads on stretch wrappers.",
+    "useCases": ["Heavy loads on wrappers", "Tall, unstable or shifting pallets", "Long-distance freight"],
+    "searchTerms": ["ultimate force stretch film", "high holding force machine film", "heavy duty machine wrap"],
+    "keyQuestions": ["Load weight and height?", "Machine pre-stretch?"],
+    "complementary": { "categories": ["/machines", "/edge-protectors/heavy-duty-edge-protectors"], "max": 4 }
+  },
+  "/stretch-film/machine-film/uvi-film": {
+    "summary": "UVI machine film has UV inhibitors so wrapped loads can sit outdoors in the sun without the film degrading and letting go.",
+    "useCases": ["Lumber, pipe and building materials stored outside", "Yards with outdoor pallet storage"],
+    "searchTerms": ["uvi stretch film", "uv stretch wrap", "outdoor pallet wrap", "uv resistant machine film"],
+    "keyQuestions": ["How long do loads sit outside?", "Machine pre-stretch?"],
+    "complementary": { "categories": ["/tarps-and-pallet-covers/lumber-bags-and-covers", "/edge-protectors/heavy-duty-edge-protectors", "/machines"], "max": 4 }
+  },
+
+  "/strapping": {
+    "summary": "Strapping (banding) is the flat band — steel, polyester, polypropylene or woven cord — that bundles product or unitizes a pallet, closed with seals, buckles or a weld.",
+    "useCases": ["Bundling lumber, pipe and metal", "Unitizing pallets for freight", "Closing cartons and crates", "Securing loads on flatbeds"],
+    "searchTerms": ["strapping", "banding", "strap", "pallet strapping", "bundling strap", "poly strapping", "steel banding", "pet strapping"],
+    "keyQuestions": ["What are you strapping and how heavy is it?", "Hand tools or a machine?", "Does the load settle or shrink after strapping?"],
+    "complementary": { "categories": ["/strapping/steel-strap-seals/regular-duty-steel-seals", "/tools/steel-strapping-tools", "/edge-protectors/heavy-duty-edge-protectors", "/gloves/leather", "/tools/strap-dispensers"], "max": 5 }
+  },
+  "/strapping/steel": {
+    "summary": "Steel strapping is the strongest, stiffest band available — the standard for heavy, rigid, hot or sharp-edged loads like steel coils, structural metal and big lumber units.",
+    "useCases": ["Steel coils, sheet and structural metal", "Heavy lumber units and crates", "Loads with sharp edges that would cut plastic strap", "Hot loads straight from production"],
+    "searchTerms": ["steel strapping", "steel banding", "metal banding", "metal strapping", "steel strap coil", "3/4 steel strapping", "1/2 steel banding"],
+    "keyQuestions": ["Strap width and thickness your tools take (3/8\", 1/2\", 5/8\", 3/4\", 1-1/4\")?", "Load weight?", "Regular duty or high tensile?"],
+    "complementary": { "categories": ["/strapping/steel-strap-seals/regular-duty-steel-seals", "/tools/steel-strapping-tools/steel-manual-tensioners", "/tools/steel-strapping-tools/steel-manual-sealers", "/edge-protectors/heavy-duty-edge-protectors", "/gloves/leather"], "max": 6 }
+  },
+  "/strapping/steel/regular-duty": {
+    "summary": "Regular-duty steel strapping handles most bundling and palletizing of heavy goods; sold by the coil and priced per coil, with matching seals.",
+    "useCases": ["Bundling metal and lumber", "Palletizing heavy cartons and drums", "General heavy-duty unitizing"],
+    "searchTerms": ["regular duty steel strapping", "standard steel banding", "steel strap 3/4 x .020", "steel strapping coil"],
+    "keyQuestions": ["Width and gauge your tensioner/sealer take?", "Coils per month?"],
+    "complementary": { "categories": ["/strapping/steel-strap-seals/regular-duty-steel-seals", "/tools/steel-strapping-tools/steel-manual-tensioners", "/tools/steel-strapping-tools/steel-manual-sealers", "/tools/steel-strapping-tools/steel-strapping-cutters", "/edge-protectors/heavy-duty-edge-protectors"], "max": 6 }
+  },
+  "/strapping/steel/heavy-duty": {
+    "summary": "Heavy-duty steel strapping in thicker gauges for very heavy or oversized loads that need maximum break strength.",
+    "useCases": ["Oversized metal and machinery", "Heavy crates and skids", "Rail and flatbed loads"],
+    "searchTerms": ["heavy duty steel strapping", "thick steel banding", "high strength steel strap"],
+    "keyQuestions": ["Load weight?", "Tooling width and thickness?"],
+    "complementary": { "categories": ["/strapping/steel-strap-seals/heavy-duty-steel-seals", "/tools/steel-strapping-tools/pneumatic-tensioners", "/edge-protectors/heavy-duty-edge-protectors", "/gloves/leather"], "max": 5 }
+  },
+  "/strapping/steel/high-tensile": {
+    "summary": "High-tensile steel strapping has the highest break strength per width — for extreme loads where regular-duty strap would stretch or snap.",
+    "useCases": ["Steel coils and heavy metal products", "Loads with high settling forces", "Export and rail shipments"],
+    "searchTerms": ["high tensile steel strapping", "high tensile banding", "coil strapping", "ht steel strap"],
+    "keyQuestions": ["Break strength required?", "Width and thickness your tools take?"],
+    "complementary": { "categories": ["/strapping/steel-strap-seals/heavy-duty-steel-seals", "/tools/steel-strapping-tools/pneumatic-sealers", "/edge-protectors/heavy-duty-edge-protectors", "/gloves/leather"], "max": 5 }
+  },
+  "/strapping/steel/mini-coils": {
+    "summary": "Mini coils of steel strapping: smaller, lighter coils that fit hand dispensers and portable tools for occasional or job-site strapping.",
+    "useCases": ["Job sites and trucks", "Occasional bundling", "Shops without a strap cart"],
+    "searchTerms": ["mini coil steel strapping", "small coil steel banding", "portable steel strap"],
+    "keyQuestions": ["Width your tools take?", "How often do you strap?"],
+    "complementary": { "categories": ["/strapping/steel-strap-seals/regular-duty-steel-seals", "/tools/steel-strapping-tools/combination-tools", "/gloves/leather"], "max": 4 }
+  },
+  "/strapping/steel/zinc-coated": {
+    "summary": "Zinc-coated (galvanized) steel strapping resists rust for loads stored outdoors, shipped by sea or held for months.",
+    "useCases": ["Outdoor storage and export", "Lumber and pipe yards", "Anything that sits in the weather"],
+    "searchTerms": ["galvanized steel strapping", "zinc coated banding", "rust proof steel strapping", "weatherproof strapping"],
+    "keyQuestions": ["How long outdoors?", "Width and gauge?"],
+    "complementary": { "categories": ["/strapping/steel-strap-seals/regular-duty-steel-seals", "/tarps-and-pallet-covers/lumber-bags-and-covers", "/edge-protectors/heavy-duty-edge-protectors"], "max": 4 }
+  },
+  "/strapping/steel-strap-seals": {
+    "summary": "Steel strap seals are the metal sleeves crimped over overlapping steel strap ends with a sealer; match the seal to the strap width and duty.",
+    "useCases": ["Closing steel strapping joints", "Regular-duty and heavy-duty strap"],
+    "searchTerms": ["steel strap seals", "strapping seals", "banding seals", "crimp seals", "open seals", "snap-on seals", "3/4 strapping seals"],
+    "keyQuestions": ["Strap width?", "Open (snap-on) or closed (threaded) seals for your sealer?"],
+    "complementary": { "categories": ["/strapping/steel/regular-duty", "/tools/steel-strapping-tools/steel-manual-sealers", "/tools/steel-strapping-tools/steel-manual-tensioners"], "max": 4 }
+  },
+  "/strapping/steel-buckles-for-plastic-and-cord-strap": {
+    "summary": "Wire buckles close polyester cord and poly strapping by hand — thread, pull tight, done. No sealer and the strap can be re-tightened.",
+    "useCases": ["Cord strapping and hand-grade poly strap", "Lumber, pipe and bundles that settle", "Field strapping without tools"],
+    "searchTerms": ["wire buckles", "strapping buckles", "cord strap buckles", "poly strap buckles", "phosphate buckles", "galvanized buckles"],
+    "keyQuestions": ["Strap width?", "Phosphate (standard) or galvanized (outdoor) finish?"],
+    "complementary": { "categories": ["/strapping/cord-strapping/heavy-duty-woven", "/strapping/plastic-strapping/poly/hand-grade", "/tools/cord-strapping-tools"], "max": 4 }
+  },
+  "/strapping/metal-seals-for-plastic-strapping": {
+    "summary": "Serrated metal seals for poly and polyester strapping, crimped with a sealer for a strong, tamper-evident joint.",
+    "useCases": ["Closing poly and polyester strap with hand tools", "Loads that need a secure, non-reusable joint"],
+    "searchTerms": ["plastic strapping seals", "poly strap seals", "serrated seals", "polyester strapping seals", "1/2 seals for poly strapping"],
+    "keyQuestions": ["Strap width and material?", "Sealer model?"],
+    "complementary": { "categories": ["/strapping/plastic-strapping/poly/hand-grade", "/tools/plastic-strapping-tools/polypropylene-strapping-sealers", "/tools/plastic-strapping-tools/plastic-strap-tensioners"], "max": 4 }
+  },
+  "/strapping/magazine-seals": {
+    "summary": "Magazine (clip-fed) seals load into pneumatic and magazine-fed sealers so the operator never handles loose seals.",
+    "useCases": ["Pneumatic and magazine sealers", "High-volume steel strapping lines"],
+    "searchTerms": ["magazine seals", "clip seals", "pneumatic sealer seals"],
+    "keyQuestions": ["Sealer model and strap width?"],
+    "complementary": { "categories": ["/tools/steel-strapping-tools/pneumatic-sealers", "/strapping/steel/regular-duty"], "max": 3 }
+  },
+  "/strapping/plastic-buckles-for-poly-strapping": {
+    "summary": "Plastic buckles close hand-grade poly strapping with no tools — fast, cheap, and safe for light bundles.",
+    "useCases": ["Light bundles and cartons", "Shipping rooms without strapping tools"],
+    "searchTerms": ["plastic strapping buckles", "poly strap clips", "poly buckles"],
+    "keyQuestions": ["Strap width (1/2\" or 5/8\")?"],
+    "complementary": { "categories": ["/strapping/plastic-strapping/poly/hand-grade", "/tools/plastic-strapping-tools/plastic-strap-tensioners"], "max": 3 }
+  },
+  "/strapping/plastic-strapping": {
+    "summary": "Plastic strapping comes in two materials: polypropylene (poly) for light, economical bundling and polyester (PET) for heavy loads that settle. Both are rust-free, light and safe to cut.",
+    "useCases": ["Closing and unitizing cartons", "Bundling and palletizing", "Replacing light steel strapping"],
+    "searchTerms": ["plastic strapping", "plastic banding", "poly strapping", "polyester strapping", "pp strapping", "pet strapping", "plastic strap roll"],
+    "keyQuestions": ["Load weight and does it settle?", "Hand tools, friction-weld tool or a machine?", "Core size your dispenser takes (8x8 or 16x6)?"],
+    "complementary": { "categories": ["/strapping/metal-seals-for-plastic-strapping", "/tools/plastic-strapping-tools", "/tools/strap-dispensers", "/edge-protectors/medium-duty"], "max": 5 }
+  },
+  "/strapping/plastic-strapping/poly": {
+    "summary": "Polypropylene (poly) strapping is the economical strap for light-to-medium bundling: cartons, newspapers, small pallets. It stretches under load, so it's not for loads that settle or heavy freight.",
+    "useCases": ["Carton closing and bundling", "Light pallet unitizing", "Newspaper and mail bundles", "Machine strapping of boxes"],
+    "searchTerms": ["poly strapping", "polypropylene strapping", "pp strapping", "poly banding", "plastic strapping roll", "1/2 inch poly strapping", "econoband"],
+    "keyQuestions": ["Hand grade or machine grade?", "Core size (8x8\", 9x8\", 16x3\", 16x6\")?", "Width and break strength?"],
+    "complementary": { "categories": ["/strapping/metal-seals-for-plastic-strapping", "/strapping/plastic-buckles-for-poly-strapping", "/tools/plastic-strapping-tools/plastic-strap-tensioners", "/tools/plastic-strapping-tools/polypropylene-strapping-sealers", "/tools/strap-dispensers"], "max": 5 }
+  },
+  "/strapping/plastic-strapping/poly/machine-grade": {
+    "summary": "Machine-grade poly strapping is wound on 8\"x8\" or 9\"x8\" cores to feed arch, tabletop and semi-automatic strapping machines smoothly.",
+    "useCases": ["Arch and tabletop strapping machines", "High-volume carton closing"],
+    "searchTerms": ["machine grade poly strapping", "machine strapping", "strapping machine roll", "9x8 core strapping"],
+    "keyQuestions": ["Strapping machine model and core size?", "Strap width?"],
+    "complementary": { "categories": ["/strapping/plastic-strapping/poly/hand-grade", "/tools/strap-dispensers"], "max": 3 }
+  },
+  "/strapping/plastic-strapping/poly/signode-comparable": {
+    "summary": "Poly strapping made to run in Signode strapping machines and tools, at distributor pricing.",
+    "useCases": ["Signode strapping heads and machines"],
+    "searchTerms": ["signode strapping", "signode compatible poly strapping", "signode replacement strap"],
+    "keyQuestions": ["Signode machine model?", "Width and core?"],
+    "complementary": { "categories": ["/strapping/metal-seals-for-plastic-strapping", "/tools/strap-dispensers"], "max": 3 }
+  },
+  "/strapping/plastic-strapping/polyester": {
+    "summary": "Polyester (PET) strapping is the modern replacement for light steel: high break strength, holds tension as loads settle, no rust and no sharp edges. Joined with serrated seals or a friction weld.",
+    "useCases": ["Lumber, brick and block", "Metal coils and cans", "Bottled goods and heavy pallets", "Export loads that ride a long way"],
+    "searchTerms": ["polyester strapping", "pet strapping", "pet banding", "plastic steel strapping replacement", "green strapping", "5/8 polyester strapping", "embossed strapping"],
+    "keyQuestions": ["Load weight and break strength needed?", "Hand tools, battery friction-weld tool, or machine?", "Width (1/2\", 5/8\", 3/4\")?"],
+    "complementary": { "categories": ["/strapping/metal-seals-for-plastic-strapping", "/tools/plastic-strapping-tools/battery-powered-tools", "/tools/plastic-strapping-tools/polyester-strapping-sealers", "/edge-protectors/heavy-duty-edge-protectors", "/tools/strap-dispensers"], "max": 5 }
+  },
+  "/strapping/plastic-strapping/polyester/embossed-machine-grade": {
+    "summary": "Embossed polyester strapping has a textured surface that grips seals and friction welds better, for machines and heavy loads.",
+    "useCases": ["Automatic PET strapping machines", "Heavy loads that need the strongest joints"],
+    "searchTerms": ["embossed polyester strapping", "embossed pet strap", "machine grade polyester strapping"],
+    "keyQuestions": ["Machine model?", "Width and break strength?"],
+    "complementary": { "categories": ["/strapping/metal-seals-for-plastic-strapping", "/tools/plastic-strapping-tools/battery-powered-tools"], "max": 3 }
+  },
+  "/strapping/plastic-strapping/polyester/signode-comparable": {
+    "summary": "Polyester strapping made to run in Signode PET tools and machines.",
+    "useCases": ["Signode polyester strapping systems"],
+    "searchTerms": ["signode polyester strapping", "signode pet strapping"],
+    "keyQuestions": ["Signode model?", "Width?"],
+    "complementary": { "categories": ["/strapping/metal-seals-for-plastic-strapping", "/tools/strap-dispensers"], "max": 3 }
+  },
+  "/strapping/cord-strapping": {
+    "summary": "Cord strapping is woven or bonded polyester yarn that you tension by hand and close with wire buckles — no sealer, re-tightenable, and gentle on the load. A favorite in lumber and agriculture.",
+    "useCases": ["Lumber, pipe and millwork bundles", "Loads that settle and need re-tightening", "Field and job-site strapping", "Products that steel would scratch"],
+    "searchTerms": ["cord strapping", "woven strapping", "polyester cord strap", "bonded cord strapping", "composite strapping", "cord strap kit", "lumber strapping"],
+    "keyQuestions": ["Load weight (regular or heavy duty)?", "Width and buckle size?", "Do you have a cord tensioner?"],
+    "complementary": { "categories": ["/strapping/steel-buckles-for-plastic-and-cord-strap/phosphate-finished-buckles", "/tools/cord-strapping-tools", "/edge-protectors/heavy-duty-edge-protectors", "/gloves/leather"], "max": 5 }
+  },
+  "/strapping/baling-wire": {
+    "summary": "Baling wire ties bales of cardboard, paper and scrap and secures bundles where strapping won't do: hand-tie wire in precut lengths with loops, or automatic baler wire by the skid.",
+    "useCases": ["Cardboard and paper balers", "Scrap metal and recycling", "Tying bundles and bales", "Fencing and general tie-off"],
+    "searchTerms": ["baling wire", "bale wire", "bailing wire", "baler wire", "hand tie wire", "box wire", "recycling wire", "11 gauge wire"],
+    "keyQuestions": ["Baler make and model, or hand tie?", "Gauge and length?", "Skid lots or by the box?"],
+    "complementary": { "categories": ["/gloves/leather", "/safety", "/tools/steel-strapping-tools/steel-strapping-cutters"], "max": 4 }
+  },
+
+  "/corrugated-boxes": {
+    "summary": "Corrugated shipping boxes (RSC style) in 200# burst test and lightweight 32 ECT, from 3\" cubes to 46\" long, sold by the bundle with volume pricing. Sizes are inside dimensions, L x W x H.",
+    "useCases": ["Parcel shipping", "Palletized freight", "Moving and storage", "Kitting and e-commerce fulfillment"],
+    "searchTerms": ["boxes", "shipping boxes", "cardboard boxes", "corrugated boxes", "rsc boxes", "moving boxes", "box sizes", "12x12x12 box", "brown boxes", "kraft boxes"],
+    "keyQuestions": ["Inside dimensions you need (L x W x H)?", "Parcel shipping (200#) or palletized (32 ECT)?", "How many bundles a month?"],
+    "complementary": { "categories": ["/tape/carton-sealing-tape/hot-melt-tape", "/tape/tape-dispensers", "/cushioning/bubble-wrap/standard", "/packing-list-envelopes/packing-list-enclosed", "/labels/stock-printed-labels/fragile", "/cushioning/kraft-paper-rolls/24-inch-kraft-rolls"], "max": 6 }
+  },
+  "/corrugated-boxes/200-pound-test": {
+    "summary": "200 lb burst-test boxes resist punctures and rough handling — the traditional choice for parcel shipping and heavy or dense contents.",
+    "useCases": ["UPS / FedEx parcel shipping", "Heavy or dense products", "Boxes handled many times"],
+    "searchTerms": ["200 lb test boxes", "200# boxes", "heavy duty shipping boxes", "burst test boxes", "strong cardboard boxes"],
+    "keyQuestions": ["Inside dimensions?", "Weight of the contents?", "Quantity per order?"],
+    "complementary": { "categories": ["/tape/carton-sealing-tape/hot-melt-tape", "/tape/tape-dispensers", "/cushioning/bubble-wrap/standard", "/packing-list-envelopes/packing-list-enclosed", "/labels/stock-printed-labels/fragile"], "max": 5 }
+  },
+  "/corrugated-boxes/lightweight-32-ect": {
+    "summary": "32 ECT boxes use a bit less board, so they are lighter and cheaper while stacking just as well on a pallet — ideal for lighter goods shipped palletized.",
+    "useCases": ["Palletized freight", "Lighter products", "High-volume packing lines", "Reducing box cost and weight"],
+    "searchTerms": ["32 ect boxes", "ect boxes", "lightweight shipping boxes", "economy boxes", "stacking boxes"],
+    "keyQuestions": ["Inside dimensions?", "Palletized or parcel?", "Quantity?"],
+    "complementary": { "categories": ["/tape/carton-sealing-tape/hot-melt-tape", "/tape/tape-dispensers", "/stretch-film/hand-film/cast", "/cushioning/kraft-paper-rolls/24-inch-kraft-rolls", "/labels/stock-printed-labels/shipping-and-receiving"], "max": 5 }
+  },
+  "/corrugated-boxes/white-rsc-3": {
+    "summary": "White corrugated RSC boxes for a clean presentation — retail, gift and direct-to-consumer shipments where the box is part of the product.",
+    "useCases": ["E-commerce and subscription boxes", "Retail and gift packaging", "Clean-room and food shipments"],
+    "searchTerms": ["white boxes", "white shipping boxes", "white corrugated boxes", "white rsc"],
+    "keyQuestions": ["Inside dimensions?", "Printed or plain?"],
+    "complementary": { "categories": ["/tape/paper-tape/water-activated-tape", "/cushioning/newsprint/newsprint-sheets", "/cushioning/bubble-wrap/standard", "/labels/stock-printed-labels/fragile"], "max": 4 }
+  },
+
+  "/tape": {
+    "summary": "Packaging tape for every seal: hot melt and acrylic carton sealing tape, water-activated kraft tape, filament strapping tape, masking and duct tape, plus the dispensers that make them fast.",
+    "useCases": ["Sealing shipping cartons", "Bundling and reinforcing", "Masking and painting", "Labeling and color coding"],
+    "searchTerms": ["tape", "packing tape", "packaging tape", "box tape", "shipping tape", "carton tape", "tape rolls", "2 inch tape"],
+    "keyQuestions": ["What are you taping — box weight and board type?", "Hand or machine application?", "Storage conditions (heat, cold, long-term)?"],
+    "complementary": { "categories": ["/tape/tape-dispensers", "/corrugated-boxes/200-pound-test", "/cushioning/bubble-wrap/standard", "/labels/stock-printed-labels/fragile"], "max": 5 }
+  },
+  "/tape/carton-sealing-tape": {
+    "summary": "Carton sealing tape: 2\" and 3\" rolls of clear or tan tape for closing shipping boxes by hand or machine.",
+    "useCases": ["Closing shipping cartons", "Machine carton sealing", "Resealing returns"],
+    "searchTerms": ["carton sealing tape", "packing tape", "box sealing tape", "clear packing tape", "tan tape", "2 x 110 tape", "2 x 55 tape", "machine tape"],
+    "keyQuestions": ["Hand rolls (55 yd) or machine rolls (110 yd / 1000 yd)?", "Clear or tan?", "Box weight?"],
+    "complementary": { "categories": ["/tape/tape-dispensers", "/corrugated-boxes/200-pound-test", "/labels/stock-printed-labels/fragile", "/cushioning/bubble-wrap/standard"], "max": 5 }
+  },
+  "/tape/carton-sealing-tape/hot-melt-tape": {
+    "summary": "Hot melt carton sealing tape has aggressive instant tack and strong holding power on recycled board — the workhorse tape for busy shipping rooms. 1.6 mil economy for light boxes, 1.9 mil performance for medium-weight boxes.",
+    "useCases": ["Everyday carton sealing", "Recycled or dusty corrugated", "Hand and machine sealing"],
+    "searchTerms": ["hot melt tape", "hot melt packing tape", "synthetic rubber tape", "1.9 mil tape", "1.6 mil tape", "economy packing tape", "strong packing tape"],
+    "keyQuestions": ["Box weight: economy (1.6 mil) or performance (1.9 mil)?", "Hand or machine rolls?", "Clear or tan?"],
+    "complementary": { "categories": ["/tape/tape-dispensers", "/corrugated-boxes/200-pound-test", "/labels/stock-printed-labels/fragile", "/cushioning/kraft-paper-rolls/24-inch-kraft-rolls"], "max": 5 }
+  },
+  "/tape/carton-sealing-tape/natural-rubber": {
+    "summary": "Natural rubber carton sealing tape sticks instantly in cold rooms and on rough board where hot melt and acrylic struggle.",
+    "useCases": ["Cold storage and freezer shipping", "Rough or recycled corrugated"],
+    "searchTerms": ["natural rubber tape", "cold temperature packing tape", "freezer tape", "cold room tape"],
+    "keyQuestions": ["Temperature the box is sealed and stored at?", "Hand or machine?"],
+    "complementary": { "categories": ["/tape/tape-dispensers", "/corrugated-boxes/200-pound-test"], "max": 3 }
+  },
+  "/tape/carton-sealing-tape/label-protection-tape": {
+    "summary": "Clear label protection tape goes over shipping labels and packing lists so they survive rain, scuffs and handling.",
+    "useCases": ["Protecting shipping labels", "Sealing packing lists to cartons"],
+    "searchTerms": ["label protection tape", "label tape", "clear label cover tape", "wide clear tape"],
+    "keyQuestions": ["Width needed (4\", 5\", 6\")?"],
+    "complementary": { "categories": ["/labels/direct-thermal-labels/desktop", "/packing-list-envelopes/clear", "/tape/tape-dispensers"], "max": 3 }
+  },
+  "/tape/acrylic-tape": {
+    "summary": "Acrylic carton sealing tape is clear, UV-stable and ages well — the choice when sealed boxes sit in storage, ride in hot trucks or need to look clean.",
+    "useCases": ["Long-term storage", "Hot or sunny warehouses", "Retail-ready cartons", "Color-coded sealing"],
+    "searchTerms": ["acrylic tape", "acrylic packing tape", "clear carton tape", "premium packing tape", "colored packing tape", "mighty tac"],
+    "keyQuestions": ["Storage conditions?", "Hand or machine rolls?", "Clear, tan or colors?"],
+    "complementary": { "categories": ["/tape/tape-dispensers", "/corrugated-boxes/200-pound-test", "/labels/stock-printed-labels/fragile"], "max": 4 }
+  },
+  "/tape/acrylic-tape/pre-printed-tape": {
+    "summary": "Pre-printed carton sealing tape (Fragile, Handle With Care, This Side Up) seals the box and warns the handler in one pass.",
+    "useCases": ["Fragile shipments", "Skipping a separate warning label"],
+    "searchTerms": ["printed packing tape", "fragile tape", "handle with care tape", "printed carton tape"],
+    "keyQuestions": ["Which message?", "Quantity?"],
+    "complementary": { "categories": ["/tape/tape-dispensers", "/cushioning/bubble-wrap/standard", "/labels/stock-printed-labels/fragile"], "max": 3 }
+  },
+  "/tape/paper-tape": {
+    "summary": "Paper tape: water-activated (gummed) kraft tape that bonds into the box for a tamper-evident, recyclable seal, and flatback kraft tape for splicing and sealing.",
+    "useCases": ["Tamper-evident carton sealing", "Recyclable, plastic-free packaging", "Heavy cartons (reinforced grades)", "E-commerce presentation"],
+    "searchTerms": ["paper tape", "gummed tape", "water activated tape", "kraft tape", "reinforced kraft tape", "brown paper tape", "wat tape", "eco tape"],
+    "keyQuestions": ["Reinforced or plain?", "Width?", "Do you have a wetting dispenser?"],
+    "complementary": { "categories": ["/corrugated-boxes/white-rsc-3", "/corrugated-boxes/200-pound-test", "/cushioning/newsprint/newsprint-sheets"], "max": 4 }
+  },
+  "/tape/strapping-tape": {
+    "summary": "Filament (fiberglass-reinforced) strapping tape bundles, reinforces and closes heavy cartons without strapping tools; rated by tensile strength (utility, 190#, 300#).",
+    "useCases": ["Bundling pipe, boards and boxes", "Reinforcing heavy cartons", "Palletizing light loads", "Appliance and furniture tie-down"],
+    "searchTerms": ["strapping tape", "filament tape", "fiberglass tape", "reinforced tape", "bundling tape", "tensilized tape", "black strapping tape"],
+    "keyQuestions": ["How much strength: utility, 190#, or 300#?", "Width?"],
+    "complementary": { "categories": ["/tape/tape-dispensers", "/edge-protectors/light-duty", "/corrugated-boxes/200-pound-test"], "max": 4 }
+  },
+  "/tape/masking-tape": {
+    "summary": "Masking tape in economy, general-purpose and painter's grades for finishing, bundling and temporary labeling.",
+    "useCases": ["Painting and finishing", "Temporary labeling", "Light bundling"],
+    "searchTerms": ["masking tape", "painters tape", "blue tape", "paint tape", "general purpose masking tape"],
+    "keyQuestions": ["Painter's (clean removal) or general purpose?", "Width?"],
+    "complementary": { "categories": ["/poly-sheeting/paint-and-acoustic-film", "/safety", "/tape/duct-tape"], "max": 3 }
+  },
+  "/tape/duct-tape": {
+    "summary": "Cloth duct tape for repairs, bundling and sealing where a strong, tearable tape is needed.",
+    "useCases": ["Repairs and patching", "Sealing ducts and sheeting", "Bundling"],
+    "searchTerms": ["duct tape", "duck tape", "cloth tape", "silver tape"],
+    "keyQuestions": ["Width and length?", "Quantity?"],
+    "complementary": { "categories": ["/poly-sheeting/clear-poly-sheeting", "/tape/masking-tape"], "max": 3 }
+  },
+  "/tape/tape-dispensers": {
+    "summary": "Tape guns and dispensers for 2\" and 3\" carton sealing tape — the fastest upgrade for anyone sealing boxes by hand.",
+    "useCases": ["Hand carton sealing", "Packing stations", "Water-activated tape (wetting dispensers)"],
+    "searchTerms": ["tape gun", "tape dispenser", "packing tape dispenser", "hand tape gun", "3 inch tape gun", "gummed tape dispenser"],
+    "keyQuestions": ["2\" or 3\" tape?", "Pistol grip or desktop?"],
+    "complementary": { "categories": ["/tape/carton-sealing-tape/hot-melt-tape", "/tape/acrylic-tape", "/corrugated-boxes/200-pound-test"], "max": 4 }
+  },
+
+  "/bags": {
+    "summary": "Poly bags in every mil and shape: flat and gusseted bags, reclosable (zipper) bags, poly tubing for custom lengths, anti-static bags and t-shirt bags. A mil is one-thousandth of an inch — more mils, tougher bag.",
+    "useCases": ["Parts and hardware kitting", "Food and produce packaging", "Protecting finished goods", "Retail and sample bags"],
+    "searchTerms": ["poly bags", "plastic bags", "clear bags", "polyethylene bags", "bags", "ziplock bags", "zipper bags", "parts bags"],
+    "keyQuestions": ["Bag size (W x L) and thickness (mil)?", "Flat, gusseted or reclosable?", "What goes in it — weight and sharp edges?"],
+    "complementary": { "categories": ["/tape/carton-sealing-tape/hot-melt-tape", "/labels/direct-thermal-labels/desktop", "/corrugated-boxes/200-pound-test", "/gloves/disposable"], "max": 4 }
+  },
+  "/bags/flat-poly-bags": {
+    "summary": "Flat poly bags: open-top polyethylene bags in widths from 2\" to 60\", in 1 to 6 mil. Thin for light parts and produce, 2 mil for general use, 4–6 mil for heavy or sharp parts.",
+    "useCases": ["Parts and hardware", "Food and produce", "Mailing and dust protection", "Bulk packaging"],
+    "searchTerms": ["flat poly bags", "clear plastic bags", "open top bags", "layflat bags", "parts bags", "2 mil poly bags", "4 mil bags"],
+    "keyQuestions": ["Width and length?", "Mil thickness?", "Quantity per case or cases per month?"],
+    "complementary": { "categories": ["/bags/reclosable-bags/2-mil", "/tape/carton-sealing-tape/hot-melt-tape", "/labels/direct-thermal-labels/desktop", "/rope-and-twine/1-ply-industrial-poly-tying-twine"], "max": 4 }
+  },
+  "/bags/gusseted-poly-bags": {
+    "summary": "Gusseted poly bags expand at the sides to hold boxes, bulk product, drums and pails — the right shape when the contents have depth.",
+    "useCases": ["Box and carton liners", "Pail and drum liners", "Bulk product", "Covers for stacked goods"],
+    "searchTerms": ["gusseted bags", "gusset poly bags", "box liners", "pail liners", "drum liners", "expandable poly bags"],
+    "keyQuestions": ["Width x gusset x length?", "Mil?", "Food contact?"],
+    "complementary": { "categories": ["/corrugated-boxes/200-pound-test", "/tape/carton-sealing-tape/hot-melt-tape", "/rope-and-twine/1-ply-industrial-poly-tying-twine"], "max": 4 }
+  },
+  "/bags/poly-tubing": {
+    "summary": "Poly tubing is continuous polyethylene tube on a roll: cut to length and heat-seal both ends to make custom bags for odd-sized parts. Pink anti-static tubing for electronics.",
+    "useCases": ["Custom-length bags for long parts", "Protecting pipe, extrusions and rods", "Electronics (anti-static)", "Bulk bagging lines"],
+    "searchTerms": ["poly tubing", "plastic tubing bags", "layflat tubing", "tube bags", "custom length bags", "anti static tubing"],
+    "keyQuestions": ["Width and mil?", "Do you have an impulse sealer?", "Quantity?"],
+    "complementary": { "categories": ["/tape/carton-sealing-tape/hot-melt-tape", "/bags/flat-poly-bags/2-mil", "/cushioning/foam/1-16-inch"], "max": 4 }
+  },
+  "/bags/poly-tubing/pink-anti-static": {
+    "summary": "Pink anti-static poly tubing dissipates static so circuit boards and electronic parts can be bagged safely.",
+    "useCases": ["Electronics and circuit boards", "Static-sensitive parts"],
+    "searchTerms": ["anti static tubing", "pink anti static bags", "esd bags", "static shielding", "pink poly"],
+    "keyQuestions": ["Width and mil?", "Bags or tubing?"],
+    "complementary": { "categories": ["/cushioning/bubble-wrap/anti-static", "/mailers/anti-static-bubble-pouches", "/labels/stock-printed-labels/anti-static"], "max": 4 }
+  },
+  "/bags/reclosable-bags": {
+    "summary": "Reclosable (zipper) poly bags in 2 mil and 4 mil for kits, samples and small parts that get opened and closed; also available with a hang hole for retail.",
+    "useCases": ["Small-parts kitting", "Samples and swatches", "Retail hardware packs", "Food portioning"],
+    "searchTerms": ["reclosable bags", "zip lock bags", "ziplock bags", "zipper bags", "resealable bags", "zip bags", "4 mil zip bags", "hang hole bags"],
+    "keyQuestions": ["Size and mil?", "With or without hang hole?", "Quantity?"],
+    "complementary": { "categories": ["/labels/direct-thermal-labels/desktop", "/corrugated-boxes/200-pound-test", "/bags/flat-poly-bags/2-mil"], "max": 4 }
+  },
+  "/bags/reclosable-bags-with-hang-hole": {
+    "summary": "Reclosable bags with a hang hole for pegboard and retail display of parts, hardware and samples.",
+    "useCases": ["Retail peg display", "Hardware kits"],
+    "searchTerms": ["hang hole bags", "pegboard bags", "retail zipper bags", "reclosable bags with hole"],
+    "keyQuestions": ["Size and mil?", "Quantity?"],
+    "complementary": { "categories": ["/labels/direct-thermal-labels/desktop", "/bags/reclosable-bags/2-mil"], "max": 3 }
+  },
+  "/bags/t-shirt-bags": {
+    "summary": "T-shirt (merchandise) bags with handles for counter sales and will-call pickups.",
+    "useCases": ["Retail counters", "Will-call and takeout"],
+    "searchTerms": ["t-shirt bags", "merchandise bags", "grocery bags", "handle bags", "thank you bags"],
+    "keyQuestions": ["Size and quantity?"],
+    "complementary": { "categories": ["/bags/flat-poly-bags/1-mil"], "max": 2 }
+  },
+
+  "/cushioning": {
+    "summary": "Protective packaging that absorbs shock and stops things moving inside the box: bubble wrap, foam, kraft paper, newsprint, corrugated pads and packing peanuts.",
+    "useCases": ["Protecting fragile products in transit", "Void fill", "Surface protection and interleaving", "Wrapping furniture and parts"],
+    "searchTerms": ["cushioning", "packing material", "void fill", "protective packaging", "packaging foam", "bubble wrap", "packing paper"],
+    "keyQuestions": ["What are you protecting and how fragile is it?", "Wrap-around protection or void fill?", "Roll width your table can handle?"],
+    "complementary": { "categories": ["/corrugated-boxes/200-pound-test", "/tape/carton-sealing-tape/hot-melt-tape", "/labels/stock-printed-labels/fragile", "/tape/tape-dispensers"], "max": 4 }
+  },
+  "/cushioning/bubble-wrap": {
+    "summary": "Bubble wrap rolls (3/16\" small bubble, 1/2\" large bubble) perforated for easy tearing; standard, anti-static and eco grades.",
+    "useCases": ["Wrapping fragile items", "Void fill with large bubble", "Surface protection", "Electronics (anti-static)"],
+    "searchTerms": ["bubble wrap", "bubble roll", "bubble cushioning", "small bubble", "large bubble", "12 inch bubble wrap", "48 x 250 bubble"],
+    "keyQuestions": ["Small (3/16\") or large (1/2\") bubble?", "Roll width (12\", 24\", 48\")?", "Perforated?"],
+    "complementary": { "categories": ["/corrugated-boxes/200-pound-test", "/tape/carton-sealing-tape/hot-melt-tape", "/labels/stock-printed-labels/fragile", "/tools/bubble-dispensers"], "max": 4 }
+  },
+  "/cushioning/bubble-wrap/anti-static": {
+    "summary": "Pink anti-static bubble wrap for wrapping circuit boards and electronics without static buildup.",
+    "useCases": ["Electronics and components", "Static-sensitive assemblies"],
+    "searchTerms": ["anti static bubble wrap", "pink bubble wrap", "esd bubble", "static free bubble"],
+    "keyQuestions": ["Bubble size and roll width?"],
+    "complementary": { "categories": ["/bags/poly-tubing/pink-anti-static", "/mailers/anti-static-bubble-pouches", "/labels/stock-printed-labels/anti-static"], "max": 3 }
+  },
+  "/cushioning/bubble-wrap/eco-cell": {
+    "summary": "Eco-Cell bubble uses recycled content and a lighter structure for greener cushioning with the same protection.",
+    "useCases": ["Sustainable packaging programs", "General fragile wrapping"],
+    "searchTerms": ["eco bubble wrap", "recycled bubble wrap", "green bubble", "eco-cell"],
+    "keyQuestions": ["Bubble size and roll width?"],
+    "complementary": { "categories": ["/tape/paper-tape/water-activated-tape", "/corrugated-boxes/200-pound-test"], "max": 3 }
+  },
+  "/cushioning/foam": {
+    "summary": "Polyethylene foam: thin foam sheets and rolls (1/32\"–1/2\") to protect finishes and separate parts, and plank foam (1.2–2.2 lb density) for heavy-duty cushioning and fabricated inserts.",
+    "useCases": ["Protecting painted and polished surfaces", "Interleaving parts", "Cushioning heavy items (plank)", "Lining crates and cases"],
+    "searchTerms": ["foam", "foam sheets", "foam rolls", "packing foam", "polyethylene foam", "plank foam", "foam padding", "1/4 inch foam"],
+    "keyQuestions": ["Thickness?", "Sheets or rolls, and what width?", "Weight of the item (plank density)?"],
+    "complementary": { "categories": ["/corrugated-boxes/200-pound-test", "/tape/carton-sealing-tape/hot-melt-tape", "/cushioning/bubble-wrap/standard"], "max": 4 }
+  },
+  "/cushioning/kraft-paper-rolls": {
+    "summary": "Kraft paper rolls (12\"–72\" wide) for void fill, wrapping, interleaving and bench covering — recyclable, fast and cheap.",
+    "useCases": ["Crumpled void fill", "Wrapping finished goods", "Interleaving layers", "Covering packing benches"],
+    "searchTerms": ["kraft paper", "kraft paper roll", "packing paper", "brown paper roll", "wrapping paper", "butcher paper", "paper roll 48 inch"],
+    "keyQuestions": ["Roll width?", "Basis weight (30#, 40#, 50#, 60#)?", "Do you have a dispenser?"],
+    "complementary": { "categories": ["/tools/kraft-paper-dispensers", "/corrugated-boxes/200-pound-test", "/tape/paper-tape/water-activated-tape"], "max": 4 }
+  },
+  "/cushioning/newsprint": {
+    "summary": "Unprinted newsprint sheets and rolls for wrapping dishes, glassware and small items — lighter and cleaner than kraft.",
+    "useCases": ["Wrapping dishes and glassware", "Moving and packing", "Light void fill"],
+    "searchTerms": ["newsprint", "packing newsprint", "newspaper packing paper", "white packing paper", "moving paper"],
+    "keyQuestions": ["Sheets or rolls?", "Size and quantity?"],
+    "complementary": { "categories": ["/corrugated-boxes/200-pound-test", "/tape/carton-sealing-tape/hot-melt-tape", "/cushioning/bubble-wrap/standard"], "max": 3 }
+  },
+  "/cushioning/butcher-paper": {
+    "summary": "Butcher paper rolls for food wrapping, table covering and clean surface protection.",
+    "useCases": ["Food service wrapping", "Table and bench covering", "Craft and art"],
+    "searchTerms": ["butcher paper", "white butcher paper", "food wrapping paper", "table paper"],
+    "keyQuestions": ["Width and weight?"],
+    "complementary": { "categories": ["/tape/masking-tape", "/gloves/disposable"], "max": 3 }
+  },
+  "/cushioning/reinforced-scrim-paper": {
+    "summary": "Reinforced scrim paper is kraft with a fiberglass scrim laminated in — tear-resistant wrap for heavy or sharp items and outdoor covering.",
+    "useCases": ["Wrapping metal parts and castings", "Covering loads outdoors", "Floor and surface protection"],
+    "searchTerms": ["scrim paper", "reinforced paper", "tear resistant paper", "scrim kraft"],
+    "keyQuestions": ["Width?", "Quantity?"],
+    "complementary": { "categories": ["/tape/strapping-tape/filament-strapping-tape-utility-grade", "/cushioning/kraft-paper-rolls/36-inch-kraft-rolls"], "max": 3 }
+  },
+  "/cushioning/corrugated-cushioning": {
+    "summary": "Corrugated pads and single-face corrugated rolls: layer pads for pallets, dividers, wrap for furniture and protection for edges.",
+    "useCases": ["Pallet layer pads and tier sheets", "Wrapping furniture and large items", "Dividers and void fill", "Edge protection"],
+    "searchTerms": ["corrugated pads", "cardboard pads", "layer pads", "tier sheets", "single face corrugated", "corrugated roll", "cardboard roll"],
+    "keyQuestions": ["Pad size or roll width?", "Quantity?"],
+    "complementary": { "categories": ["/stretch-film/hand-film/cast", "/tape/carton-sealing-tape/hot-melt-tape", "/edge-protectors/light-duty"], "max": 4 }
+  },
+  "/cushioning/packing-peanuts": {
+    "summary": "Loose-fill packing peanuts fill the voids around odd-shaped items so nothing shifts in the box.",
+    "useCases": ["Void fill for odd shapes", "Lightweight items", "Mail-order shipping"],
+    "searchTerms": ["packing peanuts", "loose fill", "styrofoam peanuts", "void fill peanuts", "packaging peanuts"],
+    "keyQuestions": ["Bags per month?", "Do you need a dispenser hopper?"],
+    "complementary": { "categories": ["/corrugated-boxes/200-pound-test", "/tape/carton-sealing-tape/hot-melt-tape", "/cushioning/bubble-wrap/standard"], "max": 3 }
+  },
+
+  "/edge-protectors": {
+    "summary": "Edge protectors (angleboards, corner boards) slide under strapping or stretch film at the corners of a load to spread strap tension, stiffen the stack and keep film from cutting on sharp edges.",
+    "useCases": ["Protecting box corners from strapping", "Stiffening tall pallets", "Keeping stretch film from tearing on corners", "Protecting lumber and metal edges"],
+    "searchTerms": ["edge protectors", "corner protectors", "angleboard", "corner boards", "edge boards", "pallet corner protectors", "strapping protectors", "corner guards"],
+    "keyQuestions": ["Length (match load height) and leg size (2x2 or 3x3)?", "Light, medium or heavy duty?", "Strapping or stretch film?"],
+    "complementary": { "categories": ["/strapping/plastic-strapping/polyester/hand-grade", "/stretch-film/hand-film/cast", "/strapping/steel/regular-duty", "/tarps-and-pallet-covers/pallet-covers"], "max": 4 }
+  },
+  "/edge-protectors/light-duty": {
+    "summary": "Light-duty edge protectors (around .120\" thick) for boxes and light cartons under stretch film or poly strapping.",
+    "useCases": ["Boxed goods on pallets", "Light poly strapping", "Stretch-wrapped loads"],
+    "searchTerms": ["light duty edge protectors", "thin corner boards", "box corner protectors"],
+    "keyQuestions": ["Length and leg size?", "Pieces per month?"],
+    "complementary": { "categories": ["/stretch-film/hand-film/cast", "/strapping/plastic-strapping/poly/hand-grade", "/corrugated-boxes/200-pound-test"], "max": 3 }
+  },
+  "/edge-protectors/medium-duty": {
+    "summary": "Medium-duty edge protectors (around .160\") for the typical mixed pallet strapped with polyester or wrapped tight.",
+    "useCases": ["General palletizing", "Polyester strapping", "Stacked pallets"],
+    "searchTerms": ["medium duty edge protectors", "pallet edge boards", "angleboard 48 inch"],
+    "keyQuestions": ["Length and leg size?", "Pieces per month?"],
+    "complementary": { "categories": ["/strapping/plastic-strapping/polyester/hand-grade", "/stretch-film/hand-film/cast", "/tarps-and-pallet-covers/pallet-covers"], "max": 3 }
+  },
+  "/edge-protectors/heavy-duty-edge-protectors": {
+    "summary": "Heavy-duty edge protectors (.225\" and up) for lumber, metal, brick and anything strapped hard with steel or polyester.",
+    "useCases": ["Lumber and building materials", "Metal and heavy crates", "Steel strapping"],
+    "searchTerms": ["heavy duty edge protectors", "thick corner boards", "lumber corner protectors", "steel strapping protectors"],
+    "keyQuestions": ["Length and leg size?", "Strap width?"],
+    "complementary": { "categories": ["/strapping/steel/regular-duty", "/strapping/plastic-strapping/polyester/hand-grade", "/strapping/cord-strapping/heavy-duty-woven"], "max": 3 }
+  },
+  "/edge-protectors/strapping-edge-protectors": {
+    "summary": "Small strapping protectors sit under the strap line only, protecting the corner right where the strap bites.",
+    "useCases": ["Steel and polyester strapping on cartons", "Protecting product edges under straps"],
+    "searchTerms": ["strap protectors", "strapping corner protectors", "strap guards", "plastic corner protectors"],
+    "keyQuestions": ["Strap width?", "Quantity?"],
+    "complementary": { "categories": ["/strapping/steel/regular-duty", "/strapping/plastic-strapping/polyester/hand-grade"], "max": 3 }
+  },
+  "/edge-protectors/do-not-double-stack-edge-protectors": {
+    "summary": "\"Do not double stack\" cones and protectors sit on top of a pallet so carriers won't stack another load on it in transit.",
+    "useCases": ["Fragile or crushable pallets", "LTL freight", "Top-heavy loads"],
+    "searchTerms": ["do not stack cones", "do not double stack", "pallet cones", "no stack protectors", "stacking cones"],
+    "keyQuestions": ["Cones or protectors?", "Quantity?"],
+    "complementary": { "categories": ["/labels/stock-printed-labels/pallet-protection", "/stretch-film/hand-film/cast", "/edge-protectors/medium-duty"], "max": 3 }
+  },
+
+  "/labels": {
+    "summary": "Labels for shipping and warehousing: pre-printed stock labels (Fragile, This Side Up, hazmat, inventory), direct thermal and thermal transfer label rolls for Zebra-class printers, laser labels and printer ribbons.",
+    "useCases": ["Shipping and receiving", "Warehouse inventory", "Handling warnings", "Barcode printing"],
+    "searchTerms": ["labels", "shipping labels", "stickers", "thermal labels", "warning labels", "barcode labels", "4x6 labels", "printer ribbons"],
+    "keyQuestions": ["Pre-printed message or blank for a printer?", "Printer make and model (direct thermal or thermal transfer)?", "Label size?"],
+    "complementary": { "categories": ["/tape/carton-sealing-tape/label-protection-tape", "/corrugated-boxes/200-pound-test", "/packing-list-envelopes/packing-list-enclosed", "/tape/carton-sealing-tape/hot-melt-tape"], "max": 4 }
+  },
+  "/labels/stock-printed-labels": {
+    "summary": "Pre-printed stock labels on rolls — Fragile, Handle With Care, This Side Up, arrows, hazmat, climate, inventory and more — in bold colors handlers notice.",
+    "useCases": ["Marking fragile shipments", "Handling and orientation instructions", "Hazmat and regulatory marking", "Inventory and receiving control"],
+    "searchTerms": ["printed labels", "fragile labels", "fragile stickers", "this side up labels", "handle with care", "warning labels", "shipping stickers", "hazmat labels"],
+    "keyQuestions": ["Which message?", "Label size and rolls per order?"],
+    "complementary": { "categories": ["/tape/carton-sealing-tape/hot-melt-tape", "/cushioning/bubble-wrap/standard", "/corrugated-boxes/200-pound-test", "/tape/carton-sealing-tape/label-protection-tape"], "max": 4 }
+  },
+  "/labels/direct-thermal-labels": {
+    "summary": "Direct thermal label rolls print without a ribbon on Zebra, Datamax, Sato and similar printers — the standard for shipping labels and short-life barcodes.",
+    "useCases": ["Shipping labels (4x6)", "Barcode and inventory labels", "Short-term product labeling"],
+    "searchTerms": ["direct thermal labels", "thermal labels", "4x6 labels", "zebra labels", "shipping label rolls", "thermal printer labels", "fan fold labels"],
+    "keyQuestions": ["Label size and core (1\" desktop or 3\" industrial)?", "Printer model?", "Fan-fold or rolls?"],
+    "complementary": { "categories": ["/tape/carton-sealing-tape/label-protection-tape", "/packing-list-envelopes/clear", "/corrugated-boxes/200-pound-test"], "max": 3 }
+  },
+  "/labels/thermal-transfer-labels": {
+    "summary": "Thermal transfer labels print with a ribbon for durable, smudge-proof barcodes and product labels that must last — in white and colors, rolls or fan-fold.",
+    "useCases": ["Durable barcode labels", "Product and asset labels", "Color-coded inventory labels", "Labels exposed to heat or abrasion"],
+    "searchTerms": ["thermal transfer labels", "ribbon labels", "durable barcode labels", "colored thermal labels", "zebra thermal transfer"],
+    "keyQuestions": ["Label size and core?", "Printer model and ribbon type?", "Color?"],
+    "complementary": { "categories": ["/labels/premium-ribbons/zebra-printer-ribbons", "/tape/carton-sealing-tape/label-protection-tape"], "max": 3 }
+  },
+  "/labels/premium-ribbons": {
+    "summary": "Thermal transfer printer ribbons (wax, wax/resin, resin) for Zebra, Datamax, Sato and Intermec printers.",
+    "useCases": ["Thermal transfer label printing", "Durable barcode printing"],
+    "searchTerms": ["printer ribbons", "thermal ribbons", "zebra ribbons", "datamax ribbons", "sato ribbons", "wax ribbon", "resin ribbon"],
+    "keyQuestions": ["Printer model?", "Ribbon width, length and type (wax / wax-resin / resin)?"],
+    "complementary": { "categories": ["/labels/thermal-transfer-labels/white", "/labels/thermal-transfer-labels/color-tinted"], "max": 3 }
+  },
+
+  "/mailers": {
+    "summary": "Mailers for parcel shipping: kraft and poly bubble mailers, lightweight poly mailers, and bubble pouches (standard and anti-static) for protecting small items.",
+    "useCases": ["E-commerce shipping of small goods", "Protecting parts and electronics in transit", "Document and soft-goods mailing"],
+    "searchTerms": ["mailers", "bubble mailers", "padded envelopes", "poly mailers", "shipping envelopes", "bubble bags", "bubble pouches", "padded mailers"],
+    "keyQuestions": ["Item size and fragility?", "Kraft, poly or bubble pouch?", "Quantity per month?"],
+    "complementary": { "categories": ["/labels/direct-thermal-labels/desktop", "/tape/carton-sealing-tape/hot-melt-tape", "/packing-list-envelopes/packing-list-enclosed", "/cushioning/bubble-wrap/standard"], "max": 4 }
+  },
+  "/mailers/anti-static-bubble-pouches": {
+    "summary": "Pink anti-static bubble pouches protect boards and components from both impact and static.",
+    "useCases": ["Electronics and components", "Static-sensitive parts shipping"],
+    "searchTerms": ["anti static bubble bags", "esd bubble pouches", "pink bubble bags"],
+    "keyQuestions": ["Pouch size?", "Quantity?"],
+    "complementary": { "categories": ["/bags/poly-tubing/pink-anti-static", "/cushioning/bubble-wrap/anti-static", "/labels/stock-printed-labels/anti-static"], "max": 3 }
+  },
+
+  "/mailing-tubes": {
+    "summary": "Kraft mailing tubes with end caps for shipping drawings, posters, rods and anything long and rollable.",
+    "useCases": ["Blueprints and drawings", "Posters and signage", "Rods, dowels and long parts"],
+    "searchTerms": ["mailing tubes", "shipping tubes", "poster tubes", "kraft tubes", "cardboard tubes", "tube end caps"],
+    "keyQuestions": ["Diameter and length?", "Caps included or separate?", "Quantity?"],
+    "complementary": { "categories": ["/mailing-tubes/end-caps", "/labels/direct-thermal-labels/desktop", "/tape/carton-sealing-tape/hot-melt-tape"], "max": 3 }
+  },
+  "/mailing-tubes/end-caps": {
+    "summary": "Plastic end caps that close kraft mailing tubes.",
+    "useCases": ["Closing mailing tubes"],
+    "searchTerms": ["tube end caps", "mailing tube caps", "plastic end plugs"],
+    "keyQuestions": ["Tube diameter?"],
+    "complementary": { "categories": ["/mailing-tubes/kraft-mailing-tubes", "/tape/carton-sealing-tape/hot-melt-tape"], "max": 2 }
+  },
+
+  "/packing-list-envelopes": {
+    "summary": "Self-adhesive packing list envelopes (clear, Packing List Enclosed, Invoice Enclosed) that stick to the carton and keep paperwork with the shipment.",
+    "useCases": ["Attaching packing lists and invoices", "Shipping documents with freight", "Customs paperwork"],
+    "searchTerms": ["packing list envelopes", "packing slip envelopes", "invoice enclosed envelopes", "document pouches", "shipping document envelopes", "packing list enclosed"],
+    "keyQuestions": ["Clear or printed?", "Size (4.5x5.5, 7x10...)?", "Quantity?"],
+    "complementary": { "categories": ["/corrugated-boxes/200-pound-test", "/tape/carton-sealing-tape/hot-melt-tape", "/labels/stock-printed-labels/shipping-and-receiving"], "max": 3 }
+  },
+
+  "/poly-sheeting": {
+    "summary": "Polyethylene sheeting (visqueen) in clear, black and flame-retardant grades, plus paint and acoustic masking film — for covering, containment, moisture barriers and job-site protection.",
+    "useCases": ["Dust and paint containment", "Vapor and moisture barriers", "Covering loads and equipment", "Construction and remodeling"],
+    "searchTerms": ["poly sheeting", "plastic sheeting", "visqueen", "painters plastic", "drop cloth", "6 mil plastic", "vapor barrier", "construction plastic", "black plastic sheeting"],
+    "keyQuestions": ["Width, length and mil?", "Clear, black or flame retardant?", "Quantity?"],
+    "complementary": { "categories": ["/tape/duct-tape", "/tape/masking-tape", "/safety", "/gloves/disposable"], "max": 4 }
+  },
+  "/poly-sheeting/flame-retardant": {
+    "summary": "Flame-retardant poly sheeting meets fire codes for enclosures, containment and temporary walls on job sites.",
+    "useCases": ["Construction containment", "Temporary walls and enclosures", "Hospital and clean-area work"],
+    "searchTerms": ["flame retardant plastic", "fire retardant sheeting", "fr poly", "fire rated plastic sheeting"],
+    "keyQuestions": ["Width, length and mil?", "Certification required?"],
+    "complementary": { "categories": ["/tape/duct-tape", "/safety"], "max": 3 }
+  },
+  "/poly-sheeting/paint-and-acoustic-film": {
+    "summary": "Paint masking film and acoustic film: lightweight plastic that clings to surfaces for overspray protection and sound-barrier work.",
+    "useCases": ["Painting and overspray protection", "Acoustic barriers", "Dust protection during remodels"],
+    "searchTerms": ["paint masking film", "overspray film", "painters plastic", "acoustic film", "masking plastic"],
+    "keyQuestions": ["Width and length?", "Pre-taped?"],
+    "complementary": { "categories": ["/tape/masking-tape/painters-grade-tape", "/safety"], "max": 3 }
+  },
+
+  "/rope-and-twine": {
+    "summary": "Rope, twine and pull tape: truck rope and tarp rope, poly and nylon rope, tying twine for bundles, seine twine, and conduit pull twine and measuring pull tape for electrical work.",
+    "useCases": ["Tying down loads and tarps", "Bundling and tying", "Pulling wire through conduit", "General utility rope"],
+    "searchTerms": ["rope", "twine", "truck rope", "tie down rope", "poly rope", "nylon rope", "string", "tying twine", "pull twine", "pull tape", "seine twine"],
+    "keyQuestions": ["Diameter and length?", "Working load?", "Twisted or braided, poly or nylon?"],
+    "complementary": { "categories": ["/tarps-and-pallet-covers/tarps-and-tarp-straps", "/gloves/leather", "/tape/duct-tape"], "max": 3 }
+  },
+  "/rope-and-twine/california-truck-rope": {
+    "summary": "California truck rope: 3-strand poly rope made for tying down loads and tarps on flatbeds and trailers.",
+    "useCases": ["Flatbed load tie-down", "Tarping loads", "Trucking"],
+    "searchTerms": ["truck rope", "california truck rope", "tie down rope", "trucker rope", "3/8 truck rope"],
+    "keyQuestions": ["Diameter?", "Length?"],
+    "complementary": { "categories": ["/tarps-and-pallet-covers/tarps-and-tarp-straps", "/gloves/leather", "/edge-protectors/heavy-duty-edge-protectors"], "max": 3 }
+  },
+  "/rope-and-twine/1-ply-industrial-poly-tying-twine": {
+    "summary": "Industrial poly tying twine for bundling, tying bags and general shop use — cheap, strong and rot-proof.",
+    "useCases": ["Tying bundles and bags", "Closing sacks", "General shop tying"],
+    "searchTerms": ["tying twine", "poly twine", "bundling twine", "string", "baler twine"],
+    "keyQuestions": ["Tube size and quantity?"],
+    "complementary": { "categories": ["/bags/gusseted-poly-bags/2-mil", "/gloves/string-knit"], "max": 2 }
+  },
+  "/rope-and-twine/utility-conduit-pull-twine": {
+    "summary": "Conduit pull twine for pulling electrical wire and cable through conduit.",
+    "useCases": ["Electrical wire pulling", "Conduit installation"],
+    "searchTerms": ["pull twine", "conduit pull string", "pull line", "electrical pull twine"],
+    "keyQuestions": ["Tensile strength and length?"],
+    "complementary": { "categories": ["/rope-and-twine/herculine-cable-measuring-pull-tape", "/gloves/leather"], "max": 2 }
+  },
+  "/rope-and-twine/herculine-cable-measuring-pull-tape": {
+    "summary": "Herculine measuring pull tape: flat, pre-lubricated polyester tape marked in feet for pulling cable and measuring conduit runs.",
+    "useCases": ["Cable and wire pulling", "Measuring conduit runs"],
+    "searchTerms": ["pull tape", "measuring pull tape", "herculine", "cable pull tape", "mule tape"],
+    "keyQuestions": ["Tensile strength (1,250–2,500 lb)?", "Length?"],
+    "complementary": { "categories": ["/rope-and-twine/utility-conduit-pull-twine", "/gloves/leather"], "max": 2 }
+  },
+
+  "/tarps-and-pallet-covers": {
+    "summary": "Covers that keep weather, dust and dirt off goods: pallet covers, lumber bags and covers, drywall covers, bin liners, bun rack covers, and tarps with tarp straps.",
+    "useCases": ["Protecting pallets in storage and transit", "Covering lumber and drywall outdoors", "Lining bins and racks", "Tarping truck loads"],
+    "searchTerms": ["pallet covers", "pallet bags", "tarps", "tarp straps", "lumber covers", "drywall covers", "bin liners", "plastic covers"],
+    "keyQuestions": ["Load dimensions (W x D x H)?", "Mil thickness and clear or black?", "Indoor or outdoor?"],
+    "complementary": { "categories": ["/stretch-film/hand-film/cast", "/rope-and-twine/california-truck-rope", "/strapping/plastic-strapping/polyester/hand-grade", "/edge-protectors/medium-duty"], "max": 4 }
+  },
+  "/tarps-and-pallet-covers/pallet-covers": {
+    "summary": "Poly pallet covers (bags) in clear and black, 1.5–3 mil, sized to drop over a standard pallet to keep dust and moisture off the load.",
+    "useCases": ["Dust and moisture protection in storage", "Topping stretch-wrapped pallets", "Protecting loads on open trucks"],
+    "searchTerms": ["pallet covers", "pallet bags", "pallet top covers", "plastic pallet cover", "black pallet covers", "48x48 pallet cover"],
+    "keyQuestions": ["Pallet size and load height?", "Clear or black, and mil?"],
+    "complementary": { "categories": ["/stretch-film/hand-film/cast", "/edge-protectors/medium-duty", "/strapping/plastic-strapping/polyester/hand-grade"], "max": 3 }
+  },
+  "/tarps-and-pallet-covers/lumber-bags-and-covers": {
+    "summary": "Lumber bags and covers: heavy poly covers and bags that keep rain and UV off lumber units, millwork and building materials stored outdoors.",
+    "useCases": ["Lumber yards and truss plants", "Protecting millwork and doors", "Outdoor storage of building materials"],
+    "searchTerms": ["lumber covers", "lumber bags", "lumber wrap", "lumber tarp", "unit covers", "building material covers"],
+    "keyQuestions": ["Unit dimensions?", "Bag or cover?", "Quantity?"],
+    "complementary": { "categories": ["/strapping/plastic-strapping/polyester/hand-grade", "/edge-protectors/heavy-duty-edge-protectors", "/stretch-film/machine-film/uvi-film", "/rope-and-twine/california-truck-rope"], "max": 4 }
+  },
+  "/tarps-and-pallet-covers/drywall-covers": {
+    "summary": "Poly drywall covers keep moisture and dirt off stacked drywall and sheet goods on the job site.",
+    "useCases": ["Drywall and sheet goods protection", "Job-site storage"],
+    "searchTerms": ["drywall covers", "sheetrock covers", "drywall bags", "sheet goods covers"],
+    "keyQuestions": ["Sheet size and stack height?", "Quantity?"],
+    "complementary": { "categories": ["/tape/duct-tape", "/strapping/cord-strapping/heavy-duty-woven", "/rope-and-twine/california-truck-rope"], "max": 3 }
+  },
+  "/tarps-and-pallet-covers/bin-liners": {
+    "summary": "Large poly bin liners for gaylords, totes and bulk bins.",
+    "useCases": ["Gaylord and bulk bin liners", "Keeping bins clean", "Bulk product containment"],
+    "searchTerms": ["bin liners", "gaylord liners", "tote liners", "bulk bin bags", "box liners"],
+    "keyQuestions": ["Bin dimensions?", "Mil?"],
+    "complementary": { "categories": ["/bags/gusseted-poly-bags/2-mil", "/tape/carton-sealing-tape/hot-melt-tape"], "max": 2 }
+  },
+  "/tarps-and-pallet-covers/bun-rack-covers": {
+    "summary": "Clear poly bun rack (bakery rack) covers keep dust off racked product in bakeries and food plants.",
+    "useCases": ["Bakery and food service racks", "Dust-free staging"],
+    "searchTerms": ["bun rack covers", "rack covers", "bakery rack covers", "pan rack covers"],
+    "keyQuestions": ["Rack size?", "Quantity?"],
+    "complementary": { "categories": ["/gloves/disposable", "/janitorial/wipers"], "max": 2 }
+  },
+  "/tarps-and-pallet-covers/tarps-and-tarp-straps": {
+    "summary": "Poly tarps and rubber tarp straps for covering truck loads, equipment and outdoor storage.",
+    "useCases": ["Tarping flatbed loads", "Covering equipment and materials", "Weather protection"],
+    "searchTerms": ["tarps", "poly tarps", "tarp straps", "bungee tarp straps", "truck tarps", "blue tarp"],
+    "keyQuestions": ["Tarp size?", "Strap length?"],
+    "complementary": { "categories": ["/rope-and-twine/california-truck-rope", "/gloves/leather"], "max": 3 }
+  }
+}

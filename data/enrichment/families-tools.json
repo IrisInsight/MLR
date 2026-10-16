@@ -1,0 +1,143 @@
+{
+  "/tools": {
+    "summary": "Tools that make packaging fast: steel and plastic strapping tensioners, sealers, cutters and combination tools (manual, pneumatic, battery), strap dispenser carts, cord strapping tools, and dispensers for stretch film, kraft paper and bubble.",
+    "useCases": ["Closing steel and plastic strapping", "Hand wrapping pallets (film dispensers)", "Packing stations (paper and bubble dispensers)", "Strap carts for the floor"],
+    "searchTerms": ["strapping tools", "banding tools", "tensioner", "sealer", "crimper", "strapping tool kit", "film dispenser", "tape gun", "packaging tools"],
+    "keyQuestions": ["Strap material and width?", "Manual, pneumatic or battery?", "How many straps a day?"],
+    "complementary": { "categories": ["/strapping/steel/regular-duty", "/strapping/plastic-strapping/polyester/hand-grade", "/strapping/steel-strap-seals/regular-duty-steel-seals", "/gloves/leather"], "max": 4 }
+  },
+  "/tools/steel-strapping-tools": {
+    "summary": "Steel strapping tools: manual and pneumatic tensioners, sealers and cutters, combination tools, and Orgapack, Fromm and Teknika brand tools. Match the tool to the strap width and thickness.",
+    "useCases": ["Closing steel strap on metal, lumber and crates", "High-volume steel strapping lines (pneumatic)", "Field strapping (manual)"],
+    "searchTerms": ["steel strapping tools", "steel banding tools", "steel tensioner", "steel sealer", "strap cutter", "banding crimper", "orgapack", "fromm", "teknika", "steel strapping kit"],
+    "keyQuestions": ["Strap width and thickness?", "Open or closed seals?", "Straps per day (manual vs pneumatic)?"],
+    "complementary": { "categories": ["/strapping/steel/regular-duty", "/strapping/steel-strap-seals/regular-duty-steel-seals", "/gloves/leather", "/tools/strap-dispensers", "/edge-protectors/heavy-duty-edge-protectors"], "max": 5 }
+  },
+  "/tools/steel-strapping-tools/steel-manual-tensioners": {
+    "summary": "Manual steel strap tensioners (feedwheel and windlass) pull the strap tight before sealing; feedwheel for flat packages, windlass for round and irregular bundles.",
+    "useCases": ["Tensioning steel strap by hand", "Flat loads (feedwheel)", "Round bundles like pipe and coils (windlass)"],
+    "searchTerms": ["steel tensioner", "manual tensioner", "feedwheel tensioner", "windlass tensioner", "steel strapping tensioner", "banding tensioner"],
+    "keyQuestions": ["Strap width and thickness?", "Flat or round loads?"],
+    "complementary": { "categories": ["/tools/steel-strapping-tools/steel-manual-sealers", "/strapping/steel-strap-seals/regular-duty-steel-seals", "/strapping/steel/regular-duty", "/tools/steel-strapping-tools/steel-strapping-cutters"], "max": 4 }
+  },
+  "/tools/steel-strapping-tools/steel-manual-sealers": {
+    "summary": "Manual steel sealers crimp the seal over the strap joint — single or double notch, sized to strap width and seal type.",
+    "useCases": ["Closing steel strap joints", "Regular and heavy-duty strap"],
+    "searchTerms": ["steel sealer", "banding sealer", "crimper", "seal crimping tool", "strapping sealer", "notch sealer"],
+    "keyQuestions": ["Strap width?", "Open or closed seals?"],
+    "complementary": { "categories": ["/tools/steel-strapping-tools/steel-manual-tensioners", "/strapping/steel-strap-seals/regular-duty-steel-seals", "/strapping/steel/regular-duty"], "max": 3 }
+  },
+  "/tools/steel-strapping-tools/steel-strapping-cutters": {
+    "summary": "Steel strap cutters cut tensioned strap safely without the strap whipping back.",
+    "useCases": ["Cutting steel strapping", "Opening strapped bundles safely"],
+    "searchTerms": ["strap cutters", "steel strapping cutter", "banding cutter", "safety strap cutter"],
+    "keyQuestions": ["Strap width and thickness?"],
+    "complementary": { "categories": ["/gloves/leather", "/safety/safety-glasses-and-goggles", "/strapping/steel/regular-duty"], "max": 3 }
+  },
+  "/tools/steel-strapping-tools/combination-tools": {
+    "summary": "Combination tools tension, seal and cut steel strap in one tool — manual, pneumatic or battery-operated — for speed and fewer tools on the floor.",
+    "useCases": ["High-volume steel strapping", "Sealless strapping (no seals needed)", "Single-operator strapping"],
+    "searchTerms": ["combination tool", "combo strapping tool", "sealless strapping tool", "pneumatic steel strapping tool", "battery steel strapping tool"],
+    "keyQuestions": ["Strap width and thickness?", "Manual, pneumatic or battery?", "Sealless or with seals?"],
+    "complementary": { "categories": ["/strapping/steel/regular-duty", "/strapping/steel/high-tensile", "/tools/strap-dispensers", "/gloves/leather"], "max": 4 }
+  },
+  "/tools/steel-strapping-tools/pneumatic-tensioners": {
+    "summary": "Air-powered tensioners pull steel strap to consistent high tension with no operator fatigue — for heavy loads and volume lines.",
+    "useCases": ["Heavy steel strapping", "High-volume strapping lines"],
+    "searchTerms": ["pneumatic tensioner", "air tensioner", "pneumatic steel strapping tool"],
+    "keyQuestions": ["Strap width and thickness?", "Shop air available?"],
+    "complementary": { "categories": ["/tools/steel-strapping-tools/pneumatic-sealers", "/strapping/steel/high-tensile", "/strapping/magazine-seals"], "max": 3 }
+  },
+  "/tools/steel-strapping-tools/pneumatic-sealers": {
+    "summary": "Air-powered sealers crimp steel seals instantly and consistently, often fed from magazine seals.",
+    "useCases": ["High-volume steel strapping", "Heavy-duty seals"],
+    "searchTerms": ["pneumatic sealer", "air sealer", "magazine sealer"],
+    "keyQuestions": ["Strap width?", "Magazine seals?"],
+    "complementary": { "categories": ["/strapping/magazine-seals", "/tools/steel-strapping-tools/pneumatic-tensioners", "/strapping/steel/regular-duty"], "max": 3 }
+  },
+  "/tools/strap-dispensers": {
+    "summary": "Strap dispenser carts hold steel or plastic coils so the strap pays out cleanly and the cart rolls to the job.",
+    "useCases": ["Any strapping station", "Keeping coils clean and untangled", "Moving strap around the floor"],
+    "searchTerms": ["strap dispenser", "strapping cart", "banding cart", "strap coil cart", "strapping dispenser"],
+    "keyQuestions": ["Steel or plastic strap (core size)?", "Ribbon or oscillated wound coils?"],
+    "complementary": { "categories": ["/strapping/plastic-strapping/poly/hand-grade", "/strapping/steel/regular-duty", "/tools/steel-strapping-tools/steel-manual-tensioners"], "max": 3 }
+  },
+  "/tools/cord-strapping-tools": {
+    "summary": "Hand tensioners for polyester cord strapping — pull the cord tight through a wire buckle, no sealer needed.",
+    "useCases": ["Cord strapping on lumber and pipe", "Field strapping"],
+    "searchTerms": ["cord strapping tool", "cord tensioner", "woven strap tensioner", "cord strap tool"],
+    "keyQuestions": ["Cord width?"],
+    "complementary": { "categories": ["/strapping/cord-strapping/heavy-duty-woven", "/strapping/steel-buckles-for-plastic-and-cord-strap/phosphate-finished-buckles", "/gloves/leather"], "max": 3 }
+  },
+  "/tools/plastic-strapping-tools": {
+    "summary": "Tools for poly and polyester strapping: manual tensioners and sealers, pneumatic and battery-powered friction-weld tools that tension, seal and cut in one trigger, and Orgapack, Fromm and Teknika brand tools.",
+    "useCases": ["Closing poly and PET strap", "Sealless friction-weld joints (battery tools)", "Volume strapping of pallets and bundles"],
+    "searchTerms": ["plastic strapping tools", "poly strapping tool", "polyester strapping tool", "battery strapping tool", "friction weld tool", "pet strapping tool", "strapping tool kit", "orgapack", "fromm", "teknika"],
+    "keyQuestions": ["Poly or polyester, and strap width?", "Manual (tensioner + sealer + seals) or battery friction weld?", "Straps per day?"],
+    "complementary": { "categories": ["/strapping/plastic-strapping/polyester/hand-grade", "/strapping/plastic-strapping/poly/hand-grade", "/strapping/metal-seals-for-plastic-strapping", "/tools/strap-dispensers", "/edge-protectors/medium-duty"], "max": 5 }
+  },
+  "/tools/plastic-strapping-tools/battery-powered-tools": {
+    "summary": "Battery-powered friction-weld tools tension, weld and cut poly or polyester strap with one trigger — no seals, no air hose, hundreds of straps per charge.",
+    "useCases": ["Polyester strapping of pallets and bundles", "Lumber, brick and metal", "Replacing manual tensioner + sealer"],
+    "searchTerms": ["battery strapping tool", "cordless strapping tool", "friction weld strapping tool", "battery powered pet tool", "orgapack battery tool"],
+    "keyQuestions": ["Strap width and material?", "Tension force needed?", "Straps per day?"],
+    "complementary": { "categories": ["/strapping/plastic-strapping/polyester/hand-grade", "/strapping/plastic-strapping/polyester/machine-grade", "/edge-protectors/heavy-duty-edge-protectors", "/tools/strap-dispensers"], "max": 4 }
+  },
+  "/tools/plastic-strapping-tools/pneumatic-power-tools": {
+    "summary": "Air-powered plastic strapping tools for high-volume poly and polyester strapping with shop air.",
+    "useCases": ["Volume PET and poly strapping", "Fixed strapping stations with air"],
+    "searchTerms": ["pneumatic plastic strapping tool", "air strapping tool", "pneumatic pet tool"],
+    "keyQuestions": ["Strap width?", "Shop air available?"],
+    "complementary": { "categories": ["/strapping/plastic-strapping/polyester/machine-grade", "/tools/strap-dispensers"], "max": 3 }
+  },
+  "/tools/plastic-strapping-tools/plastic-strap-tensioners": {
+    "summary": "Manual tensioners for poly and polyester strapping — the first half of a hand strapping kit (sealer and seals are the other half).",
+    "useCases": ["Hand strapping with seals", "Low-volume strapping"],
+    "searchTerms": ["plastic strap tensioner", "poly strapping tensioner", "manual tensioner plastic", "windlass tensioner poly"],
+    "keyQuestions": ["Strap width?", "Poly or polyester?"],
+    "complementary": { "categories": ["/tools/plastic-strapping-tools/polypropylene-strapping-sealers", "/strapping/metal-seals-for-plastic-strapping", "/strapping/plastic-strapping/poly/hand-grade"], "max": 3 }
+  },
+  "/tools/plastic-strapping-tools/polypropylene-strapping-sealers": {
+    "summary": "Sealers that crimp metal seals on polypropylene (poly) strapping.",
+    "useCases": ["Closing poly strap with seals"],
+    "searchTerms": ["poly strapping sealer", "polypropylene sealer", "plastic strap crimper"],
+    "keyQuestions": ["Strap width?"],
+    "complementary": { "categories": ["/strapping/metal-seals-for-plastic-strapping", "/tools/plastic-strapping-tools/plastic-strap-tensioners", "/strapping/plastic-strapping/poly/hand-grade"], "max": 3 }
+  },
+  "/tools/plastic-strapping-tools/polyester-strapping-sealers": {
+    "summary": "Heavy-duty sealers that crimp serrated seals on polyester (PET) strapping for high-tension joints.",
+    "useCases": ["Closing polyester strap with seals"],
+    "searchTerms": ["polyester strapping sealer", "pet sealer", "pet strap crimper"],
+    "keyQuestions": ["Strap width?"],
+    "complementary": { "categories": ["/strapping/metal-seals-for-plastic-strapping", "/tools/plastic-strapping-tools/plastic-strap-tensioners", "/strapping/plastic-strapping/polyester/hand-grade"], "max": 3 }
+  },
+  "/tools/stretch-film-dispensers": {
+    "summary": "Stretch film dispensers (hand-wrap handles) hold the roll on a braking spindle so you can wrap faster, tighter and without wrecking your wrists — the first thing to add to any hand-wrapping station.",
+    "useCases": ["Hand wrapping pallets", "Reducing film use and wrist strain", "Banding film and narrow rolls"],
+    "searchTerms": ["stretch film dispenser", "film dispenser", "stretch wrap dispenser", "pallet wrap handle", "wrap handle", "stretch film holder", "hand wrap dispenser"],
+    "keyQuestions": ["Roll width (12\"–18\" or narrow banding film)?", "Core size (3\")?"],
+    "complementary": { "categories": ["/stretch-film/hand-film/cast", "/stretch-film/hand-film/pre-stretched", "/edge-protectors/medium-duty", "/gloves/string-knit"], "max": 4 }
+  },
+  "/tools/kraft-paper-dispensers": {
+    "summary": "Kraft paper roll dispensers and cutters for packing benches — tear clean sheets of void fill or wrap in one motion.",
+    "useCases": ["Packing stations", "Void fill from kraft rolls", "Bench covering"],
+    "searchTerms": ["kraft paper dispenser", "paper roll holder", "paper cutter dispenser", "packing paper dispenser"],
+    "keyQuestions": ["Roll width?", "Bench-mount or floor stand?"],
+    "complementary": { "categories": ["/cushioning/kraft-paper-rolls/24-inch-kraft-rolls", "/corrugated-boxes/200-pound-test", "/tape/tape-dispensers"], "max": 3 }
+  },
+  "/tools/bubble-dispensers": {
+    "summary": "Bubble wrap dispensers hold wide bubble rolls so packers pull and tear what they need at the bench.",
+    "useCases": ["Packing stations using bubble rolls"],
+    "searchTerms": ["bubble wrap dispenser", "bubble roll holder", "bubble dispenser stand"],
+    "keyQuestions": ["Roll width (12\", 24\", 48\")?"],
+    "complementary": { "categories": ["/cushioning/bubble-wrap/standard", "/tape/tape-dispensers", "/corrugated-boxes/200-pound-test"], "max": 3 }
+  },
+
+  "/machines": {
+    "summary": "Packaging machines: semi-automatic stretch wrappers like the Eagle 2000B, strapping machines and other equipment for operations that have outgrown hand tools. Demo available — call for pricing and lead time.",
+    "useCases": ["Wrapping 30+ pallets a day", "Consistent containment force", "Reducing film and labor cost", "Automating carton strapping"],
+    "searchTerms": ["stretch wrap machine", "pallet wrapper", "stretch wrapper", "turntable wrapper", "strapping machine", "packaging machine", "eagle 2000b", "semi automatic wrapper", "pallet wrapping machine"],
+    "keyQuestions": ["Pallets a day and load weight/height?", "Floor space and power available?", "Do you want a demo?"],
+    "complementary": { "categories": ["/stretch-film/machine-film/cast", "/stretch-film/machine-film/blown", "/edge-protectors/medium-duty", "/tarps-and-pallet-covers/pallet-covers"], "max": 4 }
+  }
+}

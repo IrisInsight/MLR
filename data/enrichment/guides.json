@@ -1,0 +1,172 @@
+[
+  {
+    "slug": "hand-vs-machine-stretch-film",
+    "title": "Hand film vs. machine film: which stretch film do you need?",
+    "categoryPath": "/stretch-film",
+    "intro": "Both are the same material — linear low-density polyethylene that clings to itself. The difference is who does the stretching: your arms or a turntable.",
+    "sections": [
+      { "heading": "Hand film", "body": "Rolls of 12\"–18\" width on a 3\" core, usually 1,000'–1,500' long. You walk the pallet and pull the film tight. Right for up to roughly 25–40 pallets a day, mixed load shapes, or multiple small wrap stations.\n- Standard hand film (cast): quiet, clear, good cling, 55–120 gauge.\n- Blown hand film: tougher and more puncture-resistant for sharp corners, a bit louder and hazier.\n- Pre-stretched hand film: already stretched at the factory, so it is lighter to pull, uses less film and wraps a pallet with far less effort. Great for crews with wrist fatigue.\n- Extended-core rolls have built-in handles — no dispenser needed." },
+      { "heading": "Machine film", "body": "Wider rolls (20\" typical) on a 3\" core with much more footage per roll, made to run through a stretch wrapper's pre-stretch rollers at 200–300%. A machine stretches film far more consistently than a person, so each pallet uses less film and holds tighter.\n- Cast machine film: clear, quiet, excellent cling — the everyday choice.\n- Blown machine film: higher load retention and puncture resistance for heavy or irregular loads.\n- UVI film for loads stored outdoors; color-tinted film for marking or shading loads." },
+      { "heading": "The crossover point", "body": "Rule of thumb from the counter: past 30–50 pallets a day, a semi-automatic wrapper like the Eagle 2000B pays for itself in film savings and labor within a year or two. Below that, pre-stretched hand film with a good dispenser is the best upgrade you can make." },
+      { "heading": "What we'll ask you", "body": "- How many pallets a day?\n- Typical load weight and whether the corners are sharp.\n- Do loads sit outside (UV) or get shipped far (more retention)?\n- Are you wrapping for containment only, or does the film need to protect from dust and moisture?" }
+    ],
+    "quickPicks": [
+      { "label": "Everyday hand roll", "sku": "35HC227" },
+      { "label": "Lighter pull, less film", "sku": "35HC220" },
+      { "label": "Step up to a machine", "sku": "EAGLE2000B" }
+    ]
+  },
+  {
+    "slug": "stretch-film-gauge",
+    "title": "Stretch film gauge explained: 47 to 120 gauge",
+    "categoryPath": "/stretch-film/hand-film",
+    "intro": "Gauge is thickness in hundred-thousandths of an inch: 80 gauge is 0.0008\" (about 20 microns). Thicker film holds more, but modern resins mean a 63-gauge film today can outperform an old 80.",
+    "sections": [
+      { "heading": "Light loads (under ~1,200 lb): 47–63 gauge", "body": "Uniform boxes, bagged goods, light cartons. Thin film is cheaper per roll and lighter to pull, and newer high-performance films in this range hold surprisingly well." },
+      { "heading": "Standard loads (1,200–2,500 lb): 70–80 gauge", "body": "The all-purpose range. 80-gauge 18\" x 1,500' hand film is the single most common roll we sell — it handles mixed loads, sharp box corners and moderate distances without fuss." },
+      { "heading": "Heavy or irregular loads (over 2,500 lb): 90–120 gauge", "body": "Lumber, metal parts, pails, anything with protruding edges or that rides on a flatbed. Thick film resists punctures and keeps retention over long hauls. Pair it with corner protectors so the film doesn't cut on the load." },
+      { "heading": "Cast vs. blown at the same gauge", "body": "Blown film is stronger and more puncture-resistant at the same gauge; cast is clearer, quieter and clings better. If the load is sharp, go blown or go up a gauge." }
+    ],
+    "quickPicks": [
+      { "label": "Light loads", "sku": "35HC220" },
+      { "label": "The workhorse 80 gauge", "sku": "35HC227" },
+      { "label": "Heavy loads, 120 gauge", "sku": "35HC235" }
+    ]
+  },
+  {
+    "slug": "poly-vs-steel-strapping",
+    "title": "Poly, polyester or steel strapping?",
+    "categoryPath": "/strapping",
+    "intro": "Strapping (banding) holds a bundle or unitizes a pallet. Three materials cover almost every job; the right one depends on load weight, how much the load settles, and how it gets handled.",
+    "sections": [
+      { "heading": "Polypropylene (poly) strapping", "body": "The economical choice for light-to-medium bundles — boxes, newspapers, small cartons, closing pallets that don't shift. It stretches and relaxes, so it is not for loads that settle. Hand grade comes on 8\" x 8\" cores for hand tools; machine grade runs through arch and tabletop strapping machines. Joined with plastic or metal buckles and seals, or a friction-weld tool." },
+      { "heading": "Polyester (PET) strapping", "body": "The modern replacement for light steel: high break strength, keeps tension as loads settle, no sharp edges, no rust, safe to cut. Used on lumber, brick, metal coils, cans and bottled goods, and on anything that gets shrink-wrapped and shipped far. Needs a tensioner and sealer or a battery-powered friction-weld tool; embossed grades grip seals better." },
+      { "heading": "Steel strapping", "body": "Still king for very heavy, rigid or hot loads: steel coils, structural metal, big lumber units, loads with sharp edges that would cut plastic. Regular duty handles most bundling; high tensile for extreme loads. Requires a sealer, seals and a cutter, and gloves — steel strap edges are sharp under tension." },
+      { "heading": "Rule of thumb", "body": "- Under ~600 lb, no settling: poly.\n- 600–4,000 lb, settles or ships far: polyester.\n- Very heavy, hot, sharp or oversized: steel.\nWhatever you pick, add edge protectors so the strap doesn't crush the corners." }
+    ],
+    "quickPicks": [
+      { "label": "Hand-grade poly", "sku": "29HG002" },
+      { "label": "Hand-grade polyester", "sku": "64HG220" },
+      { "label": "Regular-duty steel", "sku": "37SR382" }
+    ]
+  },
+  {
+    "slug": "strapping-tools-and-seals",
+    "title": "Strapping tools, seals and buckles: what goes with what",
+    "categoryPath": "/tools",
+    "intro": "A strap is only as good as its joint. Match the tool and the closure to the strap material and width, and the bundle stays tight all the way to the customer.",
+    "sections": [
+      { "heading": "Steel strapping kit", "body": "Tensioner (feedwheel or windlass) + sealer + open or snap-on seals sized to your strap width + a cutter. Combination tools tension and crimp in one. Pneumatic and battery tools pay off past a few hundred straps a day." },
+      { "heading": "Plastic strapping kit", "body": "Poly: a tensioner, a sealer and metal seals or plastic buckles — or a friction-weld tool that needs no seals at all. Polyester: a heavier tensioner and sealer with serrated seals, or a battery-powered combination tool that tensions, welds and cuts with one trigger." },
+      { "heading": "Cord strapping", "body": "Woven or bonded polyester cord is hand-tensioned and closed with wire buckles — no seals, no sealer, easy to re-tighten. Popular for lumber, pipe, and anything with a bit of give." },
+      { "heading": "Don't forget", "body": "- A strap dispenser cart keeps coils from tangling and speeds every strap.\n- Edge protectors stop the strap from cutting into corners.\n- Cut-resistant or leather gloves for anyone working steel." }
+    ],
+    "quickPicks": [
+      { "label": "Steel tensioner", "sku": "42ST222" },
+      { "label": "Regular-duty steel strap", "sku": "37SR382" }
+    ]
+  },
+  {
+    "slug": "corrugated-boxes-200-lb-vs-32-ect",
+    "title": "Picking a shipping box: 200# test vs. 32 ECT, sizes and when to go double-wall",
+    "categoryPath": "/corrugated-boxes",
+    "intro": "Two ratings describe how strong a corrugated box is. 200# burst test boxes resist punctures and rough handling; 32 ECT boxes are lighter and optimized for stacking strength on a pallet.",
+    "sections": [
+      { "heading": "200 lb test (burst strength)", "body": "The traditional rating: the box wall can withstand 200 pounds per square inch of pressure before bursting. Best for parcel shipping (UPS/FedEx), heavy or dense contents, and boxes that get handled a lot." },
+      { "heading": "32 ECT (edge crush test)", "body": "Rates how much weight the box edge supports when stacked. A 32 ECT box uses a bit less board, so it is lighter and cheaper, and it performs just as well when boxes are palletized and stacked. Ideal for lighter goods shipped on pallets." },
+      { "heading": "Sizing", "body": "Box sizes are inside dimensions, length x width x height, in inches. Leave about 2\" all around for cushioning when the contents are fragile. Our stock runs from 3\" cubes up to 46\" long; MLR can quote custom sizes and printing too." },
+      { "heading": "Everything else that goes in the box order", "body": "- Carton sealing tape (hot melt for a quick seal, acrylic for long storage) and a tape gun.\n- Cushioning: bubble, kraft paper, foam or peanuts.\n- Packing list envelopes and shipping labels.\n- White boxes when the box is the presentation." }
+    ],
+    "quickPicks": [
+      { "label": "Small 200# cube", "sku": "22BD243" },
+      { "label": "Hot melt tape", "sku": "82HM222" }
+    ]
+  },
+  {
+    "slug": "carton-sealing-tape",
+    "title": "Hot melt, acrylic or water-activated: choosing carton sealing tape",
+    "categoryPath": "/tape",
+    "intro": "Packing tape fails for two reasons: the wrong adhesive for the conditions, or tape that's too thin for the box. Here's how the counter crew picks.",
+    "sections": [
+      { "heading": "Hot melt (synthetic rubber)", "body": "Aggressive instant tack and the best holding power on recycled or dusty corrugated. Great for machine and hand sealing in busy shipping rooms. Not for freezing or very hot storage. 1.6 mil economy for light boxes; 1.9 mil for medium-weight boxes." },
+      { "heading": "Acrylic", "body": "Clearer, UV-stable and ages well — the choice when boxes sit in storage or ride in hot trucks. Slightly less initial tack than hot melt, so burnish it down. Available in colors for coding." },
+      { "heading": "Water-activated (gummed) kraft tape", "body": "Bonds into the box fiber for a tamper-evident seal, no stretching, recyclable with the box. Reinforced grades handle heavy cartons. Needs a wetting dispenser. The premium look for e-commerce and anything that must not be opened unnoticed." },
+      { "heading": "Specialty", "body": "- Filament (fiberglass) strapping tape for bundling and reinforcing.\n- Masking and painters tape for finishing work.\n- Label protection tape over packing lists.\n- Pre-printed tape (Fragile, This Side Up) saves a labeling step." }
+    ],
+    "quickPicks": [
+      { "label": "Everyday hot melt", "sku": "82HM222" }
+    ]
+  },
+  {
+    "slug": "choosing-gloves",
+    "title": "Nitrile, latex, vinyl or leather: a glove for every job",
+    "categoryPath": "/gloves",
+    "intro": "Gloves are the item people reorder most, and the wrong one costs money twice: in waste and in injuries. Match the glove to the hazard and the duration.",
+    "sections": [
+      { "heading": "Disposable: nitrile, latex, vinyl, poly", "body": "Nitrile is the all-rounder — puncture-resistant, chemical-resistant, latex-free, in industrial and exam grades. Latex has the best feel and stretch when allergies aren't a concern. Vinyl is the economy choice for low-risk tasks and food prep. Poly gloves are the cheapest, for quick food handling. Sizes S–XL; order by the case (10 boxes of 100)." },
+      { "heading": "General work: cotton, string knit, coated palm", "body": "Cotton and jersey gloves for light handling and keeping hands clean. String knit with nitrile, latex or PU coated palms for grip on boxes, lumber and parts — the warehouse workhorse. Cut-resistant knits for sheet metal and blades." },
+      { "heading": "Heavy duty: leather, PVC/rubber dipped, welding", "body": "Leather palm and driver gloves for steel strapping, lumber and construction. PVC or rubber coated for wet and chemical work. Welding gloves for heat and sparks." },
+      { "heading": "What we'll ask", "body": "- What are you handling — food, chemicals, sharp metal, wet product?\n- How long is a glove worn: minutes (disposable) or a full shift (work glove)?\n- Sizes on the crew, and how many pairs a week." }
+    ],
+    "quickPicks": [
+      { "label": "Industrial nitrile", "sku": "63BB222" }
+    ]
+  },
+  {
+    "slug": "poly-bags-mil-thickness",
+    "title": "Poly bags: mil thickness, flat vs. gusseted, reclosable",
+    "categoryPath": "/bags",
+    "intro": "A mil is one-thousandth of an inch. More mils means a tougher bag — but also more cost and bulk. Most parts and food bags fall between 1 and 4 mil.",
+    "sections": [
+      { "heading": "1–1.5 mil", "body": "Light duty: parts, produce, paper goods, dust covers. Cheapest per bag." },
+      { "heading": "2 mil", "body": "The standard: general packaging, food service, small hardware. Clear enough to read labels through." },
+      { "heading": "3–4 mil", "body": "Heavy duty: metal parts with edges, hardware kits, anything that gets handled repeatedly. 4 mil reclosable bags are the go-to for small-parts kitting." },
+      { "heading": "6 mil", "body": "Extra heavy: bolts, castings, industrial sample bags, long-term storage." },
+      { "heading": "Shapes", "body": "- Flat bags for anything that lies flat.\n- Gusseted bags expand at the sides for boxes, bulk product and pail liners.\n- Reclosable (zipper) bags for kits, samples and resale, with or without a hang hole.\n- Poly tubing when you want to make custom-length bags with a sealer.\n- Pink anti-static bags for electronics." }
+    ],
+    "quickPicks": [
+      { "label": "2 mil poly tubing", "sku": "67PC222" },
+      { "label": "2 mil reclosable", "sku": "65RA613" }
+    ]
+  },
+  {
+    "slug": "protective-packaging",
+    "title": "Bubble, foam, kraft paper or peanuts: protecting what's in the box",
+    "categoryPath": "/cushioning",
+    "intro": "Cushioning absorbs shock; void fill stops things from moving. Most damage happens because the product could shift, not because the box was thin.",
+    "sections": [
+      { "heading": "Bubble wrap", "body": "Wrap-around protection for fragile and awkward shapes. Small bubble for light items and surface protection, large bubble for heavy items and void fill. Anti-static bubble for electronics." },
+      { "heading": "Foam sheets and plank foam", "body": "Thin foam sheets (1/32\"–1/4\") protect finishes and separate parts; plank foam is cut for repeatable, heavy-duty cushioning of parts and equipment." },
+      { "heading": "Kraft paper and newsprint", "body": "Crumpled kraft is the fastest, most recyclable void fill, and the standard interleaving for finished goods. Newsprint sheets for wrapping dishes and small items. Reinforced scrim paper where you need tear strength." },
+      { "heading": "Packing peanuts and corrugated", "body": "Loose fill for odd shapes and light-weight items. Corrugated pads and single-face rolls for layer separation, wrapping furniture, and protecting edges." }
+    ],
+    "quickPicks": []
+  },
+  {
+    "slug": "edge-protectors",
+    "title": "Edge protectors: the cheapest way to stop strapping damage",
+    "categoryPath": "/edge-protectors",
+    "intro": "Angleboards slide under strapping or stretch film at the corners of a load. They spread strap tension across the edge, stiffen the stack and keep film from cutting on sharp corners.",
+    "sections": [
+      { "heading": "Light, medium and heavy duty", "body": "Thickness sets the duty: light duty (around .120\") for boxes and light cartons; medium (.160\") for the typical mixed pallet; heavy duty (.225\"+) for lumber, metal, brick and anything strapped hard with steel or polyester." },
+      { "heading": "Length and leg size", "body": "Match the length to the load height (common 48\" and 72\") and the leg to the load: 2\" x 2\" covers most pallets, 3\" x 3\" for heavy units." },
+      { "heading": "Strapping protectors and do-not-double-stack", "body": "Small strapping protectors cover just the strap line. Cones and \"do not double stack\" protectors keep a second pallet from being set on top in transit." }
+    ],
+    "quickPicks": []
+  },
+  {
+    "slug": "trash-liners-and-janitorial-basics",
+    "title": "Trash liners by the numbers: low density vs. high density, and what else a facility burns through",
+    "categoryPath": "/janitorial",
+    "intro": "Liners are rated by mil (low density) or microns (high density) and sized by can. Buying the right one means fewer double-bagged cans and fewer leaks.",
+    "sections": [
+      { "heading": "Low density (LLDPE) liners", "body": "Stretchy and puncture-resistant — for sharp, wet or heavy trash: kitchens, shops, grounds. Rated in mils (.45 to 2.0). Thicker for heavier, sharper loads." },
+      { "heading": "High density (HDPE) liners", "body": "Thin, strong and economical for dry, light trash: offices, restrooms, paper waste. Rated in microns. Tear easily on sharp objects, so keep them out of the shop." },
+      { "heading": "Sizing", "body": "Width is roughly half the can's circumference; height is can height plus a few inches of overhang. Common sizes: 24x23 (7–10 gal), 33x39 (33 gal), 38x58 (55–60 gal)." },
+      { "heading": "The rest of the weekly order", "body": "Paper towels and dispensers, toilet tissue, hand soap and sanitizer, all-purpose cleaners and degreasers, mop heads, brooms, floor sweep, rags and wipers, and breakroom cups, plates and utensils. We deliver it all on the same truck as your packaging." }
+    ],
+    "quickPicks": [
+      { "label": "Low density liner", "sku": "99LT222" }
+    ]
+  }
+]
