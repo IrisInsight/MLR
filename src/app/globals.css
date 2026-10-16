@@ -1,0 +1,152 @@
+@import "tailwindcss";
+
+/* ------------------------------------------------------------------ */
+/* MLR design tokens: their red + steel blue, refined into an           */
+/* industrial, confident palette on warm "kraft paper" neutrals.        */
+/* ------------------------------------------------------------------ */
+@theme {
+  --color-ink: #0f1720;
+  --color-ink-soft: #243040;
+  --color-ink-muted: #4b5563;
+  --color-red: #d71920;
+  --color-red-deep: #b3141a;
+  --color-red-soft: #fbe9ea;
+  --color-steel: #1e5a86;
+  --color-steel-light: #248ece;
+  --color-sky: #4ab2f1;
+  --color-sky-soft: #e4f3fd;
+  --color-paper: #f7f5f0;
+  --color-paper-deep: #efebe2;
+  --color-kraft: #e6dcc8;
+  --color-kraft-deep: #d4c4a4;
+  --color-line: #ddd7cb;
+  --color-graphite: #575757;
+  --color-safety: #f5b400;
+  --color-green: #2e7d4f;
+  --color-green-soft: #e5f3ea;
+
+  --font-sans: var(--font-barlow), "Helvetica Neue", Arial, sans-serif;
+  --font-display: var(--font-barlow-condensed), "Arial Narrow", "Helvetica Neue", sans-serif;
+
+  --shadow-card: 0 1px 2px rgb(15 23 32 / 0.06), 0 8px 24px -12px rgb(15 23 32 / 0.25);
+  --shadow-float: 0 12px 40px -12px rgb(15 23 32 / 0.45);
+  --radius-card: 0.75rem;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-paper text-ink font-sans antialiased;
+    font-feature-settings: "ss01", "cv11";
+  }
+  h1, h2, h3, h4 {
+    @apply font-display tracking-tight;
+    text-wrap: balance;
+  }
+  ::selection {
+    background: var(--color-safety);
+    color: var(--color-ink);
+  }
+  :focus-visible {
+    outline: 3px solid var(--color-sky);
+    outline-offset: 2px;
+  }
+}
+
+/* Custom utilities (Tailwind v4: @utility makes them usable with @apply and variants) */
+@utility container-x {
+  @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+}
+@utility display {
+  @apply font-display font-bold uppercase tracking-tight;
+}
+@utility eyebrow {
+  @apply font-display text-xs font-semibold uppercase tracking-[0.22em] text-red;
+}
+@utility btn {
+  @apply inline-flex items-center justify-center gap-2 rounded-md px-4 py-2.5 font-display text-base font-semibold uppercase tracking-wide transition-colors duration-150 select-none;
+}
+@utility btn-primary {
+  @apply btn bg-red text-white hover:bg-red-deep active:bg-red-deep;
+}
+@utility btn-dark {
+  @apply btn bg-ink text-white hover:bg-ink-soft;
+}
+@utility btn-outline {
+  @apply btn border-2 border-ink text-ink hover:bg-ink hover:text-white;
+}
+@utility btn-ghost {
+  @apply btn text-ink hover:bg-paper-deep;
+}
+@utility btn-sm {
+  @apply px-3 py-1.5 text-sm;
+}
+@utility card {
+  @apply rounded-card border border-line bg-white shadow-card;
+}
+@utility chip {
+  @apply inline-flex items-center rounded-sm bg-paper-deep px-2 py-0.5 font-mono text-[11px] font-semibold tracking-wide text-ink-muted uppercase;
+}
+@utility stripe {
+  background-image: repeating-linear-gradient(135deg, var(--color-safety) 0 14px, var(--color-ink) 14px 28px);
+}
+@utility stripe-red {
+  background-image: repeating-linear-gradient(135deg, var(--color-red) 0 14px, var(--color-ink) 14px 28px);
+}
+@utility flute {
+  background-image: repeating-linear-gradient(90deg, rgb(15 23 32 / 0.045) 0 2px, transparent 2px 14px);
+}
+@utility no-scrollbar {
+  scrollbar-width: none;
+  &::-webkit-scrollbar { display: none; }
+}
+
+@layer components {
+  .prose-mlr {
+    @apply text-[1.05rem] leading-relaxed text-ink-soft;
+  }
+  .prose-mlr p + p {
+    @apply mt-4;
+  }
+  .prose-mlr h2, .prose-mlr h3 {
+    @apply mt-8 mb-3 text-2xl text-ink;
+  }
+  .prose-mlr ul {
+    @apply my-4 list-disc pl-6;
+  }
+  .prose-mlr a {
+    @apply text-steel underline underline-offset-2;
+  }
+  .table-specs th {
+    @apply bg-paper-deep px-3 py-2 text-left font-display text-xs font-semibold uppercase tracking-wider text-ink-muted;
+  }
+  .table-specs td {
+    @apply border-t border-line px-3 py-2 align-top;
+  }
+  .chat-md p + p { margin-top: 0.6rem; }
+  .chat-md ul { list-style: disc; padding-left: 1.2rem; margin: 0.4rem 0; }
+  .chat-md ol { list-style: decimal; padding-left: 1.2rem; margin: 0.4rem 0; }
+  .chat-md li + li { margin-top: 0.15rem; }
+  .chat-md a { color: var(--color-steel); text-decoration: underline; text-underline-offset: 2px; word-break: break-word; }
+  .chat-md strong { font-weight: 600; }
+  .chat-md code { font-family: ui-monospace, monospace; font-size: 0.85em; background: var(--color-paper-deep); padding: 0 0.25em; border-radius: 3px; }
+}
+
+@keyframes rise {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.animate-rise { animation: rise 0.35s ease-out both; }
+
+@keyframes pulse-ring {
+  0% { box-shadow: 0 0 0 0 rgb(215 25 32 / 0.5); }
+  100% { box-shadow: 0 0 0 14px rgb(215 25 32 / 0); }
+}
+.pulse-ring { animation: pulse-ring 1.8s ease-out infinite; }
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-rise, .pulse-ring { animation: none; }
+}
+
