@@ -22,7 +22,7 @@
   --color-line: #ddd7cb;
   --color-graphite: #575757;
   --color-safety: #f5b400;
-  --color-green: #2e7d4f;
+  --color-green: #276b44;
   --color-green-soft: #e5f3ea;
 
   --font-sans: var(--font-barlow), "Helvetica Neue", Arial, sans-serif;
@@ -63,7 +63,7 @@
   @apply font-display font-bold uppercase tracking-tight;
 }
 @utility eyebrow {
-  @apply font-display text-xs font-semibold uppercase tracking-[0.22em] text-red;
+  @apply font-display text-xs font-semibold uppercase tracking-[0.22em] text-red-deep;
 }
 @utility btn {
   @apply inline-flex items-center justify-center gap-2 rounded-md px-4 py-2.5 font-display text-base font-semibold uppercase tracking-wide transition-colors duration-150 select-none;

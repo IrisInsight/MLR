@@ -18,7 +18,7 @@ export function DeliveryBanner({ compact = false }: { compact?: boolean }) {
           <TruckIcon className="h-10 w-10 shrink-0" />
           <div>
             <p className="display text-2xl leading-none">Free local deliveries</p>
-            <p className="mt-1 text-sm text-white/90">
+            <p className="mt-1 text-sm text-white">
               On orders over $600 within our local zip codes. Our own drivers cover {COUNTIES.join(", ")} counties. $300 minimum on will-call pickup.
             </p>
           </div>
