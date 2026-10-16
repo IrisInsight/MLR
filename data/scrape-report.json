@@ -1,0 +1,2265 @@
+{
+  "scrapedAt": "2026-10-16T18:42:15.635Z",
+  "durationSec": 32,
+  "options": {
+    "fresh": false,
+    "concurrency": 2,
+    "delayMs": 500
+  },
+  "fetchStats": {
+    "network": 16,
+    "cached": 6665,
+    "failed": 0,
+    "retries": 0,
+    "bytes": 414664
+  },
+  "totals": {
+    "categories": 367,
+    "leafCategoriesWithProducts": 295,
+    "products": 6167,
+    "productsWithDetailPage": 6165,
+    "tableProducts": 4130,
+    "gridProducts": 2037,
+    "withTierPricing": 3354,
+    "withAttributes": 286,
+    "withVideo": 11,
+    "inMultipleCategories": 0,
+    "priceStatus": {
+      "listed": 5831,
+      "call_for_price": 336
+    },
+    "sitemapXmlUrls": 372,
+    "sitemapOnlyCategoriesFound": 0
+  },
+  "perTopLevelCategory": [
+    {
+      "path": "/bags",
+      "name": "Bags",
+      "products": 1043,
+      "subcategories": 27
+    },
+    {
+      "path": "/corrugated-boxes",
+      "name": "Corrugated Boxes",
+      "products": 1437,
+      "subcategories": 19
+    },
+    {
+      "path": "/cushioning",
+      "name": "Cushioning",
+      "products": 293,
+      "subcategories": 33
+    },
+    {
+      "path": "/edge-protectors",
+      "name": "Edge Protectors",
+      "products": 71,
+      "subcategories": 5
+    },
+    {
+      "path": "/gloves",
+      "name": "Gloves",
+      "products": 393,
+      "subcategories": 38
+    },
+    {
+      "path": "/janitorial",
+      "name": "Janitorial",
+      "products": 323,
+      "subcategories": 39
+    },
+    {
+      "path": "/labels",
+      "name": "Labels",
+      "products": 931,
+      "subcategories": 33
+    },
+    {
+      "path": "/machines",
+      "name": "Machines",
+      "products": 11,
+      "subcategories": 0
+    },
+    {
+      "path": "/mailers",
+      "name": "Mailers",
+      "products": 56,
+      "subcategories": 5
+    },
+    {
+      "path": "/mailing-tubes",
+      "name": "Mailing Tubes",
+      "products": 26,
+      "subcategories": 2
+    },
+    {
+      "path": "/packing-list-envelopes",
+      "name": "Packing List Envelopes",
+      "products": 43,
+      "subcategories": 3
+    },
+    {
+      "path": "/poly-sheeting",
+      "name": "Poly Sheeting",
+      "products": 76,
+      "subcategories": 4
+    },
+    {
+      "path": "/rope-and-twine",
+      "name": "Rope and Twine",
+      "products": 147,
+      "subcategories": 13
+    },
+    {
+      "path": "/safety",
+      "name": "Safety",
+      "products": 268,
+      "subcategories": 18
+    },
+    {
+      "path": "/strapping",
+      "name": "Strapping",
+      "products": 382,
+      "subcategories": 34
+    },
+    {
+      "path": "/stretch-film",
+      "name": "Stretch Film",
+      "products": 151,
+      "subcategories": 19
+    },
+    {
+      "path": "/tape",
+      "name": "Tape",
+      "products": 156,
+      "subcategories": 23
+    },
+    {
+      "path": "/tarps-and-pallet-covers",
+      "name": "Tarps and Pallet Covers",
+      "products": 32,
+      "subcategories": 6
+    },
+    {
+      "path": "/tools",
+      "name": "Tools",
+      "products": 328,
+      "subcategories": 27
+    }
+  ],
+  "perLeafCategory": [
+    {
+      "path": "/bags/flat-poly-bags/1-25-mil",
+      "name": "1.25 mil",
+      "listingType": "table",
+      "products": 15,
+      "pages": 1
+    },
+    {
+      "path": "/bags/flat-poly-bags/1-5-mil",
+      "name": "1.5 mil",
+      "listingType": "table",
+      "products": 130,
+      "pages": 1
+    },
+    {
+      "path": "/bags/flat-poly-bags/1-mil",
+      "name": "1 mil",
+      "listingType": "table",
+      "products": 21,
+      "pages": 1
+    },
+    {
+      "path": "/bags/flat-poly-bags/2-mil",
+      "name": "2 mil",
+      "listingType": "table",
+      "products": 118,
+      "pages": 1
+    },
+    {
+      "path": "/bags/flat-poly-bags/3-mil",
+      "name": "3 mil",
+      "listingType": "table",
+      "products": 65,
+      "pages": 1
+    },
+    {
+      "path": "/bags/flat-poly-bags/4-mil",
+      "name": "4 mil",
+      "listingType": "table",
+      "products": 113,
+      "pages": 1
+    },
+    {
+      "path": "/bags/flat-poly-bags/6-mil",
+      "name": "6 mil",
+      "listingType": "table",
+      "products": 21,
+      "pages": 1
+    },
+    {
+      "path": "/bags/gusseted-poly-bags/1-25-mil",
+      "name": "1.25 mil",
+      "listingType": "table",
+      "products": 21,
+      "pages": 1
+    },
+    {
+      "path": "/bags/gusseted-poly-bags/1-5-mil",
+      "name": "1.5 mil",
+      "listingType": "table",
+      "products": 35,
+      "pages": 1
+    },
+    {
+      "path": "/bags/gusseted-poly-bags/1-mil",
+      "name": "1 mil",
+      "listingType": "table",
+      "products": 28,
+      "pages": 1
+    },
+    {
+      "path": "/bags/gusseted-poly-bags/2-mil",
+      "name": "2 mil",
+      "listingType": "table",
+      "products": 26,
+      "pages": 1
+    },
+    {
+      "path": "/bags/gusseted-poly-bags/3-mil",
+      "name": "3 mil",
+      "listingType": "table",
+      "products": 4,
+      "pages": 1
+    },
+    {
+      "path": "/bags/poly-tubing/1-25-mil",
+      "name": "1.25 mil",
+      "listingType": "table",
+      "products": 26,
+      "pages": 1
+    },
+    {
+      "path": "/bags/poly-tubing/1-5-mil",
+      "name": "1.5 mil",
+      "listingType": "table",
+      "products": 56,
+      "pages": 1
+    },
+    {
+      "path": "/bags/poly-tubing/2-mil",
+      "name": "2 mil",
+      "listingType": "table",
+      "products": 60,
+      "pages": 1
+    },
+    {
+      "path": "/bags/poly-tubing/3-mil",
+      "name": "3 mil",
+      "listingType": "table",
+      "products": 50,
+      "pages": 1
+    },
+    {
+      "path": "/bags/poly-tubing/4-mil",
+      "name": "4 mil",
+      "listingType": "table",
+      "products": 56,
+      "pages": 1
+    },
+    {
+      "path": "/bags/poly-tubing/6-mil",
+      "name": "6 mil",
+      "listingType": "table",
+      "products": 34,
+      "pages": 1
+    },
+    {
+      "path": "/bags/poly-tubing/pink-anti-static",
+      "name": "Pink Anti-Static",
+      "listingType": "table",
+      "products": 58,
+      "pages": 1
+    },
+    {
+      "path": "/bags/reclosable-bags-with-hang-hole",
+      "name": "Reclosable Bags With Hang Hole",
+      "listingType": "table",
+      "products": 31,
+      "pages": 1
+    },
+    {
+      "path": "/bags/reclosable-bags/2-mil",
+      "name": "2 mil",
+      "listingType": "table",
+      "products": 50,
+      "pages": 1
+    },
+    {
+      "path": "/bags/reclosable-bags/4-mil",
+      "name": "4 mil",
+      "listingType": "table",
+      "products": 25,
+      "pages": 1
+    },
+    {
+      "path": "/corrugated-boxes/200-pound-test/12-13-inch-boxes",
+      "name": "12-13 Inch Boxes",
+      "listingType": "table",
+      "products": 100,
+      "pages": 1
+    },
+    {
+      "path": "/corrugated-boxes/200-pound-test/14-17-inch-boxes",
+      "name": "14-17 Inch Boxes",
+      "listingType": "table",
+      "products": 155,
+      "pages": 1
+    },
+    {
+      "path": "/corrugated-boxes/200-pound-test/18-23-inch-boxes",
+      "name": "18-23 Inch Boxes",
+      "listingType": "table",
+      "products": 169,
+      "pages": 1
+    },
+    {
+      "path": "/corrugated-boxes/200-pound-test/24-26-inch-boxes",
+      "name": "24-26 Inch Boxes",
+      "listingType": "table",
+      "products": 81,
+      "pages": 1
+    },
+    {
+      "path": "/corrugated-boxes/200-pound-test/27-46-inch-boxes",
+      "name": "27-46 Inch Boxes",
+      "listingType": "table",
+      "products": 97,
+      "pages": 1
+    },
+    {
+      "path": "/corrugated-boxes/200-pound-test/3-8-inch-boxes",
+      "name": "3-8 Inch Boxes",
+      "listingType": "table",
+      "products": 76,
+      "pages": 1
+    },
+    {
+      "path": "/corrugated-boxes/200-pound-test/9-11-inch-boxes",
+      "name": "9-11 Inch Boxes",
+      "listingType": "table",
+      "products": 79,
+      "pages": 1
+    },
+    {
+      "path": "/corrugated-boxes/lightweight-32-ect/12-13-inch-boxes",
+      "name": "12-13 Inch Boxes",
+      "listingType": "table",
+      "products": 83,
+      "pages": 1
+    },
+    {
+      "path": "/corrugated-boxes/lightweight-32-ect/14-17-inch-boxes",
+      "name": "14-17 Inch Boxes",
+      "listingType": "table",
+      "products": 135,
+      "pages": 1
+    },
+    {
+      "path": "/corrugated-boxes/lightweight-32-ect/18-23-inch-boxes",
+      "name": "18-23 Inch Boxes",
+      "listingType": "table",
+      "products": 146,
+      "pages": 1
+    },
+    {
+      "path": "/corrugated-boxes/lightweight-32-ect/24-26-inch-boxes",
+      "name": "24-26 Inch Boxes",
+      "listingType": "table",
+      "products": 79,
+      "pages": 1
+    },
+    {
+      "path": "/corrugated-boxes/lightweight-32-ect/27-48-inch-boxes",
+      "name": "27-48 Inch Boxes",
+      "listingType": "table",
+      "products": 81,
+      "pages": 1
+    },
+    {
+      "path": "/corrugated-boxes/lightweight-32-ect/3-8-inch-boxes",
+      "name": "3-8 Inch Boxes",
+      "listingType": "table",
+      "products": 52,
+      "pages": 1
+    },
+    {
+      "path": "/corrugated-boxes/lightweight-32-ect/9-11-inch-boxes",
+      "name": "9-11 Inch Boxes",
+      "listingType": "table",
+      "products": 73,
+      "pages": 1
+    },
+    {
+      "path": "/corrugated-boxes/white-rsc-3/14-24-inch-boxes",
+      "name": "14-24 Inch Boxes",
+      "listingType": "table",
+      "products": 11,
+      "pages": 1
+    },
+    {
+      "path": "/corrugated-boxes/white-rsc-3/4-13-inch-boxes",
+      "name": "4-13 Inch Boxes",
+      "listingType": "table",
+      "products": 20,
+      "pages": 1
+    },
+    {
+      "path": "/cushioning/bubble-wrap/anti-static",
+      "name": "Anti-Static",
+      "listingType": "table",
+      "products": 12,
+      "pages": 1
+    },
+    {
+      "path": "/cushioning/bubble-wrap/eco-cell",
+      "name": "Eco-Cell",
+      "listingType": "table",
+      "products": 4,
+      "pages": 1
+    },
+    {
+      "path": "/cushioning/bubble-wrap/standard",
+      "name": "Standard",
+      "listingType": "table",
+      "products": 35,
+      "pages": 1
+    },
+    {
+      "path": "/cushioning/butcher-paper",
+      "name": "Butcher Paper",
+      "listingType": "table",
+      "products": 7,
+      "pages": 1
+    },
+    {
+      "path": "/cushioning/corrugated-cushioning/corrugated-pads",
+      "name": "Corrugated Pads",
+      "listingType": "table",
+      "products": 38,
+      "pages": 1
+    },
+    {
+      "path": "/cushioning/corrugated-cushioning/singleface-corrugated-rolls",
+      "name": "Singleface Corrugated Rolls",
+      "listingType": "table",
+      "products": 12,
+      "pages": 1
+    },
+    {
+      "path": "/cushioning/foam/1-16-inch",
+      "name": "1/16 Inch",
+      "listingType": "table",
+      "products": 13,
+      "pages": 1
+    },
+    {
+      "path": "/cushioning/foam/1-2-inch",
+      "name": "1/2 Inch",
+      "listingType": "table",
+      "products": 4,
+      "pages": 1
+    },
+    {
+      "path": "/cushioning/foam/1-32-inch",
+      "name": "1/32 Inch",
+      "listingType": "table",
+      "products": 7,
+      "pages": 1
+    },
+    {
+      "path": "/cushioning/foam/1-4-inch",
+      "name": "1/4 Inch",
+      "listingType": "table",
+      "products": 11,
+      "pages": 1
+    },
+    {
+      "path": "/cushioning/foam/1-8-inch",
+      "name": "1/8 Inch",
+      "listingType": "table",
+      "products": 13,
+      "pages": 1
+    },
+    {
+      "path": "/cushioning/foam/3-32-inch",
+      "name": "3/32 Inch",
+      "listingType": "table",
+      "products": 3,
+      "pages": 1
+    },
+    {
+      "path": "/cushioning/foam/plank-foam-1-2-lbs",
+      "name": "Plank Foam 1.2 lbs",
+      "listingType": "table",
+      "products": 6,
+      "pages": 1
+    },
+    {
+      "path": "/cushioning/foam/plank-foam-1-7-lbs",
+      "name": "Plank Foam 1.7 lbs",
+      "listingType": "table",
+      "products": 6,
+      "pages": 1
+    },
+    {
+      "path": "/cushioning/foam/plank-foam-2-2-lbs",
+      "name": "Plank Foam 2.2 lbs",
+      "listingType": "table",
+      "products": 6,
+      "pages": 1
+    },
+    {
+      "path": "/cushioning/kraft-paper-rolls/12-inch-kraft-rolls",
+      "name": "12 Inch Kraft Rolls",
+      "listingType": "table",
+      "products": 6,
+      "pages": 1
+    },
+    {
+      "path": "/cushioning/kraft-paper-rolls/15-inch-kraft-rolls",
+      "name": "15 Inch Kraft Rolls",
+      "listingType": "table",
+      "products": 6,
+      "pages": 1
+    },
+    {
+      "path": "/cushioning/kraft-paper-rolls/18-inch-kraft-rolls",
+      "name": "18 Inch Kraft Rolls",
+      "listingType": "table",
+      "products": 8,
+      "pages": 1
+    },
+    {
+      "path": "/cushioning/kraft-paper-rolls/24-inch-kraft-rolls",
+      "name": "24 Inch Kraft Rolls",
+      "listingType": "table",
+      "products": 16,
+      "pages": 1
+    },
+    {
+      "path": "/cushioning/kraft-paper-rolls/30-inch-kraft-rolls",
+      "name": "30 Inch Kraft Rolls",
+      "listingType": "table",
+      "products": 9,
+      "pages": 1
+    },
+    {
+      "path": "/cushioning/kraft-paper-rolls/36-inch-kraft-rolls",
+      "name": "36 Inch Kraft Rolls",
+      "listingType": "table",
+      "products": 14,
+      "pages": 1
+    },
+    {
+      "path": "/cushioning/kraft-paper-rolls/48-inch-kraft-rolls",
+      "name": "48 Inch Kraft Rolls",
+      "listingType": "table",
+      "products": 12,
+      "pages": 1
+    },
+    {
+      "path": "/cushioning/kraft-paper-rolls/60-inch-kraft-rolls",
+      "name": "60 Inch Kraft Rolls",
+      "listingType": "table",
+      "products": 7,
+      "pages": 1
+    },
+    {
+      "path": "/cushioning/kraft-paper-rolls/72-inch-kraft-rolls",
+      "name": "72 Inch Kraft Rolls",
+      "listingType": "table",
+      "products": 5,
+      "pages": 1
+    },
+    {
+      "path": "/cushioning/newsprint/newsprint-rolls",
+      "name": "Newsprint Rolls",
+      "listingType": "table",
+      "products": 3,
+      "pages": 1
+    },
+    {
+      "path": "/cushioning/newsprint/newsprint-sheets",
+      "name": "Newsprint Sheets",
+      "listingType": "table",
+      "products": 6,
+      "pages": 1
+    },
+    {
+      "path": "/cushioning/packing-peanuts",
+      "name": "Packing Peanuts",
+      "listingType": "table",
+      "products": 20,
+      "pages": 1
+    },
+    {
+      "path": "/cushioning/reinforced-scrim-paper",
+      "name": "Reinforced Scrim Paper",
+      "listingType": "table",
+      "products": 4,
+      "pages": 1
+    },
+    {
+      "path": "/edge-protectors/do-not-double-stack-edge-protectors",
+      "name": "Do Not Double Stack Edge Protectors",
+      "listingType": "table",
+      "products": 6,
+      "pages": 1
+    },
+    {
+      "path": "/edge-protectors/heavy-duty-edge-protectors",
+      "name": "Heavy Duty Edge Protectors",
+      "listingType": "table",
+      "products": 15,
+      "pages": 1
+    },
+    {
+      "path": "/edge-protectors/light-duty",
+      "name": "Light Duty",
+      "listingType": "table",
+      "products": 21,
+      "pages": 1
+    },
+    {
+      "path": "/edge-protectors/medium-duty",
+      "name": "Medium Duty",
+      "listingType": "table",
+      "products": 22,
+      "pages": 1
+    },
+    {
+      "path": "/edge-protectors/strapping-edge-protectors",
+      "name": "Strapping Edge Protectors",
+      "listingType": "table",
+      "products": 7,
+      "pages": 1
+    },
+    {
+      "path": "/gloves/cotton/canvas-gloves",
+      "name": "Canvas Gloves",
+      "listingType": "grid",
+      "products": 14,
+      "pages": 2
+    },
+    {
+      "path": "/gloves/cotton/chore-gloves",
+      "name": "Chore Gloves",
+      "listingType": "grid",
+      "products": 4,
+      "pages": 1
+    },
+    {
+      "path": "/gloves/cotton/cotton-lisle",
+      "name": "Cotton Lisle",
+      "listingType": "grid",
+      "products": 7,
+      "pages": 1
+    },
+    {
+      "path": "/gloves/cotton/hot-mill-double-palm",
+      "name": "Hot Mill/Double Palm",
+      "listingType": "grid",
+      "products": 18,
+      "pages": 2
+    },
+    {
+      "path": "/gloves/cotton/jersey-gloves",
+      "name": "Jersey Gloves",
+      "listingType": "grid",
+      "products": 18,
+      "pages": 2
+    },
+    {
+      "path": "/gloves/cotton/nylon",
+      "name": "Nylon",
+      "listingType": "grid",
+      "products": 6,
+      "pages": 1
+    },
+    {
+      "path": "/gloves/cotton/terry-cloth",
+      "name": "Terry Cloth",
+      "listingType": "grid",
+      "products": 9,
+      "pages": 1
+    },
+    {
+      "path": "/gloves/disposable/chloroprene",
+      "name": "Chloroprene",
+      "listingType": "grid",
+      "products": 1,
+      "pages": 1
+    },
+    {
+      "path": "/gloves/disposable/latex",
+      "name": "Latex",
+      "listingType": "grid",
+      "products": 16,
+      "pages": 2
+    },
+    {
+      "path": "/gloves/disposable/nitrile",
+      "name": "Nitrile",
+      "listingType": "grid",
+      "products": 19,
+      "pages": 2
+    },
+    {
+      "path": "/gloves/disposable/poly-gloves",
+      "name": "Poly Gloves",
+      "listingType": "grid",
+      "products": 7,
+      "pages": 1
+    },
+    {
+      "path": "/gloves/disposable/vinyl",
+      "name": "Vinyl",
+      "listingType": "grid",
+      "products": 12,
+      "pages": 1
+    },
+    {
+      "path": "/gloves/leather/double-leather-palm",
+      "name": "Double Leather Palm",
+      "listingType": "grid",
+      "products": 11,
+      "pages": 1
+    },
+    {
+      "path": "/gloves/leather/leather-driver",
+      "name": "Leather Driver",
+      "listingType": "grid",
+      "products": 28,
+      "pages": 3
+    },
+    {
+      "path": "/gloves/leather/leather-palm",
+      "name": "Leather Palm",
+      "listingType": "grid",
+      "products": 25,
+      "pages": 3
+    },
+    {
+      "path": "/gloves/leather/lined-leather",
+      "name": "Lined Leather",
+      "listingType": "grid",
+      "products": 24,
+      "pages": 2
+    },
+    {
+      "path": "/gloves/mechanics",
+      "name": "Mechanics",
+      "listingType": "grid",
+      "products": 7,
+      "pages": 2
+    },
+    {
+      "path": "/gloves/palm-dipped/atlas-supported",
+      "name": "Atlas Supported",
+      "listingType": "grid",
+      "products": 14,
+      "pages": 2
+    },
+    {
+      "path": "/gloves/palm-dipped/cut-resistant",
+      "name": "Cut Resistant",
+      "listingType": "grid",
+      "products": 12,
+      "pages": 1
+    },
+    {
+      "path": "/gloves/palm-dipped/latex",
+      "name": "Latex",
+      "listingType": "grid",
+      "products": 10,
+      "pages": 1
+    },
+    {
+      "path": "/gloves/palm-dipped/nitrile-coated",
+      "name": "Nitrile Coated",
+      "listingType": "grid",
+      "products": 6,
+      "pages": 1
+    },
+    {
+      "path": "/gloves/palm-dipped/pu-coated",
+      "name": "PU Coated",
+      "listingType": "grid",
+      "products": 9,
+      "pages": 1
+    },
+    {
+      "path": "/gloves/string-knit/coated",
+      "name": "Coated",
+      "listingType": "grid",
+      "products": 10,
+      "pages": 1
+    },
+    {
+      "path": "/gloves/string-knit/multi-purpose",
+      "name": "Multi-Purpose",
+      "listingType": "grid",
+      "products": 16,
+      "pages": 2
+    },
+    {
+      "path": "/gloves/supported/nitrile-coated",
+      "name": "Nitrile Coated",
+      "listingType": "grid",
+      "products": 7,
+      "pages": 1
+    },
+    {
+      "path": "/gloves/supported/pvc-dipped",
+      "name": "PVC Dipped",
+      "listingType": "grid",
+      "products": 53,
+      "pages": 5
+    },
+    {
+      "path": "/gloves/supported/rubber-coated",
+      "name": "Rubber Coated",
+      "listingType": "grid",
+      "products": 6,
+      "pages": 1
+    },
+    {
+      "path": "/gloves/unsupported/neoprene-and-latex",
+      "name": "Neoprene and Latex",
+      "listingType": "grid",
+      "products": 9,
+      "pages": 1
+    },
+    {
+      "path": "/gloves/unsupported/nitrile",
+      "name": "Nitrile",
+      "listingType": "grid",
+      "products": 5,
+      "pages": 1
+    },
+    {
+      "path": "/gloves/unsupported/rubber",
+      "name": "Rubber",
+      "listingType": "grid",
+      "products": 3,
+      "pages": 1
+    },
+    {
+      "path": "/gloves/welding",
+      "name": "Welding",
+      "listingType": "grid",
+      "products": 7,
+      "pages": 1
+    },
+    {
+      "path": "/janitorial/bathroom-cleaners/air-fresheners",
+      "name": "Air Fresheners",
+      "listingType": "grid",
+      "products": 7,
+      "pages": 1
+    },
+    {
+      "path": "/janitorial/bathroom-cleaners/toilet-bowl-cleaners",
+      "name": "Toilet Bowl Cleaners",
+      "listingType": "grid",
+      "products": 13,
+      "pages": 2
+    },
+    {
+      "path": "/janitorial/bathroom-cleaners/urinal",
+      "name": "Urinal",
+      "listingType": "grid",
+      "products": 8,
+      "pages": 1
+    },
+    {
+      "path": "/janitorial/breakroom/disposable-cups",
+      "name": "Disposable Cups",
+      "listingType": "grid",
+      "products": 10,
+      "pages": 1
+    },
+    {
+      "path": "/janitorial/breakroom/napkins",
+      "name": "Napkins",
+      "listingType": "grid",
+      "products": 6,
+      "pages": 1
+    },
+    {
+      "path": "/janitorial/breakroom/plates-and-bowls",
+      "name": "Plates and Bowls",
+      "listingType": "grid",
+      "products": 7,
+      "pages": 1
+    },
+    {
+      "path": "/janitorial/breakroom/utensils",
+      "name": "Utensils",
+      "listingType": "grid",
+      "products": 10,
+      "pages": 1
+    },
+    {
+      "path": "/janitorial/chemicals/all-purpose-cleaners",
+      "name": "All Purpose Cleaners",
+      "listingType": "grid",
+      "products": 22,
+      "pages": 2
+    },
+    {
+      "path": "/janitorial/chemicals/cleaning-wipes",
+      "name": "Cleaning Wipes",
+      "listingType": "grid",
+      "products": 1,
+      "pages": 1
+    },
+    {
+      "path": "/janitorial/equipment/brooms",
+      "name": "Brooms",
+      "listingType": "grid",
+      "products": 21,
+      "pages": 2
+    },
+    {
+      "path": "/janitorial/equipment/dust-mops",
+      "name": "Dust Mops",
+      "listingType": "grid",
+      "products": 8,
+      "pages": 1
+    },
+    {
+      "path": "/janitorial/equipment/mop-heads-and-buckets",
+      "name": "Mop Heads and Buckets",
+      "listingType": "grid",
+      "products": 23,
+      "pages": 2
+    },
+    {
+      "path": "/janitorial/equipment/pads",
+      "name": "Pads",
+      "listingType": "grid",
+      "products": 4,
+      "pages": 1
+    },
+    {
+      "path": "/janitorial/equipment/spray-bottles",
+      "name": "Spray Bottles",
+      "listingType": "grid",
+      "products": 5,
+      "pages": 1
+    },
+    {
+      "path": "/janitorial/facial-tissue",
+      "name": "Facial Tissue",
+      "listingType": "grid",
+      "products": 5,
+      "pages": 1
+    },
+    {
+      "path": "/janitorial/paper-towels/centerpull-towels",
+      "name": "Centerpull Towels",
+      "listingType": "grid",
+      "products": 4,
+      "pages": 1
+    },
+    {
+      "path": "/janitorial/paper-towels/dispensers",
+      "name": "Dispensers",
+      "listingType": "grid",
+      "products": 16,
+      "pages": 2
+    },
+    {
+      "path": "/janitorial/paper-towels/hardwound-roll-towels",
+      "name": "Hardwound Roll Towels",
+      "listingType": "grid",
+      "products": 20,
+      "pages": 2
+    },
+    {
+      "path": "/janitorial/paper-towels/kitchen-roll-towels",
+      "name": "Kitchen Roll Towels",
+      "listingType": "grid",
+      "products": 1,
+      "pages": 1
+    },
+    {
+      "path": "/janitorial/paper-towels/multifold",
+      "name": "Multifold",
+      "listingType": "grid",
+      "products": 9,
+      "pages": 1
+    },
+    {
+      "path": "/janitorial/soap-and-dispensers/dispensers",
+      "name": "Dispensers",
+      "listingType": "grid",
+      "products": 11,
+      "pages": 1
+    },
+    {
+      "path": "/janitorial/soap-and-dispensers/hand-soap",
+      "name": "Hand Soap",
+      "listingType": "grid",
+      "products": 34,
+      "pages": 3
+    },
+    {
+      "path": "/janitorial/toilet-paper/jumbo-rolls",
+      "name": "Jumbo Rolls",
+      "listingType": "grid",
+      "products": 5,
+      "pages": 1
+    },
+    {
+      "path": "/janitorial/toilet-paper/regular-rolls",
+      "name": "Regular Rolls",
+      "listingType": "grid",
+      "products": 11,
+      "pages": 1
+    },
+    {
+      "path": "/janitorial/toilet-seat-covers-and-dispensers",
+      "name": "Toilet Seat Covers and Dispensers",
+      "listingType": "grid",
+      "products": 6,
+      "pages": 1
+    },
+    {
+      "path": "/janitorial/trash-liners/high-density",
+      "name": "High Density",
+      "listingType": "grid",
+      "products": 21,
+      "pages": 2
+    },
+    {
+      "path": "/janitorial/trash-liners/low-density",
+      "name": "Low Density",
+      "listingType": "grid",
+      "products": 15,
+      "pages": 2
+    },
+    {
+      "path": "/janitorial/warehouse-maintenance/floor-sweep",
+      "name": "Floor Sweep",
+      "listingType": "grid",
+      "products": 7,
+      "pages": 1
+    },
+    {
+      "path": "/janitorial/warehouse-maintenance/rags",
+      "name": "Rags",
+      "listingType": "grid",
+      "products": 5,
+      "pages": 1
+    },
+    {
+      "path": "/janitorial/wipers",
+      "name": "Wipers",
+      "listingType": "grid",
+      "products": 8,
+      "pages": 1
+    },
+    {
+      "path": "/labels/direct-thermal-labels/color-tinted",
+      "name": "Color Tinted",
+      "listingType": "table",
+      "products": 4,
+      "pages": 1
+    },
+    {
+      "path": "/labels/direct-thermal-labels/desktop",
+      "name": "Desktop",
+      "listingType": "table",
+      "products": 28,
+      "pages": 1
+    },
+    {
+      "path": "/labels/direct-thermal-labels/fan-fold",
+      "name": "Fan Fold",
+      "listingType": "table",
+      "products": 4,
+      "pages": 1
+    },
+    {
+      "path": "/labels/direct-thermal-labels/white",
+      "name": "White",
+      "listingType": "table",
+      "products": 11,
+      "pages": 1
+    },
+    {
+      "path": "/labels/laser-labels",
+      "name": "Laser Labels",
+      "listingType": "table",
+      "products": 15,
+      "pages": 1
+    },
+    {
+      "path": "/labels/premium-ribbons/datamax-printer-ribbons",
+      "name": "Datamax Printer Ribbons",
+      "listingType": "table",
+      "products": 15,
+      "pages": 1
+    },
+    {
+      "path": "/labels/premium-ribbons/intermec-printer-ribbons",
+      "name": "Intermec Printer Ribbons",
+      "listingType": "table",
+      "products": 4,
+      "pages": 1
+    },
+    {
+      "path": "/labels/premium-ribbons/sato-printer-ribbons",
+      "name": "Sato Printer Ribbons",
+      "listingType": "table",
+      "products": 13,
+      "pages": 1
+    },
+    {
+      "path": "/labels/premium-ribbons/zebra-printer-ribbons",
+      "name": "Zebra Printer Ribbons",
+      "listingType": "table",
+      "products": 27,
+      "pages": 1
+    },
+    {
+      "path": "/labels/stock-printed-labels/anti-static",
+      "name": "Anti-Static",
+      "listingType": "grid",
+      "products": 23,
+      "pages": 2
+    },
+    {
+      "path": "/labels/stock-printed-labels/arrows",
+      "name": "Arrows",
+      "listingType": "grid",
+      "products": 21,
+      "pages": 2
+    },
+    {
+      "path": "/labels/stock-printed-labels/climate",
+      "name": "Climate",
+      "listingType": "grid",
+      "products": 35,
+      "pages": 3
+    },
+    {
+      "path": "/labels/stock-printed-labels/consumer-commodity",
+      "name": "Consumer Commodity",
+      "listingType": "grid",
+      "products": 10,
+      "pages": 1
+    },
+    {
+      "path": "/labels/stock-printed-labels/do-not",
+      "name": "Do Not",
+      "listingType": "grid",
+      "products": 87,
+      "pages": 8
+    },
+    {
+      "path": "/labels/stock-printed-labels/enclosed",
+      "name": "Enclosed",
+      "listingType": "grid",
+      "products": 22,
+      "pages": 2
+    },
+    {
+      "path": "/labels/stock-printed-labels/english-and-spanish",
+      "name": "English and Spanish",
+      "listingType": "grid",
+      "products": 7,
+      "pages": 1
+    },
+    {
+      "path": "/labels/stock-printed-labels/fragile",
+      "name": "Fragile",
+      "listingType": "grid",
+      "products": 97,
+      "pages": 9
+    },
+    {
+      "path": "/labels/stock-printed-labels/hazmat-labels",
+      "name": "Hazmat Labels",
+      "listingType": "grid",
+      "products": 62,
+      "pages": 6
+    },
+    {
+      "path": "/labels/stock-printed-labels/inventory",
+      "name": "Inventory",
+      "listingType": "grid",
+      "products": 91,
+      "pages": 8
+    },
+    {
+      "path": "/labels/stock-printed-labels/made-in-america",
+      "name": "Made in America",
+      "listingType": "grid",
+      "products": 6,
+      "pages": 1
+    },
+    {
+      "path": "/labels/stock-printed-labels/mixed",
+      "name": "Mixed",
+      "listingType": "grid",
+      "products": 15,
+      "pages": 2
+    },
+    {
+      "path": "/labels/stock-printed-labels/month-day-numbers",
+      "name": "Month / Day / Numbers",
+      "listingType": "grid",
+      "products": 91,
+      "pages": 8
+    },
+    {
+      "path": "/labels/stock-printed-labels/pallet-protection",
+      "name": "Pallet Protection",
+      "listingType": "grid",
+      "products": 32,
+      "pages": 3
+    },
+    {
+      "path": "/labels/stock-printed-labels/shipping-and-receiving",
+      "name": "Shipping and Receiving",
+      "listingType": "grid",
+      "products": 92,
+      "pages": 8
+    },
+    {
+      "path": "/labels/thermal-transfer-labels/color-fan-fold",
+      "name": "Color Fan Fold",
+      "listingType": "table",
+      "products": 7,
+      "pages": 1
+    },
+    {
+      "path": "/labels/thermal-transfer-labels/color-tinted",
+      "name": "Color Tinted",
+      "listingType": "table",
+      "products": 29,
+      "pages": 1
+    },
+    {
+      "path": "/labels/thermal-transfer-labels/desktop",
+      "name": "Desktop",
+      "listingType": "table",
+      "products": 25,
+      "pages": 1
+    },
+    {
+      "path": "/labels/thermal-transfer-labels/fan-fold",
+      "name": "Fan Fold",
+      "listingType": "table",
+      "products": 10,
+      "pages": 1
+    },
+    {
+      "path": "/labels/thermal-transfer-labels/white",
+      "name": "White",
+      "listingType": "table",
+      "products": 48,
+      "pages": 1
+    },
+    {
+      "path": "/machines",
+      "name": "Machines",
+      "listingType": "grid",
+      "products": 11,
+      "pages": 1
+    },
+    {
+      "path": "/mailers/anti-static-bubble-pouches",
+      "name": "Anti-Static Bubble Pouches",
+      "listingType": "table",
+      "products": 14,
+      "pages": 1
+    },
+    {
+      "path": "/mailers/bubble-pouches",
+      "name": "Bubble Pouches",
+      "listingType": "table",
+      "products": 14,
+      "pages": 1
+    },
+    {
+      "path": "/mailers/kraft-bubble-mailers",
+      "name": "Kraft Bubble Mailers",
+      "listingType": "table",
+      "products": 10,
+      "pages": 1
+    },
+    {
+      "path": "/mailers/poly-bubble-mailers",
+      "name": "Poly Bubble Mailers",
+      "listingType": "table",
+      "products": 10,
+      "pages": 1
+    },
+    {
+      "path": "/mailers/poly-mailers",
+      "name": "Poly Mailers",
+      "listingType": "table",
+      "products": 8,
+      "pages": 1
+    },
+    {
+      "path": "/mailing-tubes/end-caps",
+      "name": "End Caps",
+      "listingType": "table",
+      "products": 5,
+      "pages": 1
+    },
+    {
+      "path": "/mailing-tubes/kraft-mailing-tubes",
+      "name": "Kraft Mailing Tubes",
+      "listingType": "table",
+      "products": 21,
+      "pages": 1
+    },
+    {
+      "path": "/packing-list-envelopes/clear",
+      "name": "Clear",
+      "listingType": "table",
+      "products": 19,
+      "pages": 1
+    },
+    {
+      "path": "/packing-list-envelopes/invoice-enclosed",
+      "name": "Invoice Enclosed",
+      "listingType": "table",
+      "products": 7,
+      "pages": 1
+    },
+    {
+      "path": "/packing-list-envelopes/packing-list-enclosed",
+      "name": "Packing List Enclosed",
+      "listingType": "table",
+      "products": 17,
+      "pages": 1
+    },
+    {
+      "path": "/poly-sheeting/black-poly-sheeting",
+      "name": "Black Poly Sheeting",
+      "listingType": "table",
+      "products": 20,
+      "pages": 1
+    },
+    {
+      "path": "/poly-sheeting/clear-poly-sheeting",
+      "name": "Clear Poly Sheeting",
+      "listingType": "table",
+      "products": 34,
+      "pages": 1
+    },
+    {
+      "path": "/poly-sheeting/flame-retardant",
+      "name": "Flame Retardant",
+      "listingType": "table",
+      "products": 7,
+      "pages": 1
+    },
+    {
+      "path": "/poly-sheeting/paint-and-acoustic-film",
+      "name": "Paint and Acoustic Film",
+      "listingType": "table",
+      "products": 15,
+      "pages": 1
+    },
+    {
+      "path": "/rope-and-twine/1-2-lb-tube-braided-nylon-seine-twine",
+      "name": "1/2 LB Tube Braided Nylon Seine Twine",
+      "listingType": "table",
+      "products": 10,
+      "pages": 1
+    },
+    {
+      "path": "/rope-and-twine/1-2-lb-tube-twisted-nylon-seine-twine",
+      "name": "1/2 LB Tube Twisted Nylon Seine Twine",
+      "listingType": "table",
+      "products": 10,
+      "pages": 1
+    },
+    {
+      "path": "/rope-and-twine/1-4-lb-tube-braided-nylon-seine-twine",
+      "name": "1/4 LB Tube Braided Nylon Seine Twine",
+      "listingType": "table",
+      "products": 10,
+      "pages": 1
+    },
+    {
+      "path": "/rope-and-twine/1-4-lb-tube-twisted-nylon-seine-twine",
+      "name": "1/4 LB Tube Twisted Nylon Seine Twine",
+      "listingType": "table",
+      "products": 10,
+      "pages": 1
+    },
+    {
+      "path": "/rope-and-twine/1-lb-tube-braided-nylon-seine-twine",
+      "name": "1 LB Tube Braided Nylon Seine Twine",
+      "listingType": "table",
+      "products": 10,
+      "pages": 1
+    },
+    {
+      "path": "/rope-and-twine/1-lb-tube-twisted-nylon-seine-twine",
+      "name": "1 LB Tube Twisted Nylon Seine Twine",
+      "listingType": "table",
+      "products": 9,
+      "pages": 1
+    },
+    {
+      "path": "/rope-and-twine/1-ply-industrial-poly-tying-twine",
+      "name": "1 Ply Industrial Poly Tying Twine",
+      "listingType": "table",
+      "products": 14,
+      "pages": 1
+    },
+    {
+      "path": "/rope-and-twine/california-truck-rope",
+      "name": "California Truck Rope",
+      "listingType": "table",
+      "products": 8,
+      "pages": 1
+    },
+    {
+      "path": "/rope-and-twine/combo-rope",
+      "name": "Combo Rope",
+      "listingType": "table",
+      "products": 15,
+      "pages": 1
+    },
+    {
+      "path": "/rope-and-twine/herculine-cable-measuring-pull-tape",
+      "name": "Herculine Cable Measuring Pull Tape",
+      "listingType": "table",
+      "products": 11,
+      "pages": 1
+    },
+    {
+      "path": "/rope-and-twine/solid-braid-rope",
+      "name": "Solid Braid Rope",
+      "listingType": "table",
+      "products": 12,
+      "pages": 1
+    },
+    {
+      "path": "/rope-and-twine/utility-conduit-pull-twine",
+      "name": "Utility Conduit Pull Twine",
+      "listingType": "grid",
+      "products": 4,
+      "pages": 1
+    },
+    {
+      "path": "/rope-and-twine/yellow-poly-3-strand-twisted",
+      "name": "Yellow Poly 3 Strand Twisted",
+      "listingType": "table",
+      "products": 24,
+      "pages": 1
+    },
+    {
+      "path": "/safety/aprons-and-back-support",
+      "name": "Aprons and Back Support",
+      "listingType": "grid",
+      "products": 30,
+      "pages": 3
+    },
+    {
+      "path": "/safety/coverall-and-lab-coats",
+      "name": "Coverall and Lab Coats",
+      "listingType": "grid",
+      "products": 17,
+      "pages": 2
+    },
+    {
+      "path": "/safety/ear-protection/ear-muffs",
+      "name": "Ear Muffs",
+      "listingType": "grid",
+      "products": 4,
+      "pages": 1
+    },
+    {
+      "path": "/safety/ear-protection/ear-plugs",
+      "name": "Ear Plugs",
+      "listingType": "grid",
+      "products": 18,
+      "pages": 2
+    },
+    {
+      "path": "/safety/face-masks",
+      "name": "Face Masks",
+      "listingType": "grid",
+      "products": 2,
+      "pages": 1
+    },
+    {
+      "path": "/safety/hair-nets-and-beard-covers/beard-covers",
+      "name": "Beard Covers",
+      "listingType": "grid",
+      "products": 14,
+      "pages": 2
+    },
+    {
+      "path": "/safety/hair-nets-and-beard-covers/bouffant-caps",
+      "name": "Bouffant Caps",
+      "listingType": "grid",
+      "products": 20,
+      "pages": 2
+    },
+    {
+      "path": "/safety/hair-nets-and-beard-covers/hair-nets",
+      "name": "Hair Nets",
+      "listingType": "grid",
+      "products": 14,
+      "pages": 2
+    },
+    {
+      "path": "/safety/hard-hats",
+      "name": "Hard Hats",
+      "listingType": "grid",
+      "products": 30,
+      "pages": 3
+    },
+    {
+      "path": "/safety/rainwear",
+      "name": "Rainwear",
+      "listingType": "grid",
+      "products": 17,
+      "pages": 2
+    },
+    {
+      "path": "/safety/safety-glasses-and-goggles",
+      "name": "Safety Glasses and Goggles",
+      "listingType": "grid",
+      "products": 42,
+      "pages": 4
+    },
+    {
+      "path": "/safety/safety-vests",
+      "name": "Safety Vests",
+      "listingType": "grid",
+      "products": 15,
+      "pages": 2
+    },
+    {
+      "path": "/safety/shoe-protection/boots",
+      "name": "Boots",
+      "listingType": "grid",
+      "products": 12,
+      "pages": 1
+    },
+    {
+      "path": "/safety/shoe-protection/disposable-shoe-covers",
+      "name": "Disposable Shoe Covers",
+      "listingType": "grid",
+      "products": 11,
+      "pages": 1
+    },
+    {
+      "path": "/safety/sleeves",
+      "name": "Sleeves",
+      "listingType": "grid",
+      "products": 22,
+      "pages": 2
+    },
+    {
+      "path": "/strapping/baling-wire/automatic-skid-lots",
+      "name": "Automatic Skid Lots",
+      "listingType": "table",
+      "products": 3,
+      "pages": 1
+    },
+    {
+      "path": "/strapping/baling-wire/hand-tie",
+      "name": "Hand Tie",
+      "listingType": "table",
+      "products": 30,
+      "pages": 1
+    },
+    {
+      "path": "/strapping/cord-strapping/bonded",
+      "name": "Bonded",
+      "listingType": "table",
+      "products": 7,
+      "pages": 1
+    },
+    {
+      "path": "/strapping/cord-strapping/composite",
+      "name": "Composite",
+      "listingType": "table",
+      "products": 10,
+      "pages": 1
+    },
+    {
+      "path": "/strapping/cord-strapping/cord-strapping-kits",
+      "name": "Cord Strapping Kits",
+      "listingType": "table",
+      "products": 2,
+      "pages": 1
+    },
+    {
+      "path": "/strapping/cord-strapping/heavy-duty-woven",
+      "name": "Heavy Duty Woven",
+      "listingType": "table",
+      "products": 30,
+      "pages": 1
+    },
+    {
+      "path": "/strapping/cord-strapping/regular-duty-woven",
+      "name": "Regular Duty Woven",
+      "listingType": "table",
+      "products": 5,
+      "pages": 1
+    },
+    {
+      "path": "/strapping/magazine-seals",
+      "name": "Magazine Seals",
+      "listingType": "table",
+      "products": 3,
+      "pages": 1
+    },
+    {
+      "path": "/strapping/metal-seals-for-plastic-strapping",
+      "name": "Metal Seals for Plastic Strapping",
+      "listingType": "table",
+      "products": 12,
+      "pages": 1
+    },
+    {
+      "path": "/strapping/plastic-buckles-for-poly-strapping",
+      "name": "Plastic Buckles for Poly Strapping",
+      "listingType": "table",
+      "products": 2,
+      "pages": 1
+    },
+    {
+      "path": "/strapping/plastic-strapping/poly/hand-grade",
+      "name": "Hand Grade",
+      "listingType": "table",
+      "products": 37,
+      "pages": 1
+    },
+    {
+      "path": "/strapping/plastic-strapping/poly/machine-grade",
+      "name": "Machine Grade",
+      "listingType": "table",
+      "products": 82,
+      "pages": 1
+    },
+    {
+      "path": "/strapping/plastic-strapping/poly/signode-comparable",
+      "name": "Signode Comparable",
+      "listingType": "table",
+      "products": 33,
+      "pages": 1
+    },
+    {
+      "path": "/strapping/plastic-strapping/polyester/embossed-machine-grade",
+      "name": "Embossed Machine Grade",
+      "listingType": "table",
+      "products": 3,
+      "pages": 1
+    },
+    {
+      "path": "/strapping/plastic-strapping/polyester/hand-grade",
+      "name": "Hand Grade",
+      "listingType": "table",
+      "products": 25,
+      "pages": 1
+    },
+    {
+      "path": "/strapping/plastic-strapping/polyester/machine-grade",
+      "name": "Machine Grade",
+      "listingType": "table",
+      "products": 12,
+      "pages": 1
+    },
+    {
+      "path": "/strapping/plastic-strapping/polyester/signode-comparable",
+      "name": "Signode Comparable",
+      "listingType": "table",
+      "products": 3,
+      "pages": 1
+    },
+    {
+      "path": "/strapping/steel-buckles-for-plastic-and-cord-strap/galvanized-finished-buckles",
+      "name": "Galvanized Finished Buckles",
+      "listingType": "table",
+      "products": 5,
+      "pages": 1
+    },
+    {
+      "path": "/strapping/steel-buckles-for-plastic-and-cord-strap/phosphate-finished-buckles",
+      "name": "Phosphate Finished Buckles",
+      "listingType": "table",
+      "products": 12,
+      "pages": 1
+    },
+    {
+      "path": "/strapping/steel-strap-seals/heavy-duty-steel-seals",
+      "name": "Heavy Duty Steel Seals",
+      "listingType": "table",
+      "products": 6,
+      "pages": 1
+    },
+    {
+      "path": "/strapping/steel-strap-seals/regular-duty-steel-seals",
+      "name": "Regular Duty Steel Seals",
+      "listingType": "table",
+      "products": 16,
+      "pages": 1
+    },
+    {
+      "path": "/strapping/steel/heavy-duty",
+      "name": "Heavy Duty",
+      "listingType": "table",
+      "products": 6,
+      "pages": 1
+    },
+    {
+      "path": "/strapping/steel/high-tensile",
+      "name": "High Tensile",
+      "listingType": "table",
+      "products": 14,
+      "pages": 1
+    },
+    {
+      "path": "/strapping/steel/mini-coils",
+      "name": "Mini Coils",
+      "listingType": "table",
+      "products": 3,
+      "pages": 1
+    },
+    {
+      "path": "/strapping/steel/regular-duty",
+      "name": "Regular Duty",
+      "listingType": "table",
+      "products": 16,
+      "pages": 1
+    },
+    {
+      "path": "/strapping/steel/zinc-coated",
+      "name": "Zinc Coated",
+      "listingType": "table",
+      "products": 6,
+      "pages": 1
+    },
+    {
+      "path": "/stretch-film/hand-film/banding-film",
+      "name": "Banding Film",
+      "listingType": "table",
+      "products": 5,
+      "pages": 1
+    },
+    {
+      "path": "/stretch-film/hand-film/blown",
+      "name": "Blown",
+      "listingType": "table",
+      "products": 9,
+      "pages": 1
+    },
+    {
+      "path": "/stretch-film/hand-film/bulk-pre-stretched",
+      "name": "Bulk Pre-Stretched",
+      "listingType": "table",
+      "products": 5,
+      "pages": 1
+    },
+    {
+      "path": "/stretch-film/hand-film/cast",
+      "name": "Cast",
+      "listingType": "table",
+      "products": 16,
+      "pages": 1
+    },
+    {
+      "path": "/stretch-film/hand-film/color-tinted",
+      "name": "Color Tinted",
+      "listingType": "table",
+      "products": 18,
+      "pages": 1
+    },
+    {
+      "path": "/stretch-film/hand-film/extended-core",
+      "name": "Extended Core",
+      "listingType": "table",
+      "products": 5,
+      "pages": 1
+    },
+    {
+      "path": "/stretch-film/hand-film/loadstar-ultra",
+      "name": "LoadStar Ultra",
+      "listingType": "table",
+      "products": 6,
+      "pages": 1
+    },
+    {
+      "path": "/stretch-film/hand-film/pre-stretched",
+      "name": "Pre-Stretched",
+      "listingType": "table",
+      "products": 7,
+      "pages": 1
+    },
+    {
+      "path": "/stretch-film/hand-film/spartan",
+      "name": "Spartan",
+      "listingType": "table",
+      "products": 2,
+      "pages": 1
+    },
+    {
+      "path": "/stretch-film/hand-film/torque",
+      "name": "Torque",
+      "listingType": "table",
+      "products": 5,
+      "pages": 1
+    },
+    {
+      "path": "/stretch-film/machine-film/blown",
+      "name": "Blown",
+      "listingType": "table",
+      "products": 4,
+      "pages": 1
+    },
+    {
+      "path": "/stretch-film/machine-film/cast",
+      "name": "Cast",
+      "listingType": "table",
+      "products": 20,
+      "pages": 1
+    },
+    {
+      "path": "/stretch-film/machine-film/color-tinted",
+      "name": "Color Tinted",
+      "listingType": "table",
+      "products": 12,
+      "pages": 1
+    },
+    {
+      "path": "/stretch-film/machine-film/loadstar-ultra",
+      "name": "LoadStar Ultra",
+      "listingType": "table",
+      "products": 13,
+      "pages": 1
+    },
+    {
+      "path": "/stretch-film/machine-film/nexus",
+      "name": "Nexus",
+      "listingType": "table",
+      "products": 5,
+      "pages": 1
+    },
+    {
+      "path": "/stretch-film/machine-film/ultimate-force",
+      "name": "Ultimate Force",
+      "listingType": "table",
+      "products": 18,
+      "pages": 1
+    },
+    {
+      "path": "/stretch-film/machine-film/uvi-film",
+      "name": "UVI Film",
+      "listingType": "table",
+      "products": 1,
+      "pages": 1
+    },
+    {
+      "path": "/tape/acrylic-tape/acrylic-colors",
+      "name": "Acrylic Colors",
+      "listingType": "table",
+      "products": 11,
+      "pages": 1
+    },
+    {
+      "path": "/tape/acrylic-tape/mighty-tac-acrylic",
+      "name": "Mighty Tac Acrylic",
+      "listingType": "table",
+      "products": 12,
+      "pages": 1
+    },
+    {
+      "path": "/tape/acrylic-tape/pre-printed-tape",
+      "name": "Pre-Printed Tape",
+      "listingType": "table",
+      "products": 4,
+      "pages": 1
+    },
+    {
+      "path": "/tape/acrylic-tape/premium-acrylic",
+      "name": "Premium Acrylic",
+      "listingType": "table",
+      "products": 27,
+      "pages": 1
+    },
+    {
+      "path": "/tape/carton-sealing-tape/hot-melt-tape",
+      "name": "Hot Melt Tape",
+      "listingType": "table",
+      "products": 18,
+      "pages": 1
+    },
+    {
+      "path": "/tape/carton-sealing-tape/label-protection-tape",
+      "name": "Label Protection Tape",
+      "listingType": "table",
+      "products": 2,
+      "pages": 1
+    },
+    {
+      "path": "/tape/carton-sealing-tape/natural-rubber",
+      "name": "Natural Rubber",
+      "listingType": "table",
+      "products": 2,
+      "pages": 1
+    },
+    {
+      "path": "/tape/duct-tape",
+      "name": "Duct Tape",
+      "listingType": "table",
+      "products": 6,
+      "pages": 1
+    },
+    {
+      "path": "/tape/masking-tape/economy-grade",
+      "name": "Economy Grade",
+      "listingType": "table",
+      "products": 7,
+      "pages": 1
+    },
+    {
+      "path": "/tape/masking-tape/general-purpose",
+      "name": "General Purpose",
+      "listingType": "table",
+      "products": 6,
+      "pages": 1
+    },
+    {
+      "path": "/tape/masking-tape/painters-grade-tape",
+      "name": "Painters Grade Tape",
+      "listingType": "table",
+      "products": 8,
+      "pages": 1
+    },
+    {
+      "path": "/tape/paper-tape/flatback-kraft-paper-tape",
+      "name": "Flatback Kraft Paper Tape",
+      "listingType": "table",
+      "products": 2,
+      "pages": 1
+    },
+    {
+      "path": "/tape/paper-tape/water-activated-tape",
+      "name": "Water Activated Tape",
+      "listingType": "table",
+      "products": 8,
+      "pages": 1
+    },
+    {
+      "path": "/tape/strapping-tape/black-strapping-tape",
+      "name": "Black Strapping Tape",
+      "listingType": "table",
+      "products": 3,
+      "pages": 1
+    },
+    {
+      "path": "/tape/strapping-tape/filament-strapping-tape-190",
+      "name": "Filament Strapping Tape 190#",
+      "listingType": "table",
+      "products": 6,
+      "pages": 1
+    },
+    {
+      "path": "/tape/strapping-tape/filament-strapping-tape-300",
+      "name": "Filament Strapping Tape 300#",
+      "listingType": "table",
+      "products": 6,
+      "pages": 1
+    },
+    {
+      "path": "/tape/strapping-tape/filament-strapping-tape-utility-grade",
+      "name": "Filament Strapping Tape - Utility Grade",
+      "listingType": "table",
+      "products": 9,
+      "pages": 1
+    },
+    {
+      "path": "/tape/tape-dispensers",
+      "name": "Tape Dispensers",
+      "listingType": "grid",
+      "products": 19,
+      "pages": 2
+    },
+    {
+      "path": "/tarps-and-pallet-covers/bin-liners",
+      "name": "Bin Liners",
+      "listingType": "table",
+      "products": 3,
+      "pages": 1
+    },
+    {
+      "path": "/tarps-and-pallet-covers/bun-rack-covers",
+      "name": "Bun Rack Covers",
+      "listingType": "table",
+      "products": 1,
+      "pages": 1
+    },
+    {
+      "path": "/tarps-and-pallet-covers/drywall-covers",
+      "name": "Drywall Covers",
+      "listingType": "table",
+      "products": 6,
+      "pages": 1
+    },
+    {
+      "path": "/tarps-and-pallet-covers/lumber-bags-and-covers",
+      "name": "Lumber Bags and Covers",
+      "listingType": "table",
+      "products": 4,
+      "pages": 1
+    },
+    {
+      "path": "/tarps-and-pallet-covers/pallet-covers",
+      "name": "Pallet Covers",
+      "listingType": "table",
+      "products": 8,
+      "pages": 1
+    },
+    {
+      "path": "/tarps-and-pallet-covers/tarps-and-tarp-straps",
+      "name": "Tarps and Tarp Straps",
+      "listingType": "table",
+      "products": 10,
+      "pages": 1
+    },
+    {
+      "path": "/tools/bubble-dispensers",
+      "name": "Bubble Dispensers",
+      "listingType": "grid",
+      "products": 25,
+      "pages": 3
+    },
+    {
+      "path": "/tools/cord-strapping-tools",
+      "name": "Cord Strapping Tools",
+      "listingType": "grid",
+      "products": 12,
+      "pages": 1
+    },
+    {
+      "path": "/tools/kraft-paper-dispensers",
+      "name": "Kraft Paper Dispensers",
+      "listingType": "grid",
+      "products": 27,
+      "pages": 3
+    },
+    {
+      "path": "/tools/plastic-strapping-tools/battery-powered-tools",
+      "name": "Battery Powered Tools",
+      "listingType": "grid",
+      "products": 12,
+      "pages": 1
+    },
+    {
+      "path": "/tools/plastic-strapping-tools/fromm-tools",
+      "name": "Fromm Tools",
+      "listingType": "grid",
+      "products": 8,
+      "pages": 1
+    },
+    {
+      "path": "/tools/plastic-strapping-tools/orgapack-brand",
+      "name": "Orgapack Brand",
+      "listingType": "grid",
+      "products": 19,
+      "pages": 2
+    },
+    {
+      "path": "/tools/plastic-strapping-tools/plastic-strap-tensioners",
+      "name": "Plastic Strap Tensioners",
+      "listingType": "grid",
+      "products": 10,
+      "pages": 1
+    },
+    {
+      "path": "/tools/plastic-strapping-tools/pneumatic-power-tools",
+      "name": "Pneumatic Power Tools",
+      "listingType": "grid",
+      "products": 5,
+      "pages": 1
+    },
+    {
+      "path": "/tools/plastic-strapping-tools/polyester-strapping-sealers",
+      "name": "Polyester Strapping Sealers",
+      "listingType": "grid",
+      "products": 16,
+      "pages": 2
+    },
+    {
+      "path": "/tools/plastic-strapping-tools/polypropylene-strapping-sealers",
+      "name": "Polypropylene Strapping Sealers",
+      "listingType": "grid",
+      "products": 16,
+      "pages": 2
+    },
+    {
+      "path": "/tools/plastic-strapping-tools/teknika-plastic-strapping-tools",
+      "name": "Teknika Plastic Strapping Tools",
+      "listingType": "grid",
+      "products": 14,
+      "pages": 2
+    },
+    {
+      "path": "/tools/steel-strapping-tools/combination-tools/steel-manual-combination-tools",
+      "name": "Steel Manual Combination Tools",
+      "listingType": "grid",
+      "products": 9,
+      "pages": 1
+    },
+    {
+      "path": "/tools/steel-strapping-tools/combination-tools/steel-pneumatic-combination-tools",
+      "name": "Steel Pneumatic Combination Tools",
+      "listingType": "grid",
+      "products": 14,
+      "pages": 2
+    },
+    {
+      "path": "/tools/steel-strapping-tools/fromm-tools",
+      "name": "Fromm Tools",
+      "listingType": "grid",
+      "products": 17,
+      "pages": 2
+    },
+    {
+      "path": "/tools/steel-strapping-tools/orgapack-brand",
+      "name": "Orgapack Brand",
+      "listingType": "grid",
+      "products": 14,
+      "pages": 3
+    },
+    {
+      "path": "/tools/steel-strapping-tools/pneumatic-sealers",
+      "name": "Pneumatic Sealers",
+      "listingType": "grid",
+      "products": 6,
+      "pages": 1
+    },
+    {
+      "path": "/tools/steel-strapping-tools/pneumatic-tensioners",
+      "name": "Pneumatic Tensioners",
+      "listingType": "grid",
+      "products": 4,
+      "pages": 1
+    },
+    {
+      "path": "/tools/steel-strapping-tools/steel-battery-operated-tools",
+      "name": "Steel Battery Operated Tools",
+      "listingType": "grid",
+      "products": 13,
+      "pages": 2
+    },
+    {
+      "path": "/tools/steel-strapping-tools/steel-manual-sealers",
+      "name": "Steel Manual Sealers",
+      "listingType": "grid",
+      "products": 18,
+      "pages": 2
+    },
+    {
+      "path": "/tools/steel-strapping-tools/steel-manual-tensioners",
+      "name": "Steel Manual Tensioners",
+      "listingType": "grid",
+      "products": 15,
+      "pages": 2
+    },
+    {
+      "path": "/tools/steel-strapping-tools/steel-strapping-cutters",
+      "name": "Steel Strapping Cutters",
+      "listingType": "grid",
+      "products": 3,
+      "pages": 1
+    },
+    {
+      "path": "/tools/steel-strapping-tools/teknika-steel-strapping-tools",
+      "name": "Teknika Steel Strapping Tools",
+      "listingType": "grid",
+      "products": 10,
+      "pages": 1
+    },
+    {
+      "path": "/tools/strap-dispensers",
+      "name": "Strap Dispensers",
+      "listingType": "grid",
+      "products": 23,
+      "pages": 2
+    },
+    {
+      "path": "/tools/stretch-film-dispensers",
+      "name": "Stretch Film Dispensers",
+      "listingType": "grid",
+      "products": 18,
+      "pages": 2
+    }
+  ],
+  "completeness": {
+    "categoriesChecked": 367,
+    "mismatches": [
+      {
+        "path": "/strapping/steel-buckles-for-plastic-and-cord-strap/phosphate-finished-buckles",
+        "listed": 12,
+        "captured": 12,
+        "missing": [
+          "BF1940C"
+        ]
+      },
+      {
+        "path": "/corrugated-boxes/lightweight-32-ect/24-26-inch-boxes",
+        "listed": 79,
+        "captured": 77,
+        "missing": [
+          "23BF235",
+          "23BF265"
+        ]
+      }
+    ]
+  },
+  "productsMissingFields": [
+    {
+      "id": "6734",
+      "sku": "22BN645",
+      "path": "/corrugated-boxes/200-pound-test/18-23-inch-boxes/corrugated-boxes-20-x-14-x-10-200-lb",
+      "missing": [
+        "description/specs"
+      ]
+    },
+    {
+      "id": "2096",
+      "sku": "23BF235",
+      "path": "/corrugated-boxes/lightweight-32-ect/24-26-inch-boxes/corrugated-boxes-24-x-12-x-12",
+      "missing": [
+        "detail-page"
+      ]
+    },
+    {
+      "id": "2126",
+      "sku": "23BF265",
+      "path": "/corrugated-boxes/lightweight-32-ect/24-26-inch-boxes/corrugated-boxes-24-x-24-x-6",
+      "missing": [
+        "detail-page"
+      ]
+    }
+  ]
+}
